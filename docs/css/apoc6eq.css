@@ -319,16 +319,16 @@ div#table_container {
 #apoc6_eq_table tr > *:nth-child(14) { width: 1.5em; }                  /* FLAGS */
 #apoc6_eq_table tr > *:nth-child(15) { width: .75em; }                  /* AP */
 #apoc6_eq_table tr > *:nth-child(16) { width: 1em; }                    /* AVGD */
-#apoc6_eq_table tr > *:nth-child(17) { width: 1em; }                    /* DAM TYPE */
-#apoc6_eq_table tr > *:nth-child(18) { width: 2em; }                    /* avail sockets */
-#apoc6_eq_table tr > *:nth-child(19) { width: 2em; }                    /* req sockets */
-#apoc6_eq_table tr > *:nth-child(20) { width: 2em; }                    /* MOB */
-#apoc6_eq_table tr > *:nth-child(21) { width: 2em; }                    /* ZONE */
-#apoc6_eq_table tr > *:nth-child(22) { width: .75em; }                    /* NOID */
-#apoc6_eq_table tr > *:nth-child(23) { width: 2em; }                    /* NOTES */
-#apoc6_eq_table tr > *:nth-child(24) { width: 1em; }                    /* weight */
-#apoc6_eq_table tr > *:nth-child(25) { width: 1em; }                    /* value */
-#apoc6_eq_table tr > *:nth-child(26) { width: 1em; }                    /* rent */
-
+#apoc6_eq_table tr > *:nth-child(17) { width: 1em; }                    /* DAM DICE */
+#apoc6_eq_table tr > *:nth-child(18) { width: 2em; }                    /* DAM TYPE */
+#apoc6_eq_table tr > *:nth-child(19) { width: 2em; }                    /* avail sockets */
+#apoc6_eq_table tr > *:nth-child(20) { width: 2em; }                    /* req sockets */
+#apoc6_eq_table tr > *:nth-child(21) { width: 2em; }                    /* MOB */
+#apoc6_eq_table tr > *:nth-child(22) { width: .75em; }                  /* ZONE */
+#apoc6_eq_table tr > *:nth-child(23) { width: 2em; }                    /* NOID */
+#apoc6_eq_table tr > *:nth-child(24) { width: 1em; }                    /* NOTES */
+#apoc6_eq_table tr > *:nth-child(25) { width: 1em; }                    /* weight */
+#apoc6_eq_table tr > *:nth-child(26) { width: 1em; }                    /* value */
+#apoc6_eq_table tr > *:nth-child(27) { width: 1em; }                    /* rent */
 
 
