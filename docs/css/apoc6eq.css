@@ -10,6 +10,7 @@ html {
 .gCol { color: mediumblue; }
 .eCol { color: firebrick; }
 .nCol { color: grey; }
+.wCol { color: darkorange; }
 
 input {
     max-width: calc(100% - 5px);
@@ -289,24 +290,11 @@ div#table_container {
     display: none;
 }
 
-/* 
-#apoc6_eq_table tr > *:nth-child(2),
-#apoc6_eq_table tr > *:nth-child(7),
-#apoc6_eq_table tr > *:nth-child(18),
-#apoc6_eq_table tr > *:nth-child(19),
-#apoc6_eq_table tr > *:nth-child(24),
-#apoc6_eq_table tr > *:nth-child(25),
-#apoc6_eq_table tr > *:nth-child(26)
-{
-    display: none;
-}
- */
-
 
 #apoc6_eq_table tr > *:nth-child(1) { width: 5em; text-align: left; }   /* NAME */
-#apoc6_eq_table tr > *:nth-child(2) { width: 1.5em; }                     /* type */
+#apoc6_eq_table tr > *:nth-child(2) { width: 1.5em; }                   /* type */
 #apoc6_eq_table tr > *:nth-child(3) { width: 0.75em;}                   /* ML */
-#apoc6_eq_table tr > *:nth-child(4) { width: 1em;}                    /* SIZE */
+#apoc6_eq_table tr > *:nth-child(4) { width: 1em;}                      /* SIZE */
 #apoc6_eq_table tr > *:nth-child(5) { width: 1.5em;}                    /* SLOT */
 #apoc6_eq_table tr > *:nth-child(6) { width: 2em;}                      /* CLASS */
 #apoc6_eq_table tr > *:nth-child(7) { width: 2em;}                      /* race */
@@ -320,12 +308,12 @@ div#table_container {
 #apoc6_eq_table tr > *:nth-child(15) { width: .75em; }                  /* AP */
 #apoc6_eq_table tr > *:nth-child(16) { width: 1em; }                    /* AVGD */
 #apoc6_eq_table tr > *:nth-child(17) { width: 1em; }                    /* DAM DICE */
-#apoc6_eq_table tr > *:nth-child(18) { width: 1em; }                    /* DAM TYPE */
+#apoc6_eq_table tr > *:nth-child(18) { width: 1.5em; }                  /* type (skill) */
 #apoc6_eq_table tr > *:nth-child(19) { width: 2em; }                    /* avail sockets */
 #apoc6_eq_table tr > *:nth-child(20) { width: 2em; }                    /* req sockets */
 #apoc6_eq_table tr > *:nth-child(21) { width: 2em; }                    /* MOB */
-#apoc6_eq_table tr > *:nth-child(22) { width: 2em; }                  /* ZONE */
-#apoc6_eq_table tr > *:nth-child(23) { width: .75em; }                    /* NOID */
+#apoc6_eq_table tr > *:nth-child(22) { width: 2em; }                    /* ZONE */
+#apoc6_eq_table tr > *:nth-child(23) { width: .75em; }                  /* NOID */
 #apoc6_eq_table tr > *:nth-child(24) { width: 2em; }                    /* NOTES */
 #apoc6_eq_table tr > *:nth-child(25) { width: 1em; }                    /* weight */
 #apoc6_eq_table tr > *:nth-child(26) { width: 1em; }                    /* value */
