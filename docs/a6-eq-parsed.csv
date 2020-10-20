@@ -1,594 +1,820 @@
-NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN FLAGS,ALIGN RES,FLAGS,AP,AVGD,DAM TYPE,avail sockets,req sockets,MOB,ZONE,noid,NOTES,weight,value,rent
-"a Velvet Cape",armor,10,norm,neck,,,1dam 1hit pfe,,,,,,,5,,,,,"The elf sorceress","Goblin Caves",,,25,30000,9000
-"an ice-cold white ash hunting spear",weapon,15,norm,wield,warr rogue,,4hit,50r-cold,10d-cold,,,,2-hand,,20,pierce,,,"Kano, son of Goro","",,,22,55000,5500
-"an adamantine bracelet",armor,25,lrg,wrist,,,2dam 2hit,,,,f-g,,,8,,,,,"Adamantite Guard","Raddok",,,2,8270,8270
-"Moorish bracers",armor,5,spec,arms,,,2dam -1dex,,,,,,,10,,,,,"Caesar","Rome",,,8,25000,4166
-"a jade pendant",worn,5,spec,neck,,,1dam 1con,,,,,,,,,,,,"Caesar","Rome",,,3,25000,2750
-"a long, green cape",armor,10,norm,about,,,1con infra,,,,,,,8,,,,,"An Elite Guard","City of Raddok",,,3,7334,1645
-"a pair of scarlett slippers",armor,0,norm,feet,,,1dex,,,,,,,3,,,,,"","",,,4,780,780
-"a lesser elvin cloak",armor,5,spec,neck,,,-1int imp-invis,,,,,,,6,,,,,"","",,,2,7640,2510
-"a carved wooden ring",armor,5,lrg,finger,,,1dam 1hit,,,,,,,0,,,,,"","",,,3,15000,2500
-"a grey mithril longsword",weapon,0,spec,wield,,,3dam 3hit s-life,,,,,,,,14,slash,,,"Elrohir","Imladris",,,14,120000,30000
-"a pair of adamantine leg plates",armor,15,lrg,legs,,,20mv,,,,,,,10,,,,,"Adamantite Guard","Raddok",,,11,5180,5180
-"an adamantine breast plate",armor,10,lrg,body,,,-30aps,,,,f-g,,,18,,,,,"Adamantite Guard","Raddok",,,12,20000,4280
-"a banded ring",armor,25,lrg,finger,,,30ma 10age d-invis,,,,,,,1,,,,,"Amyrok","Mahn-Tor",,,2,50000,2500
-"a battle-scarred wide leather belt",armor,15,spec,waist,,,1dam 1hit 30hp,,,,,,,6,,,,,"Muri, Honu elder","Darkrime",,,3,55000,6250
-"white furred boots",worn,10,norm,feet,dr warr rogue,,2hit 15hp awalk s-life sneak,,,,,a-e,,,,,,,"Kano, son of Goro","Darkrime",,,5,32000,3200
-"a hooded travelling cloak",worn,20,norm,neck head about,warr priest rogue,,2dex cloak-s,,,,,a-e,,,,,,,"Kano, son of Goro","Darkrime",,,8,65000,6500
-"the Cloak of the Bat",armor,20,norm,about,th fi pa ap ba mo sa ra,,2dex awalk sonar hide invis +40(spook),,,,,a-g,,10,,,,,"Will Scarlet","Nottingham",,,20,60000,15000
-"a deep red sash",armor,20,spec,waist,,,15ma 5ma-gain freeact,,,,,a-g,,6,,,,,"A phantasmal buccaneer","Burning Talon",,,4,74300,6800
-"Captain Fensclow's Coat",armor,25,spec,body,th fi ap ba ra,,2dam -2cha pfg,,5d-fire 5melee-crit-dam,-7sv-spell,,a-g,,12,,,,,"Captain Fensclow","Burning Talon",,,10,96000,9000
-"the Hard Leather Boots",worn,5,norm,feet,fi pa ap sa ra,,1dam 1hit sneak,,,,,a-e,,,,,,,"The mystical dwarf","Goblin Caves",,,25,40000,2000
-"a winged helm",armor,5,norm,head,,,2hit 2dex,,,,,,,10,,,,,"Mercury","Rome",,,5,12000,2000
-"a red samurai helmet",armor,15,norm,head,,,1dam 7hp-gain 1int,,,,,,,9,,,,,"A Samurai Warrior","Forbidden Empire",,,7,31000,3100
-"the spear of Mars",weapon,20,spec,wield,warr,,3dam 3hit,,,,,,,,16,pierce,,,"Mars","Rome",,,20,140000,35000
-"a red loincloth",armor,20,spec,waist,,,10mv 2str 2dex,,,,,a-e,,15,,,,,"Mars","Rome",,,18,100000,16667
-"The Caduceus",staff,5,spec,hold,,,3chrg(lvl17 sovereign heal),,,3h-bonus,,,,,,,,,"Mercury","Rome",,,5,9000,2500
-"The Ancile",armor,30,spec,shield,,,1dam 2dex,,,,,,,3,,,,,"","",,,20,30000,8000
-"a crown made of bones",armor,10,lrg,head,,,1dam,,,,,a-g a-n,,6,,,,,"The Great Goblin","Goblin Caves",,,15,32000,1500
-"a bone staff",staff,5,spec,hold,ma ne wa,,3chrg(lvl16 life leech),,,,,,,,,,,,"The Great Goblin","Goblin Caves",,,13,20000,1150
-"a small band of gold",worn,15,sm,finger,priest,,18ma 5ma-gain 3mv-gain imp-invis invis,-25r-slsh,,,,a-e,,,,,,,"","",,,2,58200,14550
-"silver battle greaves",armor,10,norm,legs,,,-1hit 2con,,,,,,,9,,,,,"in Iron box","Juris",,,6,10430,700
-"White mithril chainmail",armor,15,norm,body,,,20mv,,3d-divn,,,a-e,,12,,,,,"Elrond","Imladris",,,5,80000,20000
-"an elven bracelet",armor,0,spec,wrist,priest wizd,,5ma 1wis,,,,,,,4,,,,,"The Halfling Beauty","Shire",,,3,7200,300
-"The Shield of the Elements",armor,20,spec,shield,warr,,-1hit -1str,25r-fire 25r-elec 25r-cold,,,,,,18,,,,,"A Diamond Golem","College",,,12,36000,5500
-"a glinting silver bracelet",armor,15,spec,wrist,,,2dam,-50r-elec,,,f-n,a-g a-e,,3,,,,,"The Master's apprentice","College",,,5,25000,4500
-"an iron shod staff",weapon,10,spec,wield,,,1dam 3hit,,,,,a-g a-e,,,14,pound,,,"The Master of Neutrality","College",,,7,9000,3000
-"a smoldering fire crystal",light,15,spec,hold,,,,25r-fire,5d-fire,,,,,,,,,,"","",,,5,14500,3000
-"the Light of Juris",light,15,spec,hold,,,1dam 1hit d-invis,,,,,a-e,,,,,,,"","",,,5,22120,1200
-"A book titled, 'Somehow I Manage'",trash,0,sm,,,,,,,,,,no-rent,,,,,,"","",,,1,300,10
-"a heart shaped medallion",armor,0,spec,neck,,,1dam 1wis -1con,,,,,,,3,,,,,"in Altar","College",,,3,8200,1500
-"a tight fitting green dragon scale shirt",armor,20,spec,body,warr rogue,,1dam awalk,,5melee-crit-dam,,,,,8,,,,,"The Grand Mistress","College",,,9,17500,4500
-"a keychain",container,0,spec,hold,,,,,,,,,no-rent,,,,,,"","College",,,8,24000,0
-"a sapphire bracelet",worn,15,norm,wrist,,,10ma -2str,,,,,,,,,,,,"Instructor Vy'Jin","Bonne Terre",,,5,25000,4500
-"an onyx bracelet",armor,15,spec,wrist,,,2dam,-50r-fire,,,f-e,a-g a-n,,3,,,,,"The black robed apprentice","College",,,6,25000,4500
-"a brown cloak",armor,10,spec,neck,,,-15aps,,,-4sv-spell,,,,0,,,,,"in Hallway","College",,,5,4000,2500
-"a traveler's leather backpack",container,15,spec,about,,,6mv-gain 2str -1dex awalk,,,,,,,,,,,,"in hallway","College",,,10,11400,3000
-"a seashell ring",boat,0,spec,finger,,,-1dex 1size,-50r-elec,,,,,,,,,,,"in a traveler's leather backpack","College",,,1,6500,6500
-"a shimmering cloak of many colors",container,20,spec,neck,,,5hp-gain -25aps,,,-5sv-brth -3sv-petri,,,,,,,,,"The Grand Mistress","College",,,5,24500,2500
-"The Staff of Wizardry",weapon,15,norm,wield,ma,,10ma -10mv -1con,,4d-spell 4spell-crit-pct,,,,2-hand   2slot,,14,bludgeon,,,"The Grand Mistress","College",,,14,40000,5800
-"The Mark of Wizardry",worn,25,spec,trinket,wizd,,2ma-gain 2mv-gain,,,-5sv-spell,,,,,,,,,"The Grand Mistress","College",,,1,10000,1000
-"a white cloak",armor,10,spec,neck,,,1dam 1hit -1int -1dex,,,,f-g,a-e a-n,,5,,,,,"The Master of Goodness","College",,,7,15000,3500
-"an ivory hilted sword",weapon,15,spec,wield,,,1dam 2hit,,,,,a-e,,,15,slash,,,"The Master of Goodness","College",,,14,52000,6000
-"an emerald bracelet",armor,20,spec,wrist,ba ra priest,,1dex,,3d-spell,,,,,5,,,,,"The Grand Mistress","College",,,2,31000,3500
-"a white gold bracelet",armor,15,spec,wrist,,,2dam,-50r-cold,,,f-g,a-e a-n,,3,,,,,"The white robed apprentice","College",,,5,25000,4500
-"a dark black cloak",armor,10,spec,neck,,,1dam 1hit s-life,,,5sv-brth 5sv-spell,,a-g a-n,,4,,,,,"The Master of the Black Robes","College",,,8,9000,3500
-"a sharp shard of obsidian",weapon,10,spec,wield,th ap,,3hit 1dex,,,,,a-g,,,14,stab,,,"The Master of the Black Robes","Bonne Terre",,,16,45000,5000
-"a black robe",container,15,spec,about,,,1dam 2hit -1con,,,,,a-g a-n,,,,,,,"Dark Master, The black robed apprentice","College",,,8,15400,3200
-"a grey robe",container,0,spec,about,wizd,,20ma -1str -20aps,,,-5sv-para,,a-g a-e,,,,,,,"The Master's apprentice","College",,,8,12500,2500
-"a diamond encrusted scabbard",worn,20,spec,waist,warr,,1dam -15hp,,,,,,,,,,,,"A Diamond Golem","College",,,4,29000,3500
-"an iron shod staff",weapon,10,spec,wield,,,1dam 3hit,,,,,a-g a-e,,,14,pound,,,"The Master of Neutrality","College",,,7,9000,3000
-"The Cowl of Mysteries",worn,20,norm,neck,warr rogue,,-15hp -1str -1dex sonar +40(spook),,,,,,,,,,,,"A Colossal Wood Golem","College",,,8,25000,4500
-"a ward major",staff,25,spec,hold,cl dr,,20ma  3chrg(lvl40 sanctuary),,,,,,self-chg,,,,,,"The Grand Mistress","College",,,5,20000,8000
-"a white robe",worn,15,spec,neck about,pa mo sa,,,25r-shdw,,,f-g,a-e a-n,,,,,,,"The white robed apprentice","College",,,7,22000,6000
-"a small emerald ring",armor,15,spec,finger,,,15ma,,3d-spell,,,,,3,,,,,"The Grand Mistress","College",,,2,21750,3000
-"a long grey cloak",armor,20,norm,neck,,,3ma-gain sonar freeact hide,-50r-lght,,3sv-spell,,a-g a-e,,8,,,,,"The Master of Neutrality","College",,,7,70000,6000
-"The Legendary Claymore, 'Colossus'",weapon,25,lrg,wield,fi pa be,,2atk-2rd,25r-shdw,,,,a-e,2-hand,,22.5,slash,,,"","",,,34,291000,21500
-"a black tricorne",armor,20,norm,head,,,2dam -2cha 10age,,5d-spell,,,,,8,,,,,"The ghost of Captain Fensclow","Burning Talon",,,7,18000,6300
-"a glass ring",armor,15,norm,finger,,,cloak-s,,5melee-crit-dam,,,,,0,,,,,"in buried treasure chest","Burning Talon",,,1,5150,5150
-"A suit of resplendent plate mail",armor,20,spec,body,fi pa ra dr be,,3dam 2hp-gain 2ma-gain 2mv-gain,,,,f-e,,,20,,,,,"King","Caves of Fire",,,18,142000,6500
-"a dark red cloak",armor,15,norm,neck about,,,5ma-gain 1int,,5spell-crit-dam,,,,,7,,,,,"","",,,1,15000,6110
-"a pair of old boots",armor,10,spec,feet,,,10mv 4mv-gain -1int -1cha,,,,,,,0,,,,,"in Hallway","College",,,2,13000,2500
-"a celestial battle bow",weapon,20,spec,wield,ra,,3hit,,6d-fire,,f-g,a-e,2-hand,,18,chill,,,"A celestial ranger","College",,,17,35000,4500
-"blue mithril plate armor",armor,0,norm,body,,,-25mv,,,,,,,20,,,,,"Elladan, Elrohir","Imladris",,,20,200000,8000
-"a gleaming mithril cutlass",weapon,20,norm,wield,,,1dam 2hit -2int,,,,,,,,20,cut,,,"The Quartermaster","Burning Talon",,,22,48000,3500
-"a set of saurian greaves",armor,15,lrg,legs,,,35hp,,,,,,,6,,,,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,6,20000,5000
-"a saurian blade",weapon,0,lrg,wield,,,,,,,,,,,4.5,slash,,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,13,6500,1500
-"a saurian helm",armor,15,lrg,head,,,1str 1con -35aps,,,,,,,12,,,,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,8,60000,15000
-"a suit of saurian chain mail",armor,10,lrg,body,,,1dam 1wis,,,,,,,16,,,,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,6,20000,5000
-"a shining robe",armor,10,lrg,about,cl mo dr,,2dam 10ma d-align d-invis d-magic s-life,,,,,,,10,,,,,"A Sslee priest","Swamp",,,8,80000,20000
-"a cypress staff",weapon,15,lrg,wield,cl mo dr,,1dam hdream,,,,,a-e a-n,,,12.5,bludgeon,,,"A Sslee priest","Swamp",,,13,120000,30000
-"a silver hammer of wanton destruction",weapon,30,spec,wield,ma cl fi pa dr,,2atk-2rd 2dam -2hit -2wis,,,,,a-e,2slot,,18,crush,,,"","",,,15,174240,43560
-"The Wall of Man",armor,20,lrg,shield,fi pa sa,,2dam,25r-cold,,,,,,18,,,,,"Hadrian the Fighter","Vault",,,8,26500,5250
-"a golden cloak",armor,10,lrg,neck about,,,2dam -35aps,,,,f-g,,,12,,,,,"The Gold Guard","City of Raddok",,,8,6570,6570
-"an obsidian shield",armor,20,spec,shield,,,,,,,,,,25,,,,,"An Obsidian Guard","Mt Hate",,,5,54000,5400
-"a golden battle axe",weapon,15,lrg,wield,,,1dam 2hit 2con s-life,,,,f-g,,,,16,slash,,,"The Gold Guard","City of Raddok",,,13,17821,6550
-"a hunting horn",armor,10,spec,neck hold,,,1dam 2str,,,,,,,3,,,,,"The huntsman","Bonne Terre",,,1,24042,2442
-"A Pair of Black Dragon Scale Boots",armor,25,spec,feet,warr rogue,,5hp-gain -2cha awalk sonar,,,-8sv-brth,f-e,a-g,,12,,,,,"","",,,7,72332,12300
-"a pair of red samurai gauntlets",armor,10,norm,hands,,,1dam 1hit,,,,,,,12,,,,,"A Samurai Warrior","Forbidden Empire",,,4,28000,3500
-"a azure tinted leather armband",armor,25,spec,arms,fi ba sa ra,,2dam,25r-fire,5d-cold,,,a-e,,10,,,,,"The spirit of a wastelands captive","Burning Talon",,,5,38000,8500
-"a rose vine cord",armor,5,spec,neck head,,,20ma 1wis,,2spell-crit-pct,,,,,0,,,,,"Wilhelm the Druid","Vault",,,1,21293,1960
-"The Book of Particles",other,0,spec,hold,,,+40(sleep),,,,,,2slot,,,,,,"A will-o-wisp","College",,,4,35000,4500
-"The Book of Disconjunction",other,0,spec,hold,,,+40(dispel magic),,,,,,2slot,,,,,,"Someone","College",,,4,29000,6000
-"a long black cape",armor,20,norm,neck,,,cloak-s hide pfg sneak,-25r-lght,,-15sv-brth -15sv-spell,,,,10,,,,,"","",,,1,93239,9229
-"the Crystal Necklace of Knowledge",worn,5,spec,neck,,,20ma 2int 2wis,,,,,,,,,,,,"","",,,5,75000,8333
-"a white veil",armor,5,spec,head,,,15mv d-invis,,,,,,,2,,,,,"","",,,7,1780,1780
-"boots of striding",armor,10,lrg,feet,,,30mv,,,,,,,5,,,,,"","",,,4,45000,4500
-"tattooed red palms",worn,15,spec,hands,,,21ma -2ma-gain 1con,,,,,,d-curs,,,,,,"Gelsa, Honu witch","Darkrime",,,1,72000,7200
-"a tattoo of a jaguar",worn,15,spec,neck arms,,,15mv 3mv-gain haste,,,,,,,,,,,,"Muri, Honu elder","",,,1,20000,2000
-"a shield of Roc feathers",armor,20,spec,shield,,,25ma 4mv-gain 1dex awalk,,,,,a-g,,14,,,,,"","",,,9,35000,5500
-"a silver and gold bracelet",worn,5,spec,wrist,,,-2dam 25ma curse,,,,,,curs,,,,,,"Venus","Rome",,,4,50000,5000
-"a Bloodstone",worn,5,spec,hold,cl mo dr,,-8hp 5ma 1wis 1age haste,,,,,,,,,,,,"The alchemist","Goblin Caves",,,2,750,80
-"a jade ring",armor,20,norm,finger,ma cl,,25ma 15age haste,,3d-spell,,,,,2,,,,,"","",,,1,7480,7480
-"a pair of brown cavalier boots",armor,20,spec,feet,,,2dam,15r-elec,5d-cold,,,,,10,,,,,"The Quartermaster","Burning Talon",,,7,23500,7000
-"An imperial issue katana",weapon,15,spec,wield,,,20mv 5mv-gain,,,,,a-e,,,17,slash,,,"A Samurai Warrior","Forbidden Empire",,,16,45000,6750
-"woven leather vambraces",armor,10,norm,arms,,,,15r-pois,,,,,,15,,,,,"The huntsman","Bonne Terre",,,2,13031,1331
-"philtre of peony",potion,0,spec,,,,lvl23(heal critic),,,,,,,,,,,,"Woodsman","Bonne Terre",,,1,1020,1020
-"philtre of spikenard",potion,0,spec,,,,lvl30(sleep/dreamsight),,,,,,,,,,,,"Woodsman","Bonne Terre",,,1,750,750
-"philtre of sandalwood",potion,0,spec,,,,lvl20(heal light/dispel magic/spook),,,,,,,,,,,,"Woodsman","Bonne Terre",,,1,1530,1530
-"the black horns of the minotaur",armor,30,spec,hold,,,3dam 3hit,,,,f-e,a-g,,0,,,,,"Black Minotaur","",,,7,125000,6000
-"a pair of red samurai gauntlets",armor,10,norm,hands,,,1dam 1hit,,,,,,,12,,,,,"A Samurai Warrior","Forbidden Empire",,,4,28000,3500
-"a pair of red samurai arm plates",armor,15,norm,arms,,,1dam 1con,,,,,,,6,,,,,"A Samurai Warrior","Forbidden Empire",,,5,16300,1630
-"a suit of red samurai armor",armor,15,norm,body,,,2dam -2dex,,,5sv-spell,,,,16,,,,,"A Samurai Warrior","Forbidden Empire",,,12,48000,5200
-"a warrior's scarf",armor,25,norm,head,warr,,2dam 20hp 1str d-invis s-life,,,,,a-e,,2,,,,,"Cu Chulainn","Tuatha de Danaan",,,1,70000,17500
-"a glittering armband",armor,15,norm,arms,dr warr,,1dam 2dex 3cha,,,,,a-e,,10,,,,,"Cu Chulainn","Tuatha de Danaan",,,4,32000,8000
-"an enormous spear named Gae Bolg",weapon,20,spec,wield,warr,,3dam 3hit,,,,,a-e,,,18,pierce,,,"","",,,20,140000,35000
-"A headdress made from antlers and leaves",armor,25,norm,head,dr,,hdream,,4d-spell,2h-bonus,,a-e,,2,,,,,"The Woodland Goddess Flidais","Tuatha de Danaan",,,1,70000,17500
-"a large wooden mallet",weapon,15,spec,wield,,,,,,,,,,,13.5,bludgeon,,,"The Woodland Goddess Flidais","Tuatha de Danaan",,,24,15000,3750
-"silver battle bracers",armor,10,norm,arms,,,27hp -1str,,,,,,,8,,,,,"in Iron box","Juris",,,6,11430,1000
-"silver battle helmet",armor,10,norm,head,,,awalk infra,,,,,,,7,,,,,"in Iron box","Juris",,,7,10780,1000
-"a golden net",armor,25,spec,hold,,,,25r-slsh -25r-pier -25r-blgn,,,,,curs,0,,,,,"Grigori","Vrolok",,,7,74047,9779
-"A crescent moon talisman",armor,10,norm,neck,wa,,10hp 5ma-gain -2str,,,,,a-g a-n,,3,,,,,"Shaela Necramosa","Astyll Hills",,,2,0,0
-"a pair of wire rimmed spectacles",armor,20,lrg,head,,,4int 4wis d-magic,,,,,,,0,,,,,"Amyrok","Mahn-Tor",,,2,25000,2500
-"a gnarled magius staff",weapon,5,lrg,wield,ma,,3dam 3hit,,,,,,,,6,bludgeon,,,"Amyrok","Mahn-Tor",,,10,53510,25000
-"a scale mail shirt",armor,0,norm,body,,,-25aps,,,,,,,7,,,,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,12,2350,980
-"a scale mail skirt",armor,0,norm,legs,,,,,,,,,,5,,,,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,11,1220,1220
-"a minor globe of invulnerability ",other,15,lrg,hold,priest wizd,,,,,-5sv-brth -5sv-spell,,,,,,,,,"Amyrok","Mahn-Tor",,,1,50000,7500
-"a girdle of many pouches",container,5,lrg,waist,,,,,,,,,,,,,,,"Amyrok","Mahn-Tor",,,5,15000,1500
-"a wooden shield",armor,0,spec,shield,,,5hp -10aps,,,,,,,5,,,,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,4,1250,600
-"a sharpened short sword",weapon,0,norm,wield hold,,,1hit,,,,,,,,6,pierce,,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,13,2400,1170
-"an Angel's Belt",armor,20,spec,waist,,,1dam 1hit 30hp,,,,f-g,a-e,,5,,,,,"","",,,4,82450,4500
-"an ebony torc",wand,0,norm,neck hold,,,5chrg(lvl5 magic missile),,,,,,,,,,,,"","",,,1,4000,1000
-"some ethereal shackles",armor,10,spec,legs wrist,,,-2dex,,,,,,curs,3,,,,,"The spirit of a wastelands captive, A skeletal prisoner","Burning Talon",,,5,1000,1000
-"a jar full of pixie dust",light,0,spec,hold,,,,,,,,,no-rent,,,,,,"quest item","Pixie Glade",,,1,0,0
-"Pixie Wing",treasure,0,spec,,,,,,,,,,no-rent,,,,,,"A Pixie Mage, A Pixie Cleric, A Pixie Warrior","Pixie Glade",,,1,1000,1
-"a wand of firebolts",wand,0,sm,hold,,,3chrg(lvl16 firebolt),,3d-fire,,,,,,,,,,"quest prize","Pixie Glade",,,7,1690,500
-"a pair of silver gauntlets",armor,25,spec,hands,th fi pa ba sa be,,3dam 1hit sustain,,,,,,,5,,,,,"in southern vault","Vault",,,2,63222,8960
-"a Tome of Focused Thoughts",staff,30,norm,hold,,,25ma 2int  3chrg(lvl40 word of recall) +20(teleport minor),,,,,,,,,,,,"","Aurvuron: The Gray Citadel",,,10,20000,5000
-"the titan's chain mail",armor,20,gnt,body,,,3str,,,-2sv-spell,,a-g,,17,,,,,"","",,,12,80000,20000
-"a pewter ring",armor,5,spec,finger,,,10hp 1dex,,,,,,,5,,,,,"The Nobleman","Rome",,,1,15000,2500
-"a polished, maroon breastplate",armor,10,spec,body,warr,,1dam 10hp -25aps,,,,,a-e,,16,,,,,"An Elite Guard","City of Raddok",,,9,8920,2100
-"a long sword",weapon,0,spec,wield,,,,,,,,,,,4.5,slash,,,"The Nobleman, The gateguard, A royal bodyguard, Caesar, The master scheduler, The judge, The doctor","Rome",,,8,1200,120
-"a musty scroll",scroll,5,spec,hold,,,lvl1(blindness),,,,,,,,,,,,"Caesar","Rome",,,2,5000,833
-"the quenched sword",weapon,0,norm,wield hold,,,,,,,,,,,5,slash,,,"Caesar","Rome",,,8,957,1666
-"a bronze breast plate",armor,0,spec,body,,,,,,,,,,6,,,,,"A royal bodyguard","Rome",,,50,700,10
-"a pair of iron greaves",armor,10,norm,legs,,,1hit 1dex -1con,,,,,,,7,,,,,"An Elite Guard, Malag","City of Raddok",,,6,7633,1250
-"a shield",armor,0,spec,shield,,,1str,,,,,,,6,,,,,"A royal bodyguard, The doctor","Rome",,,3,1000,600
-"a heavy wooden club",weapon,30,lrg,wield,,,4dam 2str,,,,,a-g a-n,2-hand,,20,bludgeon,,,"","",,,20,60000,15000
-"a blackened dagger named Quicksilver",weapon,10,spec,wield hold,th ba,,3dam 3hit 2dex,,,,,,,,12.5,pierce,,,"Will Scarlet","Nottingham",,,9,80000,20000
-"an Astral amulet",armor,20,spec,neck hold,ma cl mo dr ne,,15mv awalk d-invis imp-invis,,,,,,,0,,,,,"The basilisk","Nottingham",,,15,64000,16000
-"a leather money belt",armor,5,norm,waist,,,2int  +20(locate object),,,,,a-g,,0,,,,,"The Taxmaster","Nottingham",,,5,20000,5000
-"a radiant steel cutlass",weapon,0,spec,wield hold,,,1dam 2hit,,,,,,,,7.5,slash,,,"The Rook Captain","Canticle",,,13,3500,1520
-"the key to the Canticle",key,0,spec,neck hold,,,,,,,,,no-rent,,,,,,"The Rook Captain","Canticle",,,1,100,100
-"a spellcaster's manual",other,5,spec,hold,ma cl dr ne wa,,2ma 2ma-gain -1con,,2d-spell,,,,,,,,,,"A Rook Spellcaster","Canticle",,,5,3500,2000
-"a steel cutlass",weapon,0,spec,wield hold,,,1dam 1hit,,,,,,,,5,slash,,,"A Rook Footsoldier","Canticle",,,13,3500,1520
-"an iron mace",weapon,0,spec,wield,priest,,6ma,,,,,,,,5,bludgeon,,,"A Rook Priest","Canticle",,,11,3500,2000
-"a pale blue veil",armor,5,spec,head,,,15ma s-life,,,,,,,2,,,,,"A soothsayer","Bonne Terre",,,7,2630,2630
-"a cobalt key on a neck chain",key,0,spec,neck hold,,,,,,,,,no-rent,,,,,,"The Quartermaster","Burning Talon",,,1,100,100
-"a tarnished serpent headed bracelet",armor,15,spec,wrist,ap wa,,25ma,,5d-pois 5d-gas,5gas_dmg,,,,5,,,,,"A ghastly enchanter","Burning Talon",,,3,18000,4600
-"a tarnished key",key,0,spec,neck hold,,,,,,,,,no-rent,,,,,,"The ghost of Captain Fensclow","Burning Talon",,,1,100,100
-"a mystical warder's emblem",worn,20,spec,trinket,,,,25r-divn,,,,,,,,,,,"in Buried Chest","Burning Talon",,,1,35000,3500
-"a shinobi cloak",armor,15,norm,about,,,1dam 1dex hide,,3melee-crit-dam,,,,,4,,,,,"A Shinobi Assassin","Forbidden Empire",,,8,29000,2100
-"a red woolen cloak",armor,0,norm,about,,,,,,,,,,8,,,,,"","",,,7,5000,1250
-"a sweet-smelling herbal potion",potion,0,spec,,,,lvl15(cure critic/cure critic/cure critic),,,,,,,,,,,,"A Sslee priest","Swamp",,,1,2400,600
-"An obsidian long sword",weapon,5,norm,wield,,,,,,,,,,,14,slash,,,"An Obsidian Guard","Mt Hate",,,14,48020,9604
-"a pair of obsidian gauntlets",armor,15,lrg,hands,,,,,,,,,,15,,,,,"An Obsidian Guard","Mt Hate",,,5,2000,500
-"the iron mask of sorrow",armor,0,spec,head,,,-20mv sonar curse silence,,,,,,curs,1,,,,,"The king of trees","Tarin",,,7,16000,4000
-"a silver hoop earring",armor,20,norm,head,ap ba be,,2dam 15hp d-align,,,,,a-g,,3,,,,,"A phantasmal buccaneer, A skeletal prisoner","Burning Talon",,,4,40000,8200
-"a tiny vial of arcanaloth blood",enchnt-mat,0,spec,,,,4ma,,,,,,,,,,,,random,random,,,1,3,2000
-"a bent cutlass",weapon,5,spec,hold,,,3hit -1cha,,,,,,,,10,slash,,,"A swashbuckling spectre","Burning Talon",,,0,3400,100
-"a gaijin katana",weapon,15,norm,wield,fi sa be,,2dam 1hit,,,,,,,,17.5,pierce,,,"A Ronin","Forbidden Empire",,,14,39000,6500
-"a black wakizashi",weapon,10,norm,wield,th ap sa,,3dam 2hit hide,,4melee-crit-dam,,,,,,5.5,pierce,,,"A Shinobi Assassin","Forbidden Empire",,,14,15000,1500
-"a cary coat",armor,0,norm,about,,,,,,,,,,7,,,,,"","",,,5,10000,2500
-"a spool of copper wire",enchnt-mat,0,spec,,,,,20r-elec,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a pair of mossy green tights",armor,0,norm,legs,,,2hit,,,,,,,6,,,,,"","",,,12,28000,7000
-"a pair of leather shin guards",armor,0,spec,legs,,,,,,,,,,3,,,,,"An inexperienced trainee, A trainee, A reserved trainee","Training Grounds",,,3,435,180
-"an old long bow",weapon,0,spec,wield,,,,,,,,,2-hand,,3.5,pierce,,,"","",,,5,100,50
-"a withered long bow",weapon,0,spec,wield,,,,,,,,,2-hand,,3.5,pierce,,,"An honorable trainee","Training Grounds",,,5,100,50
-"the Taskmaster's gloves",armor,0,spec,hands,,,6hp,,,,,,,2,,,,,"","",,,2,1000,100
-"some dirty cotton gloves",armor,0,spec,hands,,,1con -1cha,,,,,,,2,,,,,"A trainee, An honorable trainee, An inexperienced trainee, A reserved trainee","Training Grounds",,,5,100,50
-"a single broken sabaton",armor,0,spec,feet,,,,,,,,,,2,,,,,"An inexperienced trainee, A trainee, An honorable trainee, A reserved trainee","Training Grounds",,,5,280,100
-"a suit of battered leather armor",armor,0,spec,body,,,10aps,,,,,,,4,,,,,"An honorable trainee, An inexperienced trainee","Training Grounds",,,5,400,200
-"a small wooden mace",weapon,0,spec,wield,,,,,,,,,,,2.5,bludgeon,,,"An inexperienced trainee","Training Grounds",,,3,500,150
-"a suit of dented plate mail armor",armor,0,spec,body,,,8aps,,,,,,,7,,,,,"An inexperienced trainee, A trainee","Training Grounds",,,8,900,250
-"a sacrificial dagger",weapon,0,spec,wield hold,,,2dam 2hit,,,,,,,,3,pierce,,,"","",,,13,1560,1560
-"a suit of camouflage armor",armor,30,norm,body,ra,,1dam cloak-s,,,,,,,6,,,,,"The Ranger Lieutenant","Sylvan Jungle",,,6,35000,8750
-"a dull long sword",weapon,0,spec,wield,,,,,,,,,,,3.5,slash,,,"A trainee","Training Grounds",,,8,1200,280
-"a small dagger",weapon,0,spec,wield,,,,,,,,,,,2.5,pierce,,,"An inexperienced trainee","Training Grounds",,,3,680,250
-"a ragged suit of leather armor",armor,0,spec,body,,,,,,,,,,3,,,,,"","",,,5,100,50
-"a long iron axe",weapon,0,spec,wield,,,,,,,,,2-hand,,3.5,slash,,,"A reserved trainee","Training Grounds",,,12,1200,400
-"A ring of the Order of the Rose",treasure,0,spec,,,,,,,,,a-g a-e,no-rent,,,,,,"The Guildmaster","Midgaard",,,1,0,0
-"A training weapon",weapon,0,spec,,,,,,,,,,,,0,hit,,,"A reserved trainee, An inexperienced trainee, A trainee, An honorable trainee","Training Grounds",,,0,0,0
-"The Taskmaster's Sword",weapon,0,spec,wield hold,ma cl th fi ba ra dr be warr priest wizd rogue,,2hp-gain 2ma-gain,,,,,,,,5,slash,,,"","",,,5,900,350
-"a rusty iron helm",armor,0,spec,head,,,,,,,,,,6,,,,,"The goblin soldier","Goblin Caves",,,15,3200,450
-"a rusty breast plate",armor,0,spec,body,,,,,,,,,,7,,,,,"The goblin soldier, The goblin guard","Goblin Caves",,,40,25000,3500
-"a Double-bladed Battle Axe",weapon,10,lrg,wield,fi pa ap mo sa ra,,2dam 2str,,,,f-e,,2-hand,,12,slash,,,"The goblin soldier, The goblin guard","Goblin Caves",,,16,51607,7525
-"a rusty iron shield",armor,0,spec,shield,,,,,,,,,,7,,,,,"The goblin soldier","Goblin Caves",,,20,3500,650
-"a Goblin Blade",weapon,5,norm,wield,,,2dam,,,,,,,,9,slash,,,"The goblin soldier","Goblin Caves",,,7,3610,300
-"a Two-handed Goblin Blade",weapon,5,lrg,wield,,,,,,,,,2-hand,,12.5,slash,,,"The goblin soldier","Goblin Caves",,,14,14744,850
-"A muddy fin",armor,5,spec,about,,,2dex waterwalk,,,,,,,2,,,,,"","",,,0,0,0
-"an elven shortbow",weapon,0,spec,wield,,,3dam -3hit,,,,,,,,7.5,pierce,,,"Elladan","Imladris",,,5,20000,5000
-"a Fragile Elm Branch",worn,10,spec,hold,ma ne wa,,25ma,,,3sv-spell,,,,,,,,,"The elf sorceress","Goblin Caves",,,7,28600,4000
-"a Light Crossbow",weapon,5,spec,wield,,,1dam 3hit,,,,,,2-hand,,13.5,pierce,,,"The slavemaster","Goblin Caves",,,12,15610,900
-"a Scroll of Earthquake",scroll,0,spec,hold,,,lvl7(earthquake),,,,,,,,,,,,"The Great Goblin","Goblin Caves",,,4,4575,750
-"an overflowing Vial",potion,0,spec,,,,lvl12(protection from evil/dispel evil),,,,,,,,,,,,"The alchemist","Goblin Caves",,,0,0,0
-"a smoking potion",potion,0,spec,,,,1age  lvl6(armor/bless/cure light),,,,,,,,,,,,"The alchemist","Goblin Caves",,,0,0,0
-"a bloody hide",armor,20,spec,about,,,30ma -3cha pfe,,,6h-bonus,,,,10,,,,,"","",,,8,7950,7950
-"Nighthawk's Cowl",armor,25,spec,head,,,1dam 2int sonar,5r-pois,,,f-n,,,10,,,,,"The Ranger Commander","Sylvan Jungle",,,7,60105,9009
-"the Bangor Hunter's bow",weapon,25,norm,wield,ra,,2dam 1con,,,,,a-e,2-hand,,21,pierce,,,"","",,,16,65000,6500
-"a pair of woodland boots",armor,5,norm,feet,th ba ra be,,1hit 10mv 1dex,,,,,,,4,,,,,"","",,,4,20400,1800
-"a worn leather vest",armor,20,norm,body,ra,,2dam 2dex -1cha,,,,,,,8,,,,,"","",,,12,36700,3580
-"a well-oiled mahogany bracelet",armor,15,norm,wrist,ba mo ra dr,,2dam 1con,,,,,,,8,,,,,"Kells","Midgaard",,,2,52000,5160
-"a wooden cross",armor,5,norm,neck hold,,,1int 1wis 15age,,,,f-g,,,4,,,,,"","",,,1,2480,2480
-"a carved ivory ring",armor,5,norm,finger,,,1dam 1hit,,,,,a-e,,9,,,,,"","",,,1,24100,2400
-"Nighthawk's Cowl",armor,25,spec,head,,,1dam 2int sonar,5r-pois,,,f-n,,,10,,,,,"The Ranger Commander","Sylvan Jungle",,,7,60105,9009
-"a raptor talon",treasure,0,spec,,,,,,,,,,,,,,,,"A young raptor broodling, A large cave raptor","Sylvan Jungle",,,7,40000,4000
-"a raptor tooth",treasure,0,spec,,,,,,,,,,,,,,,,"A young raptor broodling, A large cave raptor","Sylvan Jungle",,,4,40000,4000
-"a green-tipped dagger",weapon,10,spec,wield hold,th ra dr,,3hit 2dex,,6d-pois,,,,,,12.5,pierce,,,"Ayla Sephoria","Sylvan Jungle",,,9,80000,20000
-"the Bow of the Huntress",weapon,20,spec,wield,ra,,3dam 6ma-gain 3int 2wis,,,,,a-e,2-hand,,24,pierce,,,"Ayla Sephoria","Sylvan Jungle",,,24,160000,40000
-"A shimmering translucent orb",undefined,0,spec,,,,,,,,,,,,,,,,"","",,,0,0,0
-"a large ivory tusk",treasure,0,spec,,,,,,,,,,,,,,,,"An elephant","Sylvan Jungle",,,30,70000,6000
-"a large zakarashi poison vial",poison,30,spec,hold,,,,,,,,,,,,,,,"A Shinobi Assassin","Forbidden Empire",,,0,30000,10000
-"enchanted infernal flamberge",weapon,0,spec,wield,,,-1dam 20hp,25r-divn,,,f-e,a-g a-n,2-hand,,12.5,slash,,,random,random,,,32,15,2000
-"enchanted infernal flamberge",weapon,0,spec,wield,,,-1dam 20hp,25r-divn,,,f-e,a-g a-n,2-hand,,12.5,slash,4sock(1-d1 1-d2 1prof),,random,random,,,32,15,2000
-"two dungeon master one-sided dice",enchnt-mat,0,spec,,,,,,,,,,,,,,,,random,random,,,1,15,3000
-"two dungeon master one-sided dice",enchnt-mat,0,spec,,,,2-d1 1-d2,,,,,,,,,,,2sock(2-d1 1-d2),random,random,,,1,15,3000
-"a stack of steel plates",enchnt-mat,0,spec,,,,1ac,,,,,,,,,,,1sock(1ac),random,random,,,1,3,2000
-"a weak glass prism",enchnt-mat,0,spec,,,,,,1d-lght,,,,,,,,,,random,random,,,1,3,2000
-"a weak glass prism",enchnt-mat,0,spec,,,,,,1d-lght,,,,,,,,,1sock,random,random,,,1,3,2000
-"a dungeon master's golden dice set",enchnt-mat,0,spec,,,,2-d1 2-d2,,,,,,,,,,,2sock(2-d1 2-d2),random,random,,,1,25,3000
-"a spool of copper wire",enchnt-mat,0,spec,,,,,20r-elec,,,,,,,,,,1sock,random,random,,,1,3,2000
-"the thain girth",armor,5,sm,waist,,,1con,,,,,,,4,,,,,"The Thain","Shire",,,2,4500,200
-"a key to a burrow",key,0,spec,hold,,,,,,,,,,,,,,,"The Thain","Shire",,,0,0,0
-"a tiny dagger",weapon,0,spec,wield hold,,,1hit,,,,,,,,5,pierce,,,"A shiriff","Shire",,,2,100,100
-"a small leather jacket",armor,0,spec,body,,,1dam,,,,,,,4,,,,,"A shiriff","Shire",,,3,200,120
-"a dirty robe",armor,0,spec,body,,,1wis 1con,,,,,,,4,,,,,"The Gaffer","Shire",,,3,2300,200
-"A slender key",key,0,spec,hold,,,,,,,,,,,,,,,"The Captain of the shiriffs","Shire",,,0,0,0
-"the Rainbow Staff",light,0,spec,hold,,,1int,,,,,,,,,,,,"An Elven Wizard","Shire",,,2,6500,200
-"A silvery cloak",armor,0,norm,about,,,10mv,-30r-fire,,,,,,7,,,,,"An Elven Wizard","Shire",,,5,8000,2000
-"A carved ivory pipe",container,5,sm,hold,,,+1(healing dream),,,,,,,,,,,,"The Mayor","Shire",,,4,40000,10000
-"a bronze helmet",armor,0,spec,head,warr rogue,,5aps,,,,,,,5,,,,,"The Elven Prince","Shire",,,4,3400,400
-"A lesser elven ice bow",weapon,5,spec,wield,ra,,1hit,,,,,,2-hand,,8,chill,,,"The Elven Prince","Shire",,,4,8211,700
-"A gardener's hoe",weapon,5,spec,wield,,,2dam 2hit,,,,,,,,11,slash,,,"Samwise Gamgee","Shire",,,7,40000,10000
-"a pair of ethereal pixie wings",armor,5,spec,about,,,-1str imp-invis,,,,,a-e,,4,,,,,"Holian","Shire",,,1,12320,400
-"a magical pixie sword",weapon,5,spec,wield hold,,,5ma-gain 2str,,,,,,,,14,slash,,,"Holian","Shire",,,14,16000,800
-"An Elven necklace",armor,15,norm,neck,,,10ma 2int awalk beneficence,,,,,,,7,,,,,"The Noldo leader","Shire",,,3,16000,4000
-"a necklace made of rotting mushrooms",armor,0,norm,neck,,,10ma 2wis -1cha,,,,,,,4,,,,,"Farmer Maggot","Shire",,,2,12000,3000
-"A cloak of Bree",armor,0,norm,about,,,15hp,,,,,,,7,,,,,"The gate guard, The guard","Shire",,,5,20000,5000
-"A pair of rawhide gloves",armor,0,norm,hands,,,1dex  +1(hold animal),,,,f-g,a-e,,5,,,,,"Goatleaf","Shire",,,4,20000,5000
-"a pair of lucky dice",worn,0,spec,hold,,,,,,-2sv-spell,,,,,,,,,"A gambler","Shire",,,2,4000,1000
-"A ruby amulet",armor,15,sm,neck,,,1str 2int dsight,,,,,,,5,,,,,"Fardle the Gnome","Shire",,,4,16000,4000
-"a thin wristband",armor,0,norm,wrist,,,1hit,,,-1sv-spell,,,,5,,,,,"An Elf of Bree","Shire",,,3,10000,2500
-"a mithril neckguard",armor,0,norm,neck,,,,,,,,,,7,,,,,"A Dwarf of Bree","Shire",,,6,4000,1000
-"a weak glass prism",enchnt-mat,0,spec,,,,,,1d-lght,,,,,,,,,1sock,random,random,,,1,3,2000
-"superior enchanted arming sword",weapon,0,spec,wield,fi,,2atk-2rd -1dam,,,,,a-g a-e,,,18,stab,5sock(2-d2 1prof),,random,random,,,20,45,3000
-"a patch of thick wool",enchnt-mat,0,spec,,,,,20r-sonc,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a bearskin kilt",worn,15,norm,legs,,,40hp -20aps pfe s-life,,,,,a-e,,,,,,,"Goro, Honu chieftain","",,,5,40000,4000
-"Ortho's Tooth",weapon,5,spec,wield hold,,,2dex,,5d-fire,-2sv-spell,,,,,10,stab,,,"Beauregard the Mage","Vault",,,13,7590,2970
-"three interlocking gold rings",armor,5,spec,finger,,,25hp,,,,,,,0,,,,,"Beauregard the Mage","Vault",,,1,60000,15000
-"a stone triangle",key,0,spec,,,,,,,,,,no-rent,,,,,,"Beauregard the Mage","Vault",,,0,0,0
-"a monocle",armor,10,spec,head,,,1int d-align d-invis d-magic s-life,,,,,,,0,,,,,"Beauregard the Mage","Vault",,,7,7300,3030
-"a suit of yellow steel mail",armor,30,spec,body,th fi pa ap ba sa ra be,,2dam 30hp,25r-elec,,,,,,12,,,,,"Hadrian the Fighter","Vault",,,12,82430,14270
-"a bracelet of steel rings",armor,5,spec,wrist,,,20hp 1con,,3d-shdw,,,,,0,,,,,"Hadrian the Fighter","Vault",,,2,17233,1910
-"a pair of leather leggings",armor,10,spec,legs,,,1dex awalk sneak,,,,,,,5,,,,,"Wilhelm the Druid","Vault",,,11,14232,4470
-"a staff of withering",staff,20,spec,hold,,,10chrg(lvl30 wither),,,,,,,,,,,,"Wilhelm the Druid","Vault",,,7,98323,7680
-"an adamantine roundshield",armor,0,spec,shield,,,-30aps,,,-3saving_rod,,,,14,,,,,"The Sentry, A legionary","Vault",,,9,700,700
-"an iron pilus",weapon,0,spec,wield,,,,,,,,,2-hand,,7,pierce,,,"The Sentry","Vault",,,13,18700,1320
-"an iron neckguard",armor,0,spec,neck,,,,,,,,,,4,,,,,"The Sentry, A legionary","Vault",,,1,1420,1420
-"a bronze lorica armor piece",armor,20,spec,body,,,2dam -1hit,,5melee-crit-dam,,,,,14,,,,,"The Sentry, A legionary","Vault",,,12,7560,3400
-"an iron pilus",weapon,0,spec,wield,,,,,,,,,2-hand,,7,pierce,,,"The Sentry","Vault",,,13,18700,1320
-"an iron neckguard",armor,0,spec,neck,,,,,,,,,,4,,,,,"The Sentry, A legionary","Vault",,,1,1420,1420
-"A pair of iron boots",armor,5,spec,feet,warr wizd rogue,,20mv,,,,,,,5,,,,,"The Sentry, A legionary","Vault",,,4,7540,2100
-"The silver scimitar named, 'Spellbinder'",weapon,5,spec,wield,,,2dam 3hit haste,50r-life,,-3sv-spell,,a-g a-e,,,10.5,slash,,,"Wilhelm the Druid","Vault",,,13,42500,3289
-"a pair of steel shinguards",armor,15,norm,legs,,,d-align,,,,,,,14,,,,,"Tertius","Vault",,,11,11900,4680
-"A pair of steel toed boots",armor,15,spec,feet,,,2dam -25mv,,,,,,,8,,,,,"Tertius","Vault",,,4,13500,6030
-"A red woolen cloak",armor,0,spec,neck,,,15hp 2hp-gain,,,,,,,6,,,,,"The Sentry, A legionary","Vault",,,1,2500,690
-"a small vial of quickling blood",enchnt-mat,0,spec,,,,6mv,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a studded leather jacket",armor,0,spec,body,,,,,,,,,,3,,,,,"A senator","Rome",,,20,500,10
-"a small sword",weapon,0,spec,wield,mo dr be warr priest,,,,,,,,,,3.5,pierce,,,"A soldier, A senator","Rome",,,3,60,10
-"combat plate",armor,0,norm,body,,,-4hit 3dex,,,,,,,10,,,,,"A soldier","Rome",,,25,50000,8333
-"a pair of leather sandals",armor,5,norm,feet,,,,,,,,,,4,,,,,"A soldier, The master scheduler","Rome",,,2,250,41
-"a sapphire ring",armor,5,spec,finger,,,2hit,,,,,,,10,,,,,"The judge","Rome",,,1,35000,9166
-"a silver hairbrush",armor,5,spec,hold,,,1cha waterwalk,,,,,,,0,,,,,"","",,,7,800,200
-"a green gown",armor,5,norm,about,,,dsight,,,,,,,5,,,,,"","",,,1,50,12
-"a feather-topped hat",armor,0,norm,head,,,awalk,,,,,,,4,,,,,"","",,,1,200,50
-"A pair of woodsman gloves",armor,0,spec,hands,warr,,10hp 1str,,,,,a-e,,2,,,,,"The heroic ranger Ephram","Vault",,,2,6540,1330
-"brown chemise",armor,15,spec,neck about,mo warr,,1dam 1con -15aps,,,,,a-e,,11,,,,,"The heroic ranger Ephram","Vault",,,8,9350,4300
-"a dogwood bracelet",armor,5,spec,wrist,,,2hit 2int,,,,,a-e,,0,,,,,"The heroic ranger Ephram","Vault",,,2,6300,2660
-"A chromatic bow",weapon,15,spec,wield,ra,,1str,,7d-spell,,,a-e,2-hand,,16.5,pierce,,,"The heroic ranger Ephram","Vault",,,7,50000,6000
-"A symbol of the goddess of bad luck",armor,10,spec,neck,,,-25hp -25ma cloak-s,,10d-divn,3sv-brth 3sv-para 3sv-petri 3saving_rod 3sv-spell,,,,0,,,,,"The lovely bard Victoria","Vault",,,1,42600,5300
-"A golden belt",armor,15,spec,waist,ba,,10ma 2int awalk,,,,,,,3,,,,,"The lovely bard Victoria","Vault",,,5,24300,2720
-"An elven rapier named, 'Wit'",weapon,15,norm,wield,,,haste +40(slash attack),,,,,,,,10,slash,,,"The lovely bard Victoria","Vault",,,13,26500,3680
-"a book of hymns",container,15,norm,hold,,,,,,,,,,,,,,,"The lovely bard Victoria","Vault",,,12,4750,100
-"the Song of Sorrow",weapon,20,spec,wield,ba,,5hit silence,,,,,,,,18,pierce,,,"","",,,5,60000,15000
-"an onyx ring",worn,5,spec,finger,,,15hp 1con,,,,,a-g,,,,,,,"Titus Andronicus","Rome",,,1,20000,2000
-"a dagger",weapon,0,spec,wield,mo dr be warr priest,,,,,,,,,,2.5,pierce,,,"Titus's shopkeeper","Rome",,,1,10,10
-"a warhammer",weapon,0,spec,wield,,,,,,,,,,,3,pound,,,"Titus's shopkeeper","Rome",,,6,50,10
-"the Kodarta staff",staff,5,spec,hold,,,3chrg(lvl17 charm),,,,,,,,,,,,"The doctor","Rome",,,6,21000,5833
-"a stethoscope",worn,5,norm,neck,,,-2dam 4hit,,,1h-bonus,,,curs,,,,,,"The doctor","Rome",,,1,15000,2500
-"a white coat",armor,0,spec,about,,,,,,3h-bonus,,,,4,,,,,"The doctor","Rome",,,20,1200,600
-"the staff of latumfus",staff,5,spec,hold,,,3chrg(lvl17 shadowbolt),,,,,,,,,,,,"A nurse","Rome",,,5,9000,2500
-"a hairpin",worn,5,spec,head,,,10ma -1str 1int,,,,,,,,,,,,"A nurse","Rome",,,1,3000,500
-"a wooden club",weapon,0,spec,wield,,,,,,,,,,,2,pound,,,"A slave","Rome",,,3,12,10
-"a bronze belt",armor,5,norm,waist,,,2hit -2str,,,,,,,8,,,,,"The Nobleman","Rome",,,5,10000,1666
-"a blue coat",armor,5,norm,body,,,hide waterwalk,,,,,,,4,,,,,"","",,,5,1500,375
-"a skull amulet",armor,10,norm,neck,wizd,,4ma-gain,,,,,,,2,,,,,"The traveling sorcerer","Juris",,,6,13210,800
-"a medallion",armor,0,sm,neck,,,10hp,,,,,,,5,,,,,"Julia","City of Raddok",,,1,780,780
-"A long, green cape",armor,10,norm,about,,,1con infra,,,,,,,8,,,,,"Malag","City of Raddok",,,3,7334,1645
-"a large mace",weapon,10,norm,wield,,,2dam 2hit,,,,,,,,3.5,bludgeon,,,"Malag","City of Raddok",,,10,800,800
-"a pair of silver sleeves",armor,10,lrg,arms,,,1dam 1str,,,,f-g,,,9,,,,,"The Silver Guard","City of Raddok",,,5,18000,2800
-"a silver bastard sword",weapon,15,norm,wield,fi pa ap mo sa ra be,,2dam  +60(detect alignment),,,,f-g,,2-hand,,17.5,slash,,,"The Silver Guard","City of Raddok",,,13,8250,4030
-"A jade-colored sash",worn,10,spec,neck waist,mo priest,,2dam 10hp 15ma dsight,,,,f-g,a-e a-n,,,,,,,"","",,,4,20000,4000
-"a white, cotton cap",armor,20,sm,head,warr priest rogue,,1hit 10mv 1cha,,,,,a-g,,5,,,,,"The Warehouse Foreman","City of Raddok",,,3,9215,4230
-"a pair of brass leg plates",armor,0,spec,legs,,,,,,,,,,8,,,,,"Algan","City of Raddok",,,7,14300,2860
-"an electrum ring",armor,15,norm,finger,,,2dam 2hit,,,1melee_crit_pct,,,,8,,,,,"Lanthar","City of Raddok",,,1,5340,5340
-"a pair of winged sandals",armor,20,spec,feet,,,5dex awalk,,,,,a-n,,8,,,,,"Mercury","Rome",,,4,75000,12500
-"a grey potion",potion,15,spec,,,,lvl40(word of recall/sleep/poison),,,,,,no-rent,,,,,,"","",,,0,1000,1000
-"an opal potion",potion,0,spec,,,,lvl15(remove poison/heal light/heal light),,,,,,,,,,,,"","",,,1,4000,1000
-"An elemental shard (shimmering blue)",weapon,15,norm,wield,dr,,2dam 4hit,25r-pier,,,,,no-rent,,15,pierce,,,"","",,,1,0,1
-"a tiny sheet of titanium",enchnt-mat,0,spec,,,,,10r-acid,,,,,,,,,,1sock,random,random,,,1,3,2000
-"enchanted orange kushalaka",worn,0,spec,waist,mo,,1dam 20ma -1dex awalk,,,,f-g,a-e,,,,,4sock,,random,random,,,1,15,2500
-"a brilliant bronze power crystal",enchnt-mat,0,spec,,,,1dam 1hit,,,,,,,,,,,2sock,random,random,,,1,3,2000
-"a jeweled goblet",potion,0,spec,hold,,,-2int  lvl40(regeneration),,,,,,2slot,,,,,,"","",,,2,13500,3000
-"a stack of steel plates",enchnt-mat,0,spec,,,,1ac,,,,,,,,,,,1sock(1ac),random,random,,,1,3,2000
-"a sparkling, white vest",armor,5,norm,body,,,10mv 1str 5age,,,,,a-e,,7,,,,,"","",,,7,21875,7000
-"a silver sickle",weapon,25,norm,wield,dr,,2atk-2rd 4dam 4hit regeneration,,,,,a-g a-e,,,15,slash,,,"","",,,13,103301,15251
-"a dark olive skirt",armor,20,norm,legs,dr warr wizd rogue,,30mv 6mv-gain,,,-10sv-brth,,,,12,,,,,"","",,,8,72027,7227
-"a wreath of flowers",armor,15,norm,head,dr,,30ma 3ma-gain 4cha,,,,,a-g a-e,,2,,,,,"","",,,1,83038,8338
-"a dark olive shirt",armor,25,norm,body,dr warr rogue,,50hp 9hp-gain hide pfe pfg,50r-pois,,-10sv-para,,,,8,,,,,"","",,,12,67176,7007
-"an adamantine bracelet",armor,25,lrg,wrist,,,2dam 2hit,,,,f-g,,,8,,,,,"Adamantite Guard","Raddok",,,2,8270,8270
-"an obsidian bracelet",armor,10,norm,wrist,,,20ma 4ma-gain,,,,,,,8,,,,,"Voivode","Vrolok",,,2,53035,5335
-"The Eldritch Staff",weapon,15,spec,wield,ma ne,,-30hp 30ma 2int,,,,f-e,a-g,,,18,bludgeon,,,"Voivode","Vrolok",,,10,124421,11411
-"The Grimoire",wand,10,spec,hold,wizd,,35ma -12mv d-align 10chrg(lvl40 color spray),,3d-elec,,,,,,,,,,"Voivode","Vrolok",,,3,47074,4774
-"a cold steel throwing axe",throw_weapon,35,spec,hold,th sa,,2dam 2dex,,,,,a-e,,,,,,,"Alexei","Vrolok",,,3,54045,5445
-"The Defender's Sword",weapon,25,lrg,wield,pa sa,,1atk-2rd 35hp 15ma pfe,,,,,a-e a-n,curs 2-hand,,24.5,slash,,,"Alexei","Vrolok",,,16,120021,12021
-"a white silk sash",armor,10,spec,waist,,,2con,,3d-divn,,,a-e,curs,3,,,,,"Alexei","Vrolok",,,5,31013,3113
-"an emblazoned sable surcoat",armor,20,lrg,about,pa priest,,2dam -2dex pfe,20r-fire,,,,a-e,,8,,,,,"Alexei","Vrolok",,,8,43034,4004
-"a Crusader's Shield",armor,25,lrg,shield,pa mo,,1dam 35hp 2ma-gain,,,,f-g,a-e,curs,20,,,,,"Alexei","Vrolok",,,9,52025,5225
-"an embroidered robe",armor,15,norm,body,priest wizd,,3int,,3spell-crit-pct 5spell-crit-dam,-15sv-spell,,,,8,,,,,"Voivode","Vrolok",,,6,45054,4554
-"priestly vestments",armor,15,norm,about,cl wizd,,20ma 2ma-gain,,,,f-e,a-g,curs,4,,,,,"Cassova","Vrolok",,,8,46564,4774
-"a Mercury Ring",armor,15,norm,finger,,,20mv freeact,15r-elec,,2melee_crit_pct,,,,10,,,,,"Cassova","Vrolok",,,1,37073,4224
-"a black body suit",armor,25,norm,body,th,,2dam 1str 1int s-life,,,1melee_crit_pct,,,,12,,,,,"Cassova","Vrolok",,,2,75057,6336
-"a black mask",armor,20,norm,head,rogue,,d-align d-invis infra pfg,25r-shdw,,,f-e,,,10,,,,,"Cassova","Vrolok",,,1,35053,3553
-"a sharp stiletto dagger",weapon,10,spec,wield,rogue,,5dam 5hit,,,,,,,,12.5,stab,,,"Cassova","Vrolok",,,7,80908,8008
-"a planetar's feather",enchnt-mat,0,spec,,,,1cha,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a whirlwind cloak",armor,15,norm,neck,warr wizd rogue,,1dam 35hp 1dex waterwalk,,,,,,,5,,,,,"Grigori","Vrolok",,,1,52025,6006
-"a pair of tasseled boots",armor,15,norm,feet,,,20hp 3dex awalk,,,,,,,6,,,,,"Sasha","Vrolok",,,4,40404,4004
-"a pair of silk sleeves",armor,15,norm,arms,priest wizd rogue,,4hit 2str freeact,,,,,,,2,,,,,"Sasha","Vrolok",,,4,31913,3223
-"a gold and silver lyre",wand,25,norm,shield hold,ba,,30ma 3cha -20aps  10chrg(lvl40 charm monster),,,,,,,,,,,,"Sasha","Vrolok",,,9,34543,3553
-"a magic flute",wand,20,norm,hold,,,3ma-gain 2cha  10chrg(lvl40 charm monster),,2d-sonc,,,,,,,,,,"Sasha","Vrolok",,,3,27572,2882
-"A feathered Lorist's cap",armor,20,norm,head,ba,,2str 2con 2cha,,,,,,,3,,,,,"Sasha","Vrolok",,,2,47074,4774
-"a pair of spurred boots",armor,15,norm,feet,warr,,2dam -20mv 2con,-15r-fire,4d-cold,,f-e,a-g,,6,,,,,"","",,,4,59095,5995
-"a pair of flit wings",enchnt-mat,0,spec,,,,2dex,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a cloudy red beryl",enchnt-mat,0,spec,,,,,,,1melee_crit_pct,,,,,,,,1sock,random,random,,,1,3,2000
-"a fire opal bracelet",armor,15,spec,wrist,cl dr,,20ma haste,-25r-cold,,5h-bonus,,,,0,,,,,"","",,,2,4660,4660
-"a pair of white pantaloons",armor,5,sm,legs,,,33mv -1dex,,,,,a-e,,12,,,,,"","",,,11,20000,50000
-"a plain silver circlet",armor,25,norm,head,,,15ma 15mv freeact hide,30r-sumn,,,,,,8,,,,,"Elrond","Imladris",,,2,60000,15000
-"A pair of spectral gauntlets",armor,20,spec,hands,,,2dam 2int  +40(ice lance),20r-life,,,f-e,,,10,,,,,"","",,,1,84148,8228
-"an Iron Cross",weapon,20,lrg,wield,cl,,20ma -2dex -20aps,,,3h-bonus,,,,,18,crush,,,"","",x,,13,65456,6556
-"a ranging ring",armor,0,spec,finger,ra ba,,1dam 2dex awalk haste sneak,,4d-spell,,,a-e,,,,,,,"Elrohir","Shire",x,,1,100000,25000
-"Vulcanus, hammer of the gods",weapon,25,lrg,wield,,,2atk-2rd,25r-fire,,,,,,,19.5,pound,,,"","",x,,28,38763,6510
-"The Hammer of the Underworld",weapon,25,lrg,wield,,,,,10melee-crit-dam,5melee_crit_pct,,,,,,,,,"","",x,,30,120021,12021
-"a suit of black field plate mail",armor,20,lrg,body,warr,,2dam,,,,,,,17,,,,,"","",x,,15,63936,6556
-"superior enchanted white slippers",armor,0,spec,feet,cl dr,,2ma-gain -1wis,,,3h-bonus,,a-e,,4,,,5sock,,random,random,,,2,45,3500
-"superior enchanted white maniple",armor,0,spec,arms,cl dr,,2ma-gain -1con haste,,,3h-bonus,,a-e,,4,,,4sock,,random,random,,,2,45,3500
-"a tul rune",enchnt-mat,0,tiny,,,,+20(lightning bolt),,,,,,,,,,,1sock,random,random,,,3,30,3000
-"a zel rune",enchnt-mat,0,tiny,,,,+30(vitalize mana),,,,,,,,,,,1sock,random,random,,,3,30,3000
-"Sisyphus' Stone of Power",light,20,lrg,hold,fi pa ap mo sa ra be,,2dam 1hit 15ma,,,,,,,,,,,,"Sisyphus","Swamp",,,6,75000,7500
-"a crystal ring",worn,15,norm,finger,,,2dam 15hp 3hp-gain,,,,,,,,,,,,"","",,,1,55000,8500
-"a pair of red silk slippers",armor,0,spec,feet,,,2dam 1dex,,,,,,,4,,,,,"","",,,2,72000,5700
-"a pair of dashing green tights",armor,10,norm,legs,,,2dam 4mv 2dex,,,,,,,7,,,,,"","",,,8,70000,17500
-"a tightly strung English longbow",weapon,20,spec,wield,ra,,3dam 20ma,,,3melee_crit_pct,,a-e,2-hand,,24,pierce,,,"","",,,24,160000,40000
-"a pair of Gauntlets of Dexterity",armor,0,spec,hands,,,3dam 3dex haste,40r-fire,,,,,,8,,,,,"chest past Robin Hood","Nottingham",,,10,60000,15000
-"The Golden Compass",worn,20,spec,trinket,warr,,,25r-elec,,,,,,,,,,,"","",,,6,142000,12000
-"the quiver of Artemis",container,25,spec,about,ra,,,,,,,,,,,,,,"","",x,,5,172000,43000
-"a silhouette rapier",weapon,15,norm,wield,fi dr wizd rogue,,4hit,,,,,,,,,,,,"Grigori","Vrolok",x,,6,92029,9229
-"a gold leaf belt",worn,0,norm,waist,,,,,,2h-bonus,,,,,,,,,"","",,,6,800,200
-"a humming ring",wand,0,norm,finger hold,,,5chrg(lvl5 cure serious),,,,,,,,,,,,"","",,,2,4000,1000
-"a spool of copper wire",enchnt-mat,0,spec,,,,,20r-elec,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a pair of blue and white shirt sleeves",armor,5,spec,arms,priest,,10ma 10mv,,4d-spell,,,,,0,,,,,"","",,,3,32383,2140
-"some red and orange shirt sleeves",armor,20,spec,arms,warr,,2dam,-25r-sumn,,,,,,4,,,,,"Hadrian the Fighter","Vault",,,5,12443,2300
-"a choker of steel teeth",armor,20,spec,neck,,,2dam 25hp silence,,3melee-crit-dam,8dmg_self,,,,0,,,,,"","",,,1,32482,6600
-"Jupiter's Thunderbolt",weapon,20,spec,wield,,,4dam 4hit sonar +75(lightning bolt),30r-elec -30r-sonc,6d-elec,,,,,,12.5,shock,,,"","",,,18,130616,16667
-"a weak lightning orb",enchnt-mat,0,spec,,,,,,1d-elec,,,,,,,,,1sock,random,random,,,1,3,2000
-"a sparkle of starlight",light,25,spec,hold,,,d-invis dsight infra regeneration,,4d-lght,,,,,,,,,,"Aziliz","Shire",,,1,24600,4920
-"a golden comb",armor,20,spec,head,,,3dam -2wis,-20r-elec,,,,,,2,,,,,"Ank-a-doodle-ou, the rooster of death","Shire",,,3,17000,3400
-"The Sceptre of Sirona",light,20,spec,,,,sonar d-align d-invis d-magic dsight infra s-life,,3d-sonc,,,,,,,,,,"The woodsman","Bonne Terre",,,6,78087,7887
-"some worn leather gloves",armor,0,spec,,,,1hit -1str,,,,,,,3,,,,,"","",,,3,7210,400
-"a GIANT black beetle carapace shield",armor,20,gnt,shield,warr,,-50aps,,,,,,,25,,,,,"","",,,0,0,0
-"an Obsidian Mace named Oblivion",weapon,20,norm,wield,warr priest,,18ma 3int,,,,f-e,,,,17.5,bludgeon,,,"","",,,12,78517,15703
-"a Mystical Shield",worn,10,norm,shield hold,ma cl fi pa ap mo sa ra dr ne,,20ma 1dex curse,,,,f-e,a-e,curs,,,,,,"The mystical Goblin","Swamp",,,25,40000,2500
-"a pair of feathered wings",armor,10,spec,arms,ma,,2dex awalk,,,,,,,14,,,,,"The witch Hecate","Mortimer",,,5,3290,3290
-"a shadow dagger",weapon,10,spec,wield hold,ma ap ne,,1dam,,,,f-e,,,,15,pierce,,,"A roaming demon","Mortimer",,,13,4270,4270
-"Hat of the Mortician",armor,10,norm,head,ma ap ne,,50hp 5ma-gain 2int,,,,,a-g,,0,,,,,"","",,,7,3770,3770
-"the Sickle of Death",weapon,30,spec,wield,ma ap ne wa,,20ma-gain -3str 10age  +25(ghoul gauntlet),,5d-cold,,,a-g a-n,2-hand,,21,slash,,,"","",,,15,10820,10820
-"a crown of green leaves",armor,30,norm,head,cl dr,,regeneration,,,10h-bonus,,,,6,,,,,"Sycorax, the breathing tree","",,,1,56345,3453
-"a Mighty Branch",weapon,30,spec,wield,,,30ma,,10d-spell,30h-bonus,,,2-hand,,19,bludgeon,,,"Sycorax, the breathing tree","Mortimer",,,16,145740,14574
-"a Hood of the Dragon",worn,25,norm,head,,,15ma 3str d-align,,4d-fire,,,,,,,,,,"Flagg the Sorceror","Mortimer",,,7,4560,4560
-"the Eye of the Dragon",light,25,spec,,,,2ma-gain infra s-life,,5d-spell,,,a-g,,,,,,,"Flagg the Sorceror","Mortimer",,,6,7670,7670
-"a Staff of Safety",staff,0,spec,hold,,,1chrg(lvl20 word of recall),,,,,,,,,,,,"","",,,7,1510,1510
-"the Phantom Dagger",weapon,20,spec,wield,th,,1atk-2rd 4hit -2wis,,,,,a-g a-n,,,18,pierce,,,"","",,,13,100000,7900
-"The Head of Macbeth",other,30,spec,hold,,,,,,,,,no-rent,,,,,,"","",x,,6,11750,11750
-"a crusader ring",armor,25,norm,finger,cl warr,,2dam pfe,25r-shdw,,,f-g,a-e,,16,,,,,"","",,,1,28300,6500
-"a Cloak of the Mortician",armor,30,norm,about,ne wa,,20ma -4cha sonar cloak-s haste,,,,,a-g a-n,,0,,,,,"","",,,1,70000,7680
-"a lightweight canoe",boat,0,spec,hold,,,,,,,,,,,,,,,"","",,,10,6250,500
-"two ivory dice",enchnt-mat,0,spec,,,,2-d2,,,,,,,,,,,1sock(2-d2),random,random,,,1,10,2000
-"the Dark cape of the Magi",armor,30,spec,neck,ma ne wa,,40hp 20ma 2ma-gain,,,,,a-g,,6,,,,,"","",,,4,50000,25000
-"the Eye of the Dragon",light,25,spec,,,,2ma-gain infra s-life,,5d-spell,,,a-g,,,,,,,"Flagg the Sorceror","Mortimer",,,6,7670,7670
-"a Cloak of the Dragon",container,30,norm,neck,,,2con d-invis invis regeneration,,6d-fire,,,a-g,,,,,,,"Flagg the Sorceror","Mortimer",,,1,5710,5710
-"the Ring of Elemental Destruction",armor,15,spec,finger,ma mo ra dr,,2dam 15hp -1str -1int,,4d-spell,,,,,0,,,,,"Sisyphus","Swamp",,,1,50000,6000
-"an old, gnarled staff",weapon,5,lrg,wield,cl mo dr,,15ma,,,,,,,,10,bludgeon,,,"High Priest Scytodes","Swamp",,,14,160000,40000
-"the Claw of a Dragon",weapon,40,spec,wield,,,2dam -1dex,,,1melee_crit_pct,,,,,15,slash,,,"Lord Selenops","",,,18,45000,9400
-"The Helm of Elemental Radiance",armor,20,spec,head,ma,,-20ma -2int awalk,25r-fire 25r-elec 25r-cold,,,,,,10,,,,,"Archmage Salassina","Swamp",,,7,74000,12000
-"a woven leather staff of fire",staff,15,lrg,hold,ma,,3chrg(lvl30 fireball),,,,,,,,,,,,"Archmage Salassina","Swamp",,,7,6070,6070
-"a pouch of beholder salts",enchnt-mat,0,spec,,,,2mv-gain,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"superior enchanted gnarled wand",weapon,0,spec,wield,dr,,-1int,,5d-spell,,,a-g a-e,,,7.5,bludgeon,5sock,,random,random,,,10,45,3000
-"a suit of atlantian chainmail",armor,25,spec,body,,,3dam 15hp -25ma -2dex 1con,,,,,a-g,,12,,,,,"A Treasury Guardian","Swamp",,,15,100000,12000
-"a pair of atlantian bracers",armor,25,spec,arms,,,2dam 15hp,,,1melee_crit_pct,,a-g,,8,,,,,"A Treasury Guardian","Swamp",,,8,100000,12000
-"a giant's finger bone",enchnt-mat,0,spec,,,,2str,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"the Wristlet of Passing Truths",armor,25,spec,wrist,mo,,4dam,,5d-fire 5d-elec,,,a-e a-n,,8,,,,,"in Vault","Sylvan Swamp",,,4,100000,12000
-"the Circlet of the Arch-Mage",armor,25,spec,head,ma,,25hp,,6d-spell 3spell-crit-pct,,,a-g,,4,,,,,"in Vault","Swamp",,,8,100000,12000
-"the Gauntlets of Destruction",armor,25,spec,hands,be,,3dam 2hit 25ma,,,,,,,12,,,,,"in Vault","Swamp",,,8,100000,12000
-"a wizard's rod",enchnt-mat,0,spec,,,,,,,-5saving_rod,,,,,,,,1sock,random,random,,,1,3,2000
-"a black apple",food,0,tiny,,,,,,,,,,,,,,,,"in Vault","Sylvan Swamp",,,1,300,150000
-"a large mithril bar",treasure,0,spec,hold,,,,,,,,,,,,,,,"","",x,,20,300000,75000
-"the head of the basilisk",staff,20,spec,hold,,,freeact 8chrg(lvl40 paralyze),,,,,,no-rechrg,,,,,,"The basilisk","Nottingham",,,35,40000,10000
-"The Shogunate Signet of Power",armor,15,spec,finger,sa,,2dam 10ma 3ma-gain,,,,,,,10,,,,,"Shogun Ieyasu Tokugawa","Forbidden Empire",,,1,100000,12000
-"a white steel neck guard",worn,20,norm,neck,,,2dam -10aps,15r-cold,,,,a-e,,,,,,,"Shogun Ieyasu Tokugawa","Forbidden Empire",,,2,68500,7000
-"'Hanzo Masamune,' the Sword of Peace",weapon,20,spec,wield,sa,,1atk-2rd 2hit,,,,f-g,a-e a-n,,,18,slash,,,"Shogun Ieyasu Tokugawa","Forbidden Empire",,,17,325000,12400
-"a green kimono",armor,10,norm,about,,,15ma 7mv,,,5h-bonus -5sv-petri -5sv-spell,,a-e,,10,,,,,"Princess Yukiko","Forbidden Empire",,,8,31000,4250
-"a steel fan",other,20,norm,hold,,,15mv 3mv-gain d-align haste,,6d-elec,,,,,,,,,,"Princess Yukiko","Forbidden Empire",,,1,20000,2500
-"a glowing wand",wand,0,spec,hold,,,5chrg(lvl9 lightning bolt),,,,,,,,,,,,"","",,,7,1000,930
-"a slender and flexible piece of bamboo",weapon,30,spec,wield,,,,,,,,,no-rent   2-hand,,5.5,bludgeon,,,"","",,,4,100,100
-"a tanso backpack chest",container,0,spec,about hold,,,,,,,,,,,,,,,"","",,,18,125000,2000
-"a pale blue gown",armor,5,norm,body,,,imp-invis,,,,,,,4,,,,,"","",,,12,2550,2550
-"a sapphire blue cloak",armor,5,norm,about,,,2con,,,,,,,8,,,,,"","",,,8,2150,2150
-"Yevaud's White Fang",armor,25,spec,head,pa ba ra,,,25r-acid,,,,a-n,,,,,,,"","",x,,7,82000,13000
-"a black leather belt",armor,5,norm,waist,,,2dex,,,,,,,8,,,,,"","",,,5,1940,1940
-"a pair of crystal bracers",armor,5,norm,arms,,,1dam 1hit,,,,,,,7,,,,,"","",,,5,1790,1790
-"enchanted chromatic bow",weapon,0,spec,,ra,,-1dam,,3d-spell,,,,,,7,chill,4sock(1-d1 1-d2 1prof),,random,random,,,1,15,2000
-"the cyclopean maul",weapon,15,spec,wield,,,3dam,,,50aggr_general,,,2-hand,,13,pound,,,"at fountain","Aurvuron",,,34,9715,3000
-"a glinting silver bracelet",armor,15,spec,wrist,,,2dam,-50r-elec,,,f-n,a-g a-e,,3,,,,,"The Master's apprentice","College",,,5,25000,4500
-"a seal of obedience",trash,0,spec,,,,,,,,,,,,,,,,"The Madman","Aurvuron Citadel",,,0,47000,12000
-"the Gorebringer axe",weapon,20,norm,wield,warr,,5hp-gain rage,,,,,,2-hand,,26,slash,,,"","",,,30,55000,13750
-"Skin of the Traitor",armor,30,sm,body,priest wizd,,freeact haste,,9d-spell 1spell-crit-pct,8dmg_self,,,,3,,,,,"","",,,12,70000,17500
-"bile extractor kit",armor,20,norm,head about,,,100hp 10str sonar,30r-shdw,,,,,N,13,,,,,"","",,,12,30000,7500
-"a frostbite brew",potion,0,spec,,,,lvl40(),,,25 hp-gain(10tic) 25 mv-gain(10tic) 50 r-cold(4tic),,,,,,,,,"","",,,0,2400,600
-"a thin ivory bracelet",worn,30,norm,wrist,wizd,,25hp,25r-divn 25r-fear,10d-spell,,,,,,,,,,"","",,,1,55000,10000
-"an elixir of the shattered sun",potion,0,spec,,,,lvl40(),,,,,,,,,,,,"","",,,0,2400,600
-"a flimsy veil",armor,10,sm,head mask,,,2hit imp-invis,,,,,,,4,,,,,"Kells","Midgaard",,,2,20000,5000
-"black tunic",armor,25,sm,body about,,,2dam,,,,f-e,,,6,,,,,"","",,,8,6000,1500
-"an opal bracelet",armor,5,spec,wrist,,,1dam 1con,,,,,,,1,,,,,"","",,,2,20000,4000
-"a suit of armor made of leaves",armor,30,norm,body,,,3dam,15r-pois,,,,,,1,,,,,"","",,,4,35000,8750
-"a pair of crystal bracers",armor,5,norm,arms,,,1dam 1hit,,,,,,,7,,,,,"","",,,5,1790,1790
-"a broken lyre",other,20,spec,hold,ba,,1atk-2rd -1dam -2hit -2int,,,,,,curs,,,,,,"The Master of the Black Robes","College",,,6,40000,4000
-"a minor celestial warding cube",other,5,spec,hold,,,-2dam,25r-blgn,,,,,,,,,,,"The Master of Goodness","College",,,5,50000,5000
-"a chameleon poncho",armor,5,spec,about,,,20hp -1size,-50r-fire,,,,,,8,,,,,"","",,,4,20000,5000
-"a spiked collar",armor,5,spec,neck,,,lvl(RESIST_PIER Ny -25),25r-slsh -25r-blgn,,,,,,,,,,,"The calico cat, A blue tortoise","Swamp",,,9,35000,6000
-"a pair of white, silk stockings",armor,25,sm,legs,pa ba ra dr,,15hp,-35r-cold 35r-gas,7d-spell,,,,,6,,,,,"","",,,2,20000,5000
-"a lightning recurve bow",weapon,20,norm,wield,ra,,2dam,,,-2sv-spell,,,,,15,shock,,,"","",,,28,48239,4330
-"one dungeon master two-sided die",enchnt-mat,0,spec,,,,1-d1 2-d2,,,,,,,,,,,2sock(1-d1 2-d2),random,random,,,1,15,3000
-"a cloudy resonating crystal",enchnt-mat,0,spec,,,,1hit,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a tiny sheet of chromium",enchnt-mat,0,spec,,,,,10r-gas,,,,,,,,,,1sock,random,random,,,1,3,2000
-"the black staff of ancient magic",light,10,spec,hold,,,1dam 25hp,-25r-lght,,1melee_crit_pct,,a-g,curs,,,,,,"","",,,6,50000,12500
-"enchanted gold armlet",armor,0,spec,arms,wizd,,-1con awalk,,2spell-crit-pct,,,a-e,,8,,,3sock,,random,random,,,2,15,2500
-"a dungeon master's golden dice set",enchnt-mat,0,spec,,,,2-d1 2-d2,,,,,,,,,,,2sock(2-d1 2-d2),random,random,,,1,25,3000
-"a weak torniquete",enchnt-mat,0,spec,,,,,,1d-life,,,,,,,,,1sock,random,random,,,1,3,2000
-"a glowing bronze power crystal",enchnt-mat,0,spec,,,,1dam -1hit,,,,,,,,,,,2sock,random,random,,,1,3,2000
-"superior enchanted red silk gloves",armor,0,spec,hands,wizd,,5mv 2mv-gain -1con,,,,f-e,a-g,,4,,,5sock,,random,random,,,3,45,3500
-"a stack of cobalt plates",enchnt-mat,0,spec,,,,3ac,,,,,,,,,,,1sock(3ac),random,random,,,1,3,2000
-"a single, black glove",armor,30,norm,hands,ra,,2dam 2hit  +10(bash),,5d-cold,,f-e,,,9,,,,,"Lanthar, Kells","Midgaard",,,6,24300,11270
-"a vermillion kilt",armor,15,lrg,legs,,,2dam,,,,,,,5,,,,,"Kells","Midgaard",x,,6,72127,7117
-"a small vial of bloodpetal sap",poison,35,spec,,,,,,,,,,,,,,,,"","",,,1,10000,2000
-"an obsidian throwing dagger",throw_weapon,30,spec,hold,,,2dam,,,1melee_crit_pct,,,,,,,,,"","",,,0,6500,2000
-"a cloudy resonating crystal",enchnt-mat,0,spec,,,,1hit,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"the Hard Leather Boots",worn,5,norm,feet,fi pa ap sa ra,,1dam 1hit sneak,,,,,a-e,,,,,,,"The mystical dwarf","Goblin Caves",,,25,40000,2000
-"superior enchanted black riding boots",armor,0,spec,feet,wizd,,5mv 2mv-gain -1int,,,,f-e,a-g,,4,,,5sock,,random,random,,,3,45,3500
-"enchanted leather gloves",armor,0,spec,hands,rogue,,7mv -1dex,,,,,a-e,,8,,,4sock,,random,random,,,3,15,2500
-"two dungeon master one-sided dice",enchnt-mat,0,spec,,,,2-d1 1-d2,,,,,,,,,,,2sock(2-d1 1-d2),random,random,,,1,15,3000
-"a weak plague vial",enchnt-mat,0,spec,,,,,,1d-pois,,,,,,,,,1sock,random,random,,,1,3,2000
-"a single ivory die",enchnt-mat,0,spec,,,,1-d2,,,,,,,,,,,1sock(1-d2),random,random,,,1,3,2000
-"a small vial of planetar blood",enchnt-mat,0,spec,,,,6hp,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a patch of black cloth",enchnt-mat,0,spec,,,,,20r-lght,,,,,,,,,,1sock,random,random,,,1,3,2000
-"A captain's rawhide armor",armor,5,spec,body,warr rogue,,1hit -1con -10aps,,,2sv-spell,,,,6,,,,,"The Astyll Ranger Captain","Astyll Hills",,,7,5400,1400
-"a captain's silver longsword",weapon,0,spec,wield,fi pa sa be,,1dam,,,,,a-e,2-hand,,7.5,slash,,,"The Astyll Ranger Captain","Astyll Hills",,,16,5700,1500
-"a small pouch of mindflayer salts",enchnt-mat,0,spec,,,,1ma-gain,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a torniquete",enchnt-mat,0,spec,,,,,,2d-life,,,,,,,,,1sock,random,random,,,1,3,2000
-"a basilisk thagomizer",worn,15,spec,trinket,,,5ma-gain freeact,,,,,a-g,,,,,,,"An armored basilisk","The Blightland",,,3,21000,3500
-"a silver power crystal",enchnt-mat,0,spec,,,,2dam -2hit,,,,,,,,,,,2sock,random,random,,,1,3,3000
-"The Jewel of the Deep",other,20,norm,hold,ma pa ba mo ra dr ne wa,,,,6d-spell,,,,,,,,,,"in buried chest","Burning Talon",x,,3,62000,10000
-"a slender, bone earring",other,0,lrg,head,ma cl ba ra dr ne wa,,19ma 3mv-gain  +40(teleport minor),,,,,,,,,,,,"A hill giant","The Blightland",,,4,20000,6000
-"a hill giant's girdle",other,0,lrg,waist,,,1dam 1str -1dex,,,,,,,,,,,,"A hill giant","The Blightland",,,8,35000,5500
-"a steel claymore named, 'Nylaetha'",weapon,10,spec,wield,,,-1int -1wis,,,1melee_crit_pct,f-g,a-e,2-hand,,14,slash,,,"The Captain of the Guard","Juris",,,22,21010,1500
-"a bone handled dagger",weapon,10,norm,wield,th ap,,1dam,,,,,a-g,,,10,pierce,,,"Pel","Juris",,,8,13874,1200
-"a red robe of the Order of the Skull",worn,10,norm,body,priest,,10mv d-invis,,,,,a-g,,,,,,,"A Priestess of the Order of the Skull","Juris",,,6,13540,900
-"a diamond engagement ring",armor,0,spec,finger,,,,,,,,,,0,,,,,"Jeweler","Juris",,,1,500000,10000
-"a gold wedding band",armor,0,spec,finger,,,,,,,,,,0,,,,,"Jeweler","Juris",,,0,25000,2000
-"some battle gauntlets",armor,10,lrg,hands,warr,,1dam -1con,,,,,a-e,,4,,,,,"The Jailor","Juris",,,8,13700,800
-"the Governor Ring",armor,10,norm,finger,,,1dam 1con,,,,,a-e,,3,,,,,"The Governor of Juris","Juris",,,4,11321,520
-"a crescent moon shaped rock",other,0,spec,,,,,,,,,,no-rent,,,,,,"A smuggler","Juris",,,1,0,0
-"a crystalline figurine of a man",other,0,spec,,,,-1hit,,,,,,,,,,,,"","",,,0,0,0
-"a twine bracelet",armor,0,lrg,wrist,,,1hit -1str,,,,,,,2,,,,,"The Mayor's son","Juris",,,1,4250,800
-"a tarnished steel cup",other,0,spec,,,,,,,,,,no-rent,,,,,,"A Honu tribeswoman","Darkrime",,,2,0,0
-"a tin dagger",weapon,0,spec,wield hold,,,,,,,,,no-rent,,2.5,stab,,,"A Honu tribesman","Darkrime",,,1,0,0
-"a brass ring",other,0,spec,,,,,,,,,,no-rent,,,,,,"A Honu child","Darkrime",,,1,0,0
-"a black bear pelt",other,0,spec,,,,,,,,,,no-rent,,,,,,"A Honu tribesman","Darkrime",,,6,0,0
-"a small axe with a red handle",weapon,0,spec,wield hold,,,,,,,,,no-rent,,4.5,slash,,,"A Honu tribesman","Darkrime",,,2,0,0
-"a bronze spear",weapon,0,norm,,,,,,,,,,no-rent,,9,pierce,,,"in hut","Darkrime",,,8,0,0
-"a chunk of flint",other,0,spec,,,,,,,,,,no-rent,,,,,,"A Honu tribesman","Darkrime",,,1,0,0
-"a dried red herring",food,0,spec,,,,,,,,,,no-rent,,,,,,"A Honu tribeswoman","Darkrime",,,1,0,0
-"a tar-covered sword",weapon,0,spec,wield,,,,,,,,,no-rent,,6.5,slash,,,"A Honu tribesman","Darkrime",,,5,0,0
-"a solid silver disc",treasure,0,spec,,,,,,,,,,no-rent,,,,,,"Muri, Honu elder","",,,4,0,0
-"an eagle feather",other,0,spec,,,,,,,,,,no-rent,,,,,,"Gelsa, Honu witch","",,,1,0,0
-"a jade-colored sash",worn,10,spec,neck waist,mo priest,,2dam 10hp 15ma dsight,,,,f-g,a-e a-n,,,,,,,"The Noble Seer of Raddok","City of Raddok",,,4,20000,4000
-"a polished steel helmet",armor,0,spec,head,warr rogue,,1hit 1str,,,,,,,6,,,,,"The Rook Captain","Canticle",,,7,5500,1800
-"a thin leather collar",worn,25,spec,neck,,,-1size,-30r-blgn,,,,,curs,,,,,,"orange puppy","Nature's Descent",x,,3,120000,30000
-"a tattoo of an eagle",worn,15,spec,neck arms,,,1dam 1dex awalk,,,,,,d-curs,,,,,,"Kano, son of Goro","",,,1,56000,5600
-"a brass coin",other,0,spec,,,,,,,,,,no-rent,,,,,,"Kano, son of Goro","",,,1,0,0
-"some wild berries",food,0,spec,hold,,,,,,,,,,,,,,,"forage","mountain terrain",,,2,500,100
-"an edible mushroom",food,0,spec,,,,,,,,,,,,,,,,"forage","forest terrain",,,2,750,120
-"some bat guano",potion,0,spec,hold,,,lvl20(bat sonar/poison),,,,,,,,,,,,"forage","hill terrain",,,1,4200,300
-"a small ginseng root",food,0,spec,hold,,,lvl25(vitm light),,,,,,,,,,,,"forage","hill terrain",,,1,425,100
-"a vial of angel's trumpet oil",potion,0,spec,,,,lvl25(word of recall/smite evil),,,,,,,,,,,,"forage","hill terrain",,,1,10000,3500
-"some red mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,,,,,,,"forage","mountain terrain",,,0,0,0
-"a bunch of wild blackberries",food,0,spec,,,,,,,,,,no-rent,,,,,,"on ground","Darkrime",,,0,0,0
-"a snow hare skull",other,0,spec,,,,,,,,,,no-rent,,,,,,"A sabertooth tiger","Darkrime",,,2,0,0
-"a hooded green cloak",armor,15,norm,about,ra,,,,3d-spell,,f-n,,,20,,,,,"","Arcane",x,,4,14741,1441
-"a tattoo of a grizzly bear",worn,20,spec,neck arms,warr rogue,,2dam 20hp 5hp-gain,,,,,,d-curs,,,,,,"Goro, Honu chieftain","",,,1,60000,6000
-"the Axe of the Mountain Lords",weapon,20,norm,wield,warr,,4dam 40hp,,,,,a-e,2-hand,,18,slash,,,"Goro, Honu chieftain","",,,15,80000,8000
-"a rams-head hammer",key,0,spec,hold,,,,,,,,,no-rent,,,,,,"Goro, Honu chieftain","",,,3,0,0
-"a vial of medicine",liq_container,0,spec,,,,,,,,,,,,,,,,"Hans Jurgen, doctor of Juris","Juris",,,1,1400,350
-"a stuffed bear named 'Miss Kitty'",other,0,spec,hold,,,1cha imp-invis,,,,f-g,,,,,,,,"Kyoma, youngest son of Goro","Darkrime",,,1,250,62
-"an aloe tincture",potion,0,spec,hold,,,lvl40(heal light),,,,,,,,,,,,"forage","hill terrain",,,1,9200,1450
-"a basilisk shedding",staff,20,spec,hold,,,3chrg(lvl40 paralyze),,,,,,,,,,,,"forage","hill terrain",,,3,48000,3500
-"some white mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,,,,,,,"forage","mountain terrain",,,0,0,0
-"a yarrow potion",potion,0,spec,hold,,,lvl40(sovereign heal),,,,,,,,,,,,"forage","hill terrain",,,0,0,0
-"a bundle of mistletoe",wand,20,spec,hold,,,20chrg(lvl40 charm person),,,,,,,,,,,,"forage","hill terrain",,,5,36500,5000
-"a small vial of arcanaloth blood",enchnt-mat,0,spec,,,,6ma,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a droplet of unmelting ice",worn,25,spec,neck,priest wizd,,10ma awalk sustain,,,,,a-e,,,,,,,"","",,,1,124400,12440
-"Ioun stone",worn,20,spec,neck body head legs hands arms about waist wrist,,,sustain,,,,,,curs,,,,,,"","",x,,1,100000,25000
-"an Axe of the Dragon",weapon,30,spec,wield,ma cl fi pa ra,,1atk-2rd 4dam,50r-fire,6d-fire,,,,,,18,slash,,,"Flagg the Sorceror","Mortimer",,,30,17980,15000
-"a silvery lace cap",armor,0,norm,head,,,20ma 1wis dsight,,,,,a-e,,10,,,,,"","",,,2,80000,20000
-"a silver leaf girdle",armor,20,norm,waist,priest,,1wis 2con,,3d-spell 2spell-crit-pct,,,,,3,,,,,"","",,,1,28000,7000
-"a grey hooded cloak",worn,15,norm,about,,,1dam 2dex -10aps awalk dsight invis_to_enemies,,,,,a-e,,,,,,,"","",,,4,20000,5000
-"the blade-shard of Narsil",weapon,20,spec,hold,warr,,2dam 25hp d-align,,,,,a-e,,,20,slash,,,"","",,,5,60000,15000
-"the hilt-shard of Narsil",weapon,20,spec,wield,warr,,1hp-gain 1con,,,,,a-e,,,20,slash,,,"","",,,15,300000,2000
-"a handful of blueberries",food,0,spec,hold,,,lvl25(vigorize light),,,,,,,,,,,,"","",,,1,800,120
-"a bundle of mistletoe",wand,20,spec,hold,,,20chrg(lvl40 charm person),,,,,,,,,,,,"forage","hill terrain",,,5,36500,5000
-"some poisonous alpine thistle sap",poison,20,spec,hold,,,,,,,,,,,,,,,"forage","hill terrain",,,1,14300,1000
-"some deadly nightshade poison",poison,25,spec,hold,,,,,,,,,,,,,,,"","",,,1,19200,3000
-"a brimstone effigy",staff,15,spec,hold,,,2chrg(lvl35 flamewalk),20r-cold,7d-fire,,,,,,,,,,"","",,,7,28000,9000
-"A vial of devil's trumpet oil",potion,0,spec,,,,lvl25(word of recall/smite good),,,,,,,,,,,,"","",,,1,10000,3500
-"a pixie potion",potion,0,spec,hold,,,lvl25(lesser electricity resistance/lesser fire resistance),,,,,,,,,,,,"","",,,1,9200,1000
-"a frostbite brew",potion,0,spec,,,,lvl40(),,,,,,,,,,,,"","",,,0,2400,600
-"a vial of dire wolf blood",potion,0,spec,,,,lvl30(shrink/poison/smite good),,,,,,,,,,,,"","",,,1,80000,4000
-"a frosted cladonia potion",potion,0,spec,hold,,,lvl30(healing dream),,,,,,,,,,,,"","",,,1,15200,1500
-"a nettle thorn potion",potion,0,spec,hold,,,lvl40(remove poison),,,,,,,,,,,,"","",,,0,0,0
-"a sweet-smelling herbal potion",potion,0,spec,,,,lvl15(cure critic/cure critic/cure critic),,,,,,,,,,,,"A Sslee priest","Swamp",,,1,2400,600
-"a buckskin tunic",armor,5,norm,body,,,2dex,,,,,,,7,,,,,"","",,,12,1770,1770
-"superior enchanted lightning bow",weapon,0,spec,wield,ra,,-1dam,,5d-elec,,,,,,7,shock,5sock(1-d1 1-d2 1prof),,random,random,,,22,45,3000
-"a filigreed silver locket",container,0,spec,neck,,,,,,,f-g,,,,,,,,"Kalinda, the ice faerie","Darkrime",,,1,16000,4000
-"a rough iron bracelet",worn,20,norm,wrist,pa mo ra be,,1dam 2hit sonar,,,,f-g,a-e,,,,,,,"Goro, Honu chieftain","",,,7,50000,5000
-"The legendary greatsword, 'Slayer'",weapon,25,lrg,wield,fi pa ap ra,,5hit -2dex -1con awalk,,10melee-crit-dam,2melee_crit_pct,,,2-hand,,27,slash,,,"Sisyphus","Swamp",,,13,135000,13500
-"some clawed boots",armor,20,lrg,feet,,,2dam 3mv-gain -2dex -35aps,,,,,,,12,,,,,"Sisyphus","Swamp",,,4,95000,9000
-"the Ring of the Lizardkind",armor,15,lrg,finger,mo warr rogue,,2dam 25ma 3ma-gain -1str -1con,,,,,,,0,,,,,"Sisyphus","Swamp",,,1,50000,80000
-"A breastplate of tortoise shell",armor,15,lrg,body,,,2dam 2hit 10hp,25r-elec,,,,,,10,,,,,"Sisyphus","Swamp",,,12,62000,7000
-"a vial of arcanaloth blood",enchnt-mat,0,spec,,,,11ma,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a lion bane reed",wand,0,spec,hold,ra,,10chrg(lvl30 poison),,,,,,,,,,,,"","",,,3,12300,2000
-"a ringed belt",armor,5,norm,waist,,,,50r-fire,,,,,,4,,,,,"","",,,5,2820,2820
-"The Golden Talons",weapon,10,spec,wield,,,3dam 3hit,,,,,,,,16,claw,,,"","",,,16,90000,30000
-"an earring of captive flame",worn,20,spec,head,,,2int d-align infra,30r-fire,5d-fire 4d-spell,,,,,,,,,,"Prowler","Aurvuron",,,1,40000,4500
-"razor of the Ivory Covenant",weapon,15,spec,wield,,,3dam freeact pfg,,5d-shdw,,,a-g,,,13,pierce,,,"","",,,5,24270,17000
-"a weak ice crystal",enchnt-mat,0,spec,,,,,,2d-cold,,,,,,,,,1sock,random,random,,,1,3,2000
-"a planetar's feather",enchnt-mat,0,spec,,,,1cha,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"The Watchman's Lamp",light,20,spec,hold,,,1dam sonar,,,,f-e,,curs,,,,,,"A skeletal barrelman","Swamp",x,,7,47600,7600
-"a weak glass prism",enchnt-mat,0,spec,,,,,,2d-lght,,,,,,,,,1sock,random,random,,,1,3,2000
-"a tiny pouch of frost crystals",enchnt-mat,0,spec,,,,,20r-cold,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a fur trimmed scarlet girdle",armor,25,lrg,waist,,,1dam 30hp awalk,,2melee-crit-dam,2melee_crit_pct,,,,8,,,,,"","",,,8,18000,7000
-"fetish of the darkcaster",other,20,spec,finger neck wrist,,,cloak-s +65(poison),,6d-fear 3d-shdw,,f-e,a-g,curs,,,,,,"","",,,1,30000,10000
-"an engraved shield",armor,20,spec,shield,,,2dam 19ma,,4d-spell,,,,,20,,,,,"","",,,9,65000,6500
-"superior enchanted yoshihara katana",weapon,0,spec,wield,sa,,2atk-2rd -1dam,,,,f-g,a-e a-n,,,3.5,slash,5sock(2-d1 1-d2 1prof),,random,random,,,20,45,3000
-"a radiant silver power crystal",enchnt-mat,0,spec,,,,2dam,,,,,,,,,,,1sock,random,random,,,1,3,3000
-"a flaming sceptre",light,15,spec,hold,fi pa ba mo sa ra be,,2dam,25r-fire,,,,,,,,,,,"","",,,6,62500,4800
-"A suit of ornate cotton armor",armor,15,lrg,body,warr,,2dam 10ma 1int 50aps,,,,,,,4,,,,,"Lord Selenops","Swamp",,,12,39000,4000
-"A Ceremonial Headdress",armor,20,lrg,head,fi pa ap sa ra be,,2dam -1str sustain,,5d-cold 5d-divn,,,,,5,,,,,"Lord Selenops","Swamp",,,7,71000,8500
-"noldorin boots",armor,0,norm,feet,,,1dam 2dex awalk sneak,,,,,,,6,,,,,"Glorfindel","Imladris",,,3,100000,25000
-"An elven chainmail suit",armor,0,norm,body,,,5mv,,,,,,,7,,,,,"","",,,6,30000,7500
-"a Feanorian longsword",weapon,0,spec,wield,,,2dam 5hit,,,,,,,,15,slash,,,"An elven blacksmith","Imladris",,,12,140000,35000
-"the Broadsword of the Elves",weapon,10,spec,wield,,,,,,,,a-e,,,16.5,slash,,,"","",x,,1,320000,80000
-"Ringrist",weapon,20,spec,wield,cl dr,,,15r-cold,,4h-bonus,,,,,15,slash,,,"Elrond","Imladris",x,,16,320000,80000
-"Anglin",weapon,0,spec,wield,,,,,,,,,,,20,slash,,,"Glorfindel","Imladris",x,,20,400000,100000
-"Vilya, the Elven Ring of Air",armor,25,spec,finger,cl dr wizd,,hide invis pfe regeneration sneak,,,7h-bonus,,,,6,,,,,"Elrond","Imladris",x,,1,120000,30000
-"The Jeweled Hammer",weapon,20,spec,wield,ma cl dr ne,,25ma 3mv-gain sustain,,,,,,,,12.5,bludgeon,,,"","",,,15,86750,7700
-"An amulet",armor,15,norm,neck,priest,,20ma 20mv  +60(bless),,,,,a-e,,6,,,,,"Balrak","Raddok",,,1,128399,5270
-"A royal insignia",armor,0,norm,trinket,ne warr priest rogue,,20hp 10mv,,,,,a-g a-e,,2,,,,,"","",x,,8,73793,24575
+NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN FLAGS,ALIGN RES,FLAGS,AP,AVGD,DICE,TYPE (SKILL),avail sockets,req sockets,MOB,ZONE,noid,NOTES,weight,value,rent
+"a Velvet Cape",armor,10,norm,neck,,,1dam 1hit pfe,,,,,,,5,,,,,,"The elf sorceress","Goblin Caves",,,25,30000,9000
+"an ice-cold white ash hunting spear",weapon,15,norm,wield,warr rogue,,4hit,50r-cold,10d-cold,,,,2-hand,,20,4D9,pierce (pierce),,,"Kano, son of Goro","Darkrime",,,22,55000,5500
+"an adamantine bracelet",armor,25,lrg,wrist,,,2dam 2hit,,,,f-g,,,8,,,,,,"Adamantite Guard","Raddok",,,2,8270,8270
+"Moorish bracers",armor,5,spec,arms,,,2dam -1dex,,,,,,,10,,,,,,"Caesar","Rome",,,8,25000,4166
+"a jade pendant",worn,5,spec,neck,,,1dam 1con,,,,,,,,,,,,,"Caesar","Rome",,,3,25000,2750
+"a long, green cape",armor,10,norm,about,,,1con infra,,,,,,,8,,,,,,"An Elite Guard","City of Raddok",,,3,7334,1645
+"a pair of scarlett slippers",armor,0,norm,feet,,,1dex,,,,,,,3,,,,,,"","",,,4,780,780
+"a lesser elvin cloak",armor,5,spec,neck,,,-1int imp-invis,,,,,,,6,,,,,,"The Traveler","Black Market",,,2,7640,2510
+"a carved wooden ring",armor,5,lrg,finger,,,1dam 1hit,,,,,,,0,,,,,,"","",,,3,15000,2500
+"a grey mithril longsword",weapon,0,spec,wield,,,3dam 3hit s-life,,,,,,,,14,4D6,slash (slash),,,"Elrohir","Imladris",,,14,120000,30000
+"a pair of adamantine leg plates",armor,15,lrg,legs,,,20mv,,,,,,,10,,,,,,"Adamantite Guard","Raddok",,,11,5180,5180
+"an adamantine breast plate",armor,10,lrg,body,,,-30aps,,,,f-g,,,18,,,,,,"Adamantite Guard","Raddok",,,12,20000,4280
+"a banded ring",armor,25,lrg,finger,,,30ma 10age d-invis,,,,,,,1,,,,,,"Amyrok","Mahn-Tor",,,2,50000,2500
+"a battle-scarred wide leather belt",armor,15,spec,waist,,,1dam 1hit 30hp,,,,,,,6,,,,,,"Muri, Honu elder","Darkrime",,,3,55000,6250
+"white furred boots",worn,10,norm,feet,dr warr rogue,,2hit 15hp awalk s-life sneak,,,,,a-e,,,,,,,,"Kano, son of Goro","Darkrime",,,5,32000,3200
+"a hooded travelling cloak",worn,20,norm,neck head about,warr priest rogue,,2dex cloak-s,,,,,a-e,,,,,,,,"Kano, son of Goro","Darkrime",,,8,65000,6500
+"the Cloak of the Bat",armor,20,norm,about,th fi pa ap ba mo sa ra,,2dex awalk sonar hide invis +40(spook),,,,,a-g,,10,,,,,,"Will Scarlet","Nottingham",,,20,60000,15000
+"a deep red sash",armor,20,spec,waist,,,15ma 5ma-gain freeact,,,,,a-g,,6,,,,,,"A phantasmal buccaneer","Burning Talon",,,4,74300,6800
+"Captain Fensclow's Coat",armor,25,spec,body,th fi ap ba ra,,2dam -2cha pfg,,5d-fire 5melee-crit-dam,-7sv-spell,,a-g,,12,,,,,,"Captain Fensclow","Burning Talon",,,10,96000,9000
+"the Hard Leather Boots",worn,5,norm,feet,fi pa ap sa ra,,1dam 1hit sneak,,,,,a-e,,,,,,,,"The mystical dwarf","Goblin Caves",,,25,40000,2000
+"a winged helm",armor,5,norm,head,,,2hit 2dex,,,,,,,10,,,,,,"Mercury","Rome",,,5,12000,2000
+"a red samurai helmet",armor,15,norm,head,,,1dam 7hp-gain 1int,,,,,,,9,,,,,,"A Samurai Warrior","Forbidden Empire",,,7,31000,3100
+"the spear of Mars",weapon,20,spec,wield,warr,,3dam 3hit,,,,,,,,16,8D3,pierce (pierce),,,"Mars","Rome",,,20,140000,35000
+"a red loincloth",armor,20,spec,waist,,,10mv 2str 2dex,,,,,a-e,,15,,,,,,"Mars","Rome",,,18,100000,16667
+"The Caduceus",staff,5,spec,hold,,,3chrg(lvl17 sovereign heal),,,3h-bonus,,,,,,,,,,"Mercury","Rome",,,5,9000,2500
+"The Ancile",armor,30,spec,shield,,,1dam 2dex,,,,,,,3,,,,,,"","",,,20,30000,8000
+"a crown made of bones",armor,10,lrg,head,,,1dam,,,,,a-g a-n,,6,,,,,,"The Great Goblin","Goblin Caves",,,15,32000,1500
+"a bone staff",staff,5,spec,hold,ma ne wa,,3chrg(lvl16 life leech),,,,,,,,,,,,,"The Great Goblin","Goblin Caves",,,13,20000,1150
+"a small band of gold",worn,15,sm,finger,priest,,18ma 5ma-gain 3mv-gain imp-invis invis,-25r-slsh,,,,a-e,,,,,,,,"","",,,2,58200,14550
+"silver battle greaves",armor,10,norm,legs,,,-1hit 2con,,,,,,,9,,,,,,"in Iron box","Juris",,,6,10430,700
+"White mithril chainmail",armor,15,norm,body,,,20mv,,3d-divn,,,a-e,,12,,,,,,"Elrond","Imladris",,,5,80000,20000
+"an elven bracelet",armor,0,spec,wrist,priest wizd,,5ma 1wis,,,,,,,4,,,,,,"The Halfling Beauty","Shire",,,3,7200,300
+"The Shield of the Elements",armor,20,spec,shield,warr,,-1hit -1str,25r-fire 25r-elec 25r-cold,,,,,,18,,,,,,"A Diamond Golem","College",,,12,36000,5500
+"A glinting silver bracelet",armor,15,spec,wrist,,,2dam,-50r-elec,,,f-n,a-g a-e,,3,,,,,,"The Master's apprentice","Shire",,,5,25000,4500
+"an iron shod staff",weapon,10,spec,wield,,,1dam 3hit,,,,,a-g a-e,hold-w,,14,4D6,pound (bludgeon),,,"The Master of Neutrality","College",,,7,9000,3000
+"a smoldering fire crystal",light,15,spec,hold,,,,25r-fire,5d-fire,,,,,,,,,,,"A Fire Elemental","College",,,5,14500,3000
+"the Light of Juris",light,15,spec,hold,,,1dam 1hit d-invis,,,,,a-e,,,,,,,,"","",,,5,22120,1200
+"A book titled, 'Somehow I Manage'",trash,0,sm,,,,,,,,,,no-rent  break,,,,,,,"in desk","College",,,1,300,10
+"a heart shaped medallion",armor,0,spec,neck,,,1dam 1wis -1con,,,,,,,3,,,,,,"in Altar","College",,,3,8200,1500
+"a tight fitting green dragon scale shirt",armor,20,spec,body,warr rogue,,1dam awalk,,5melee-crit-dam,,,,,8,,,,,,"The Grand Mistress","College",,,9,17500,4500
+"a keychain",container,0,spec,hold,,,,,,,,,no-rent,,,,,,,"The Headmistress","College",,,8,24000,0
+"a sapphire bracelet",worn,15,norm,wrist,,,10ma -2str,,,,,,,,,,,,,"Instructor Vy'Jin","Bonne Terre",,,5,25000,4500
+"an onyx bracelet",armor,15,spec,wrist,,,2dam,-50r-fire,,,f-e,a-g a-n,,3,,,,,,"The black robed apprentice","College",,,6,25000,4500
+"a brown cloak",armor,10,spec,neck,,,-15aps,,,-4sv-spell,,,,0,,,,,,"in Hallway","College",,,5,4000,2500
+"a traveler's leather backpack",container,15,spec,about,,,6mv-gain 2str -1dex awalk,,,,,,,,,,,,,"in hallway","College",,,10,11400,3000
+"a seashell ring",boat,0,spec,finger,,,-1dex 1size,-50r-elec,,,,,,,,,,,,"in a traveler's leather backpack","College",,,1,6500,6500
+"a shimmering cloak of many colors",container,20,spec,neck,,,5hp-gain -25aps,,,-5sv-brth -3sv-petri,,,,,,,,,,"The Grand Mistress","College",,,5,24500,2500
+"The Staff of Wizardry",weapon,15,norm,wield,ma,,10ma -10mv -1con,,4d-spell 4spell-crit-pct,,,,2-hand   2slot,,14,4D6,bludgeon (bludgeon),,,"The Grand Mistress","College",,,14,40000,5800
+"The Mark of Wizardry",worn,25,spec,trinket,wizd,,2ma-gain 2mv-gain,,,-5sv-spell,,,,,,,,,,"The Grand Mistress","College",,,1,10000,1000
+"a white cloak",armor,10,spec,neck,,,1dam 1hit -1int -1dex,,,,f-g,a-e a-n,,5,,,,,,"The Master of Goodness","College",,,7,15000,3500
+"an ivory hilted sword",weapon,15,spec,wield,,,1dam 2hit,,,,,a-e,,,15,6D4,slash (slash),,,"The Master of Goodness","College",,,14,52000,6000
+"an emerald bracelet",armor,20,spec,wrist,ba ra priest,,1dex,,3d-spell,,,,,5,,,,,,"The Grand Mistress","College",,,2,31000,3500
+"a white gold bracelet",armor,15,spec,wrist,,,2dam,-50r-cold,,,f-g,a-e a-n,,3,,,,,,"The white robed apprentice","College",,,5,25000,4500
+"a dark black cloak",armor,10,spec,neck,,,1dam 1hit s-life,,,5sv-brth 5sv-spell,,a-g a-n,,4,,,,,,"The Master of the Black Robes","College",,,8,9000,3500
+"a sharp shard of obsidian",weapon,10,spec,wield,th ap,,3hit 1dex,,,,,a-g,,,14,4D6,stab (pierce),,,"The Master of the Black Robes","Bonne Terre",,,16,45000,5000
+"a black robe",container,15,spec,about,,,1dam 2hit -1con,,,,,a-g a-n,,,,,,,,"Dark Master, The black robed apprentice","College",,,8,15400,3200
+"a grey robe",container,0,spec,about,wizd,,20ma -1str -20aps,,,-5sv-para,,a-g a-e,,,,,,,,"The Master's apprentice","College",,,8,12500,2500
+"a diamond encrusted scabbard",worn,20,spec,waist,warr,,1dam -15hp,,,,,,,,,,,,,"A Diamond Golem","College",,,4,29000,3500
+"The Cowl of Mysteries",worn,20,norm,neck,warr rogue,,-15hp -1str -1dex sonar +40(spook),,,,,,,,,,,,,"A Colossal Wood Golem","College",,,8,25000,4500
+"a ward major",staff,25,spec,hold,cl dr,,20ma  3chrg(lvl40 sanctuary),,,,,,self-chg,,,,,,,"The Grand Mistress","College",,,5,20000,8000
+"a white robe",worn,15,spec,neck about,pa mo sa,,,25r-shdw,,,f-g,a-e a-n,,,,,,,,"The white robed apprentice","College",,,7,22000,6000
+"a small emerald ring",armor,15,spec,finger,,,15ma,,3d-spell,,,,,3,,,,,,"The Grand Mistress","College",,,2,21750,3000
+"a long grey cloak",armor,20,norm,neck,,,3ma-gain sonar freeact hide,-50r-lght,,3sv-spell,,a-g a-e,,8,,,,,,"The Master of Neutrality","College",,,7,70000,6000
+"The Legendary Claymore, 'Colossus'",weapon,25,lrg,wield,fi pa be,,2atk-2rd,25r-shdw,,,,a-e,2-hand,,22.5,9D4,slash (slash),,,"","",,,34,291000,21500
+"A black tricorne",armor,20,norm,head,,,2dam -2cha 10age,,5d-spell,,,,,8,,,,,,"The ghost of Captain Fensclow","Burning Talon",,,7,18000,6300
+"a glass ring",armor,15,norm,finger,,,cloak-s,,5melee-crit-dam,,,,,0,,,,,,"in buried treasure chest","Burning Talon",,,1,5150,5150
+"A suit of resplendent plate mail",armor,20,spec,body,fi pa ra dr be,,3dam 2hp-gain 2ma-gain 2mv-gain,,,,f-e,,,20,,,,,,"King","Caves of Fire",,,18,142000,6500
+"a dark red cloak",armor,15,norm,neck about,,,5ma-gain 1int,,5spell-crit-dam,,,,,7,,,,,,"","",,,1,15000,6110
+"a pair of old boots",armor,10,spec,feet,,,10mv 4mv-gain -1int -1cha,,,,,,,0,,,,,,"in Hallway","College",,,2,13000,2500
+"a celestial battle bow",weapon,20,spec,wield,ra,,3hit,,6d-fire,,f-g,a-e,2-hand,,18,4D8,chill (special),,,"A celestial ranger","College",,,17,35000,4500
+"blue mithril plate armor",armor,0,norm,body,,,-25mv,,,,,,,20,,,,,,"Elladan, Elrohir","Imladris",,,20,200000,8000
+"a gleaming mithril cutlass",weapon,20,norm,wield,,,1dam 2hit -2int,,,,,,,,20,4D9,cut (slash),,,"The Quartermaster","Burning Talon",,,22,48000,3500
+"a set of saurian greaves",armor,15,lrg,legs,,,35hp,,,,,,,6,,,,,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,6,20000,5000
+"a saurian blade",weapon,0,lrg,wield,,,,,,,,,,,4.5,1D8,slash (slash),,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,13,6500,1500
+"a saurian helm",armor,15,lrg,head,,,1str 1con -35aps,,,,,,,12,,,,,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,8,60000,15000
+"a suit of saurian chain mail",armor,10,lrg,body,,,1dam 1wis,,,,,,,16,,,,,,"An Elite Lizardkind Guard, A Lizardkind Guard","Swamp",,,6,20000,5000
+"a shining robe",armor,10,lrg,about,cl mo dr,,2dam 10ma d-align d-invis d-magic s-life,,,,,,,10,,,,,,"A Sslee priest","Swamp",,,8,80000,20000
+"a cypress staff",weapon,15,lrg,wield,cl mo dr,,1dam hdream,,,,,a-e a-n,,,12.5,5D4,bludgeon (bludgeon),,,"A Sslee priest","Swamp",,,13,120000,30000
+"a silver hammer of wanton destruction",weapon,30,spec,wield,ma cl fi pa dr,,2atk-2rd 2dam -2hit -2wis,,,,,a-e,2slot,,18,6D5,crush (bludgeon),,,"","",,,15,174240,43560
+"The Wall of Man",armor,20,lrg,shield,fi pa sa,,2dam,25r-cold,,,,,,18,,,,,,"Hadrian the Fighter","Vault",,,8,26500,5250
+"a golden cloak",armor,10,lrg,neck about,,,2dam -35aps,,,,f-g,,,12,,,,,,"The Gold Guard","City of Raddok",,,8,6570,6570
+"an obsidian shield",armor,20,spec,shield,,,,,,,,,,25,,,,,,"An Obsidian Guard","Mt Hate",,,5,54000,5400
+"a golden battle axe",weapon,15,lrg,wield,,,1dam 2hit 2con s-life,,,,f-g,,,,16,8D3,slash (slash),,,"The Gold Guard","City of Raddok",,,13,17821,6550
+"a hunting horn",armor,10,spec,neck hold,,,1dam 2str,,,,,,,3,,,,,,"The huntsman","Bonne Terre",,,1,24042,2442
+"A Pair of Black Dragon Scale Boots",armor,25,spec,feet,warr rogue,,5hp-gain -2cha awalk sonar,,,-8sv-brth,f-e,a-g,,12,,,,,,"","",,,7,72332,12300
+"a pair of red samurai gauntlets",armor,10,norm,hands,,,1dam 1hit,,,,,,,12,,,,,,"A Samurai Warrior","Forbidden Empire",,,4,28000,3500
+"a azure tinted leather armband",armor,25,spec,arms,fi ba sa ra,,2dam,25r-fire,5d-cold,,,a-e,,10,,,,,,"The spirit of a wastelands captive","Burning Talon",,,5,38000,8500
+"a rose vine cord",armor,5,spec,neck head,,,20ma 1wis,,2spell-crit-pct,,,,,0,,,,,,"Wilhelm the Druid","Vault",,,1,21293,1960
+"The Book of Particles",other,0,spec,hold,,,+40(sleep),,,,,,2slot,,,,,,,"A will-o-wisp","College",,,4,35000,4500
+"The Book of Disconjunction",other,0,spec,hold,,,+40(dispel magic),,,,,,2slot,,,,,,,"Someone","College",,,4,29000,6000
+"a long black cape",armor,20,norm,neck,,,cloak-s hide pfg sneak,-25r-lght,,-15sv-brth -15sv-spell,,,,10,,,,,,"A vampire","Vrolok",,,1,93239,9229
+"the Crystal Necklace of Knowledge",worn,5,spec,neck,,,20ma 2int 2wis,,,,,,,,,,,,,"","",,,5,75000,8333
+"a white veil",armor,5,spec,head,,,15mv d-invis,,,,,,,2,,,,,,"The miller's daughter","Bonne Terre",,,7,1780,1780
+"boots of striding",armor,10,lrg,feet,,,30mv,,,,,,,5,,,,,,"","",,,4,45000,4500
+"tattooed red palms",worn,15,spec,hands,,,21ma -2ma-gain 1con,,,,,,d-curs,,,,,,,"Gelsa, Honu witch","Darkrime",,,1,72000,7200
+"a tattoo of a jaguar",worn,15,spec,neck arms,,,15mv 3mv-gain haste,,,,,,,,,,,,,"Muri, Honu elder","Darkrime",,,1,20000,2000
+"a shield of Roc feathers",armor,20,spec,shield,,,25ma 4mv-gain 1dex awalk,,,,,a-g,,14,,,,,,"","",,,9,35000,5500
+"A silver and gold bracelet",worn,5,spec,wrist,,,-2dam 25ma curse,,,,,,curs,,,,,,,"","",,,4,50000,5000
+"a Bloodstone",worn,5,spec,hold,cl mo dr,,-8hp 5ma 1wis 1age haste,,,,,,,,,,,,,"The alchemist","Goblin Caves",,,2,750,80
+"a jade ring",armor,20,norm,finger,ma cl,,25ma 15age haste,,3d-spell,,,,,2,,,,,,"Morr","Raddok",,,1,7480,7480
+"a pair of brown cavalier boots",armor,20,spec,feet,,,2dam,15r-elec,5d-cold,,,,,10,,,,,,"The Quartermaster","Burning Talon",,,7,23500,7000
+"An imperial issue katana",weapon,15,spec,wield,,,20mv 5mv-gain,,,,,a-e,,,17,2D16,slash (slash),,,"A Samurai Warrior","Forbidden Empire",,,16,45000,6750
+"woven leather vambraces",armor,10,norm,arms,,,,15r-pois,,,,,,15,,,,,,"The huntsman","Bonne Terre",,,2,13031,1331
+"philtre of peony",potion,0,spec,,,,lvl23(heal critic),,,,,,,,,,,,,"Woodsman","Bonne Terre",,,1,1020,1020
+"philtre of spikenard",potion,0,spec,,,,lvl30(sleep/dreamsight),,,,,,,,,,,,,"Woodsman","Bonne Terre",,,1,750,750
+"philtre of sandalwood",potion,0,spec,,,,lvl20(heal light/dispel magic/spook),,,,,,,,,,,,,"Woodsman","Bonne Terre",,,1,1530,1530
+"the black horns of the minotaur",armor,30,spec,hold,,,3dam 3hit,,,,f-e,a-g,,0,,,,,,"Black Minotaur","",,,7,125000,6000
+"a pair of red samurai arm plates",armor,15,norm,arms,,,1dam 1con,,,,,,,6,,,,,,"A Samurai Warrior","Forbidden Empire",,,5,16300,1630
+"a suit of red samurai armor",armor,15,norm,body,,,2dam -2dex,,,5sv-spell,,,,16,,,,,,"A Samurai Warrior","Forbidden Empire",,,12,48000,5200
+"a warrior's scarf",armor,25,norm,head,warr,,2dam 20hp 1str d-invis s-life,,,,,a-e,,2,,,,,,"Cu Chulainn","Tuatha de Danaan",,,1,70000,17500
+"a glittering armband",armor,15,norm,arms,dr warr,,1dam 2dex 3cha,,,,,a-e,,10,,,,,,"Cu Chulainn","Tuatha de Danaan",,,4,32000,8000
+"an enormous spear named Gae Bolg",weapon,20,spec,wield,warr,,3dam 3hit,,,,,a-e,,,18,6D5,pierce (pierce),,,"","",,,20,140000,35000
+"A headdress made from antlers and leaves",armor,25,norm,head,dr,,hdream,,4d-spell,2h-bonus,,a-e,,2,,,,,,"The Woodland Goddess Flidais","Tuatha de Danaan",,,1,70000,17500
+"a large wooden mallet",weapon,15,spec,wield,,,,,,,,,,,13.5,3D8,bludgeon (bludgeon),,,"The Woodland Goddess Flidais","Tuatha de Danaan",,,24,15000,3750
+"silver battle bracers",armor,10,norm,arms,,,27hp -1str,,,,,,,8,,,,,,"in Iron box","Juris",,,6,11430,1000
+"silver battle helmet",armor,10,norm,head,,,awalk infra,,,,,,,7,,,,,,"in Iron box","Juris",,,7,10780,1000
+"a golden net",armor,25,spec,hold,,,,25r-slsh -25r-pier -25r-blgn,,,,,curs,0,,,,,,"Grigori","Vrolok",,,7,74047,9779
+"A crescent moon talisman",armor,10,norm,neck,wa,,10hp 5ma-gain -2str,,,,,a-g a-n,,3,,,,,,"Shaela Necramosa","Astyll Hills",,,2,0,0
+"a pair of wire rimmed spectacles",armor,20,lrg,head,,,4int 4wis d-magic,,,,,,,0,,,,,,"Amyrok","Mahn-Tor",,,2,25000,2500
+"a gnarled magius staff",weapon,5,lrg,wield,ma,,3dam 3hit,,,,,,,,6,3D3,bludgeon (bludgeon),,,"Amyrok","Mahn-Tor",,,10,53510,25000
+"a scale mail shirt",armor,0,norm,body,,,-25aps,,,,,,,7,,,,,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,12,2350,980
+"a scale mail skirt",armor,0,norm,legs,,,,,,,,,,5,,,,,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,11,1220,1220
+"a minor globe of invulnerability ",other,15,lrg,hold,priest wizd,,,,,-5sv-brth -5sv-spell,,,,,,,,,,"Amyrok","Mahn-Tor",,,1,50000,7500
+"a girdle of many pouches",container,5,lrg,waist,,,,,,,,,,,,,,,,"Amyrok","Mahn-Tor",,,5,15000,1500
+"a wooden shield",armor,0,spec,shield,,,5hp -10aps,,,,,,,5,,,,,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,4,1250,600
+"a sharpened short sword",weapon,0,norm,wield hold,,,1hit,,,,,,hold-w,,6,2D5,pierce (pierce),,,"The Astyll Officer, An Astyll Ranger","Astyll Hills",,,13,2400,1170
+"an Angel's Belt",armor,20,spec,waist,,,1dam 1hit 30hp,,,,f-g,a-e,,5,,,,,,"","Nexus",,,4,82450,4500
+"an ebony torc",wand,0,norm,neck hold,,,5chrg(lvl5 magic missile),,,,,,,,,,,,,"","",,,1,4000,1000
+"some ethereal shackles",armor,10,spec,legs wrist,,,-2dex,,,,,,curs,3,,,,,,"The spirit of a wastelands captive, A skeletal prisoner","Burning Talon",,,5,1000,1000
+"a jar full of pixie dust",light,0,spec,hold,,,,,,,,,no-rent,,,,,,,"quest item","Pixie Glade",,,1,0,0
+"Pixie Wing",treasure,0,spec,,,,,,,,,,no-rent  break,,,,,,,"A Pixie Mage, A Pixie Cleric, A Pixie Warrior","Pixie Glade",,,1,1000,1
+"a wand of firebolts",wand,0,sm,hold,,,3chrg(lvl16 firebolt),,3d-fire,,,,,,,,,,,"quest prize","Pixie Glade",,,7,1690,500
+"a pair of silver gauntlets",armor,25,spec,hands,th fi pa ba sa be,,3dam 1hit sustain,,,,,,,5,,,,,,"in southern vault","Vault",,,2,63222,8960
+"a Tome of Focused Thoughts",staff,30,norm,hold,,,25ma 2int  3chrg(lvl40 word of recall) +20(teleport minor),,,,,,,,,,,,,"","Aurvuron: The Gray Citadel",,,10,20000,5000
+"the titan's chain mail",armor,20,gnt,body,,,3str,,,-2sv-spell,,a-g,,17,,,,,,"","",,,12,80000,20000
+"a pewter ring",armor,5,spec,finger,,,10hp 1dex,,,,,,,5,,,,,,"The Nobleman","Rome",,,1,15000,2500
+"a polished, maroon breastplate",armor,10,spec,body,warr,,1dam 10hp -25aps,,,,,a-e,,16,,,,,,"An Elite Guard","City of Raddok",,,9,8920,2100
+"a long sword",weapon,0,spec,wield,,,,,,,,,,,4.5,1D8,slash (slash),,,"The Nobleman, The gateguard, A royal bodyguard, Caesar, The master scheduler, The judge, The doctor","Rome",,,8,1200,120
+"a musty scroll",scroll,5,spec,hold,,,lvl1(blindness),,,,,,,,,,,,,"Caesar","Rome",,,2,5000,833
+"the quenched sword",weapon,0,norm,wield hold,,,,,,,,,hold-w,,5,2D4,slash (slash),,,"Caesar","Rome",,,8,957,1666
+"a bronze breast plate",armor,0,spec,body,,,,,,,,,break,6,,,,,,"A royal bodyguard","Rome",,,50,700,10
+"a pair of iron greaves",armor,10,norm,legs,,,1hit 1dex -1con,,,,,,break,7,,,,,,"An Elite Guard, Malag","City of Raddok",,,6,7633,1250
+"a shield",armor,0,spec,shield,,,1str,,,,,,,6,,,,,,"A royal bodyguard, The doctor","Rome",,,3,1000,600
+"a heavy wooden club",weapon,30,lrg,wield,,,4dam 2str,,,,,a-g a-n,2-hand,,20,8D4,bludgeon (bludgeon),,,"","",,,20,60000,15000
+"a blackened dagger named Quicksilver",weapon,10,spec,wield hold,th ba,,3dam 3hit 2dex,,,,,,hold-w,,12.5,5D4,pierce (pierce),,,"Will Scarlet","Nottingham",,,9,80000,20000
+"an Astral amulet",armor,20,spec,neck hold,ma cl mo dr ne,,15mv awalk d-invis imp-invis,,,,,,,0,,,,,,"The basilisk","Nottingham",,,15,64000,16000
+"a leather money belt",armor,5,norm,waist,,,2int  +20(locate object),,,,,a-g,,0,,,,,,"The Taxmaster","Nottingham",,,5,20000,5000
+"a radiant steel cutlass",weapon,0,spec,wield hold,,,1dam 2hit,,,,,,hold-w,,7.5,3D4,slash (slash),,,"The Rook Captain","Canticle",,,13,3500,1520
+"the key to the Canticle",key,0,spec,neck hold,,,,,,,,,no-rent   break,,,,,,,"The Rook Captain","Canticle",,,1,100,100
+"a spellcaster's manual",other,5,spec,hold,ma cl dr ne wa,,2ma 2ma-gain -1con,,2d-spell,,,,,,,,,,,"A Rook Spellcaster","Canticle",,,5,3500,2000
+"a steel cutlass",weapon,0,spec,wield hold,,,1dam 1hit,,,,,,hold-w,,5,2D4,slash (slash),,,"A Rook Footsoldier","Canticle",,,13,3500,1520
+"an iron mace",weapon,0,spec,wield,priest,,6ma,,,,,,,,5,2D4,bludgeon (bludgeon),,,"A Rook Priest","Canticle",,,11,3500,2000
+"a pale blue veil",armor,5,spec,head,,,15ma s-life,,,,,,,2,,,,,,"A soothsayer","Bonne Terre",,,7,2630,2630
+"a cobalt key on a neck chain",key,0,spec,neck hold,,,,,,,,,no-rent   break,,,,,,,"The Quartermaster","Burning Talon",,,1,100,100
+"a tarnished serpent headed bracelet",armor,15,spec,wrist,ap wa,,25ma,,5d-pois 5d-gas,5d-gas,,,,5,,,,,,"A ghastly enchanter","Burning Talon",,,3,18000,4600
+"a tarnished key",key,0,spec,neck hold,,,,,,,,,no-rent   break,,,,,,,"The ghost of Captain Fensclow","Burning Talon",,,1,100,100
+"a mystical warder's emblem",worn,20,spec,trinket,,,,25r-divn,,,,,,,,,,,,"in Buried Chest","Burning Talon",,,1,35000,3500
+"a shinobi cloak",armor,15,norm,about,,,1dam 1dex hide,,3melee-crit-dam,,,,,4,,,,,,"A Shinobi Assassin","Forbidden Empire",,,8,29000,2100
+"a red woolen cloak",armor,0,norm,about,,,,,,,,,,8,,,,,,"","",,,7,5000,1250
+"a sweet-smelling herbal potion",potion,0,spec,,,,lvl15(cure critic/cure critic/cure critic),,,,,,,,,,,,,"A Sslee priest","Swamp",,,1,2400,600
+"An obsidian long sword",weapon,5,norm,wield,,,,,,,,,break,,14,4D6,slash (slash),,,"An Obsidian Guard","Mt Hate",,,14,48020,9604
+"a pair of obsidian gauntlets",armor,15,lrg,hands,,,,,,,,,,15,,,,,,"An Obsidian Guard","Mt Hate",,,5,2000,500
+"the iron mask of sorrow",armor,0,spec,head,,,-20mv sonar curse silence,,,,,,curs,1,,,,,,"The king of trees","Tarin",,,7,16000,4000
+"a silver hoop earring",armor,20,norm,head,ap ba be,,2dam 15hp d-align,,,,,a-g,,3,,,,,,"A phantasmal buccaneer, A skeletal prisoner","Burning Talon",,,4,40000,8200
+"a tiny vial of arcanaloth blood",enchnt-mat,0,spec,,,,4ma,,,,,,,,,,,,,random,random,,,1,3,2000
+"a bent cutlass",weapon,5,spec,hold,,,3hit -1cha,,,,,,hold-w break,,10,4D4,slash (slash),,,"A swashbuckling spectre","Burning Talon",,,0,3400,100
+"a gaijin katana",weapon,15,norm,wield,fi sa be,,2dam 1hit,,,,,,,,17.5,5D6,pierce (pierce),,,"A Ronin","Forbidden Empire",,,14,39000,6500
+"a black wakizashi",weapon,10,norm,wield,th ap sa,,3dam 2hit hide,,4melee-crit-dam,,,,,,5.5,1D10,pierce (pierce),,,"A Shinobi Assassin","Forbidden Empire",,,14,15000,1500
+"a cary coat",armor,0,norm,about,,,,,,,,,,7,,,,,,"","",,,5,10000,2500
+"a pair of mossy green tights",armor,0,norm,legs,,,2hit,,,,,,break,6,,,,,,"","",,,12,28000,7000
+"a pair of leather shin guards",armor,0,spec,legs,,,,,,,,,,3,,,,,,"An inexperienced trainee, A trainee, A reserved trainee","Training Grounds",,,3,435,180
+"an old long bow",weapon,0,spec,wield,,,,,,,,,2-hand,,3.5,1D6,pierce (special),,,"","",,,5,100,50
+"a withered long bow",weapon,0,spec,wield,,,,,,,,,2-hand,,3.5,1D6,pierce (special),,,"An honorable trainee","Training Grounds",,,5,100,50
+"the Taskmaster's gloves",armor,0,spec,hands,,,6hp,,,,,,break,2,,,,,,"","",,,2,1000,100
+"some dirty cotton gloves",armor,0,spec,hands,,,1con -1cha,,,,,,,2,,,,,,"A trainee, An honorable trainee, An inexperienced trainee, A reserved trainee","Training Grounds",,,5,100,50
+"a single broken sabaton",armor,0,spec,feet,,,,,,,,,,2,,,,,,"An inexperienced trainee, A trainee, An honorable trainee, A reserved trainee","Training Grounds",,,5,280,100
+"a suit of battered leather armor",armor,0,spec,body,,,10aps,,,,,,,4,,,,,,"An honorable trainee, An inexperienced trainee","Training Grounds",,,5,400,200
+"a small wooden mace",weapon,0,spec,wield,,,,,,,,,,,2.5,1D4,bludgeon (bludgeon),,,"An inexperienced trainee","Training Grounds",,,3,500,150
+"a suit of dented plate mail armor",armor,0,spec,body,,,8aps,,,,,,,7,,,,,,"An inexperienced trainee, A trainee","Training Grounds",,,8,900,250
+"a sacrificial dagger",weapon,0,spec,wield hold,,,2dam 2hit,,,,,,hold-w,,3,1D5,pierce (pierce),,,"","",,,13,1560,1560
+"a suit of camouflage armor",armor,30,norm,body,ra,,1dam cloak-s,,,,,,,6,,,,,,"The Ranger Lieutenant","Sylvan Jungle",,,6,35000,8750
+"a dull long sword",weapon,0,spec,wield,,,,,,,,,,,3.5,1D6,slash (slash),,,"A trainee","Training Grounds",,,8,1200,280
+"a small dagger",weapon,0,spec,wield,,,,,,,,,break,,2.5,1D4,pierce (pierce),,,"An inexperienced trainee","Training Grounds",,,3,680,250
+"a ragged suit of leather armor",armor,0,spec,body,,,,,,,,,,3,,,,,,"","",,,5,100,50
+"a long iron axe",weapon,0,spec,wield,,,,,,,,,2-hand,,3.5,1D6,slash (slash),,,"A reserved trainee","Training Grounds",,,12,1200,400
+"A ring of the Order of the Rose",treasure,0,spec,,,,,,,,,a-g a-e,no-rent,,,,,,,"The Guildmaster","Midgaard",,,1,0,0
+"A training weapon",weapon,0,spec,,,,,,,,,,break,,0,0D0,hit (undefined),,,"A reserved trainee, An inexperienced trainee, A trainee, An honorable trainee","Training Grounds",,,0,0,0
+"The Taskmaster's Sword",weapon,0,spec,wield hold,ma cl th fi ba ra dr be warr priest wizd rogue,,2hp-gain 2ma-gain,,,,,,,,5,2D4,slash (slash),,,"","",,,5,900,350
+"a rusty iron helm",armor,0,spec,head,,,,,,,,,,6,,,,,,"The goblin soldier","Goblin Caves",,,15,3200,450
+"a rusty breast plate",armor,0,spec,body,,,,,,,,,,7,,,,,,"The goblin soldier, The goblin guard","Goblin Caves",,,40,25000,3500
+"a Double-bladed Battle Axe",weapon,10,lrg,wield,fi pa ap mo sa ra,,2dam 2str,,,,f-e,,2-hand,,12,8D2,slash (slash),,,"The goblin soldier, The goblin guard","Goblin Caves",,,16,51607,7525
+"a rusty iron shield",armor,0,spec,shield,,,,,,,,,,7,,,,,,"The goblin soldier","Goblin Caves",,,20,3500,650
+"a Goblin Blade",weapon,5,norm,wield,,,2dam,,,,,,,,9,2D8,slash (slash),,,"The goblin soldier","Goblin Caves",,,7,3610,300
+"a Two-handed Goblin Blade",weapon,5,lrg,wield,,,,,,,,,2-hand,,12.5,5D4,slash (slash),,,"The goblin soldier","Goblin Caves",,,14,14744,850
+"A muddy fin",armor,5,spec,about,,,2dex waterwalk,,,,,,,2,,,,,,"","",,,0,0,0
+"an elven shortbow",weapon,0,spec,wield,,,3dam -3hit,,,,,,,,7.5,3D4,pierce (special),,,"Elladan","Imladris",,,5,20000,5000
+"a Fragile Elm Branch",worn,10,spec,hold,ma ne wa,,25ma,,,3sv-spell,,,,,,,,,,"The elf sorceress","Goblin Caves",,,7,28600,4000
+"a Light Crossbow",weapon,5,spec,wield,,,1dam 3hit,,,,,,2-hand,,13.5,3D8,pierce (special),,,"The slavemaster","Goblin Caves",,,12,15610,900
+"a Scroll of Earthquake",scroll,0,spec,hold,,,lvl7(earthquake),,,,,,,,,,,,,"The Great Goblin","Goblin Caves",,,4,4575,750
+"an overflowing Vial",potion,0,spec,,,,lvl12(protection from evil/dispel evil),,,,,,,,,,,,,"The alchemist","Goblin Caves",,,0,0,0
+"a smoking potion",potion,0,spec,,,,1age  lvl6(armor/bless/cure light),,,,,,,,,,,,,"The alchemist","Goblin Caves",,,0,0,0
+"a bloody hide",armor,20,spec,about,,,30ma -3cha pfe,,,6h-bonus,,,,10,,,,,,"A soothsayer","Bonne Terre",,,8,7950,7950
+"Nighthawk's Cowl",armor,25,spec,head,,,1dam 2int sonar,5r-pois,,,f-n,,,10,,,,,,"The Ranger Commander","Sylvan Jungle",,,7,60105,9009
+"the Bangor Hunter's bow",weapon,25,norm,wield,ra,,2dam 1con,,,,,a-e,2-hand,,21,3D13,pierce (special),,,"The Bangor Hunter","Caves of Fire",,,16,65000,6500
+"a pair of woodland boots",armor,5,norm,feet,th ba ra be,,1hit 10mv 1dex,,,,,,,4,,,,,,"The Bangor Hunter","Caves of Fire",,,4,20400,1800
+"a worn leather vest",armor,20,norm,body,ra,,2dam 2dex -1cha,,,,,,,8,,,,,,"The Bangor Hunter","Caves of Fire",,,12,36700,3580
+"a well-oiled mahogany bracelet",armor,15,norm,wrist,ba mo ra dr,,2dam 1con,,,,,,,8,,,,,,"Kells","Midgaard",,,2,52000,5160
+"a wooden cross",armor,5,norm,neck hold,,,1int 1wis 15age,,,,f-g,,,4,,,,,,"","",,,1,2480,2480
+"a carved ivory ring",armor,5,norm,finger,,,1dam 1hit,,,,,a-e,,9,,,,,,"The Bangor Hunter","Caves of Fire",,,1,24100,2400
+"a raptor talon",treasure,0,spec,,,,,,,,,,,,,,,,,"A young raptor broodling, A large cave raptor","Sylvan Jungle",,,7,40000,4000
+"a raptor tooth",treasure,0,spec,,,,,,,,,,,,,,,,,"A young raptor broodling, A large cave raptor","Sylvan Jungle",,,4,40000,4000
+"a green-tipped dagger",weapon,10,spec,wield hold,th ra dr,,3hit 2dex,,6d-pois,,,,hold-w,,12.5,5D4,pierce (pierce),,,"Ayla Sephoria","Sylvan Jungle",,,9,80000,20000
+"the Bow of the Huntress",weapon,20,spec,wield,ra,,3dam 6ma-gain 3int 2wis,,,,,a-e,2-hand,,24,8D5,pierce (special),,,"Ayla Sephoria","Sylvan Jungle",,,24,160000,40000
+"A shimmering translucent orb",undefined,0,spec,,,,,,,,,,,,,,,,,"","",,,0,0,0
+"a large ivory tusk",treasure,0,spec,,,,,,,,,,,,,,,,,"An elephant","Sylvan Jungle",,,30,70000,6000
+"a large zakarashi poison vial",poison,30,spec,hold,,,,,,,,,break,,,,,,,"A Shinobi Assassin","Forbidden Empire",,,0,30000,10000
+"enchanted infernal flamberge",weapon,0,spec,wield,,,-1dam 20hp,25r-divn,,,f-e,a-g a-n,2-hand,,12.5,5D4,slash (slash),,,random,random,,,32,15,2000
+"enchanted infernal flamberge",weapon,0,spec,wield,,,-1dam 20hp,25r-divn,,,f-e,a-g a-n,2-hand,,12.5,5D4,slash (slash),4sock(1-d1 1-d2 1prof),,random,random,,,32,15,2000
+"two dungeon master one-sided dice",enchnt-mat,0,spec,,,,2-d1 1-d2,,,,,,,,,,,,2sock(2-d1 1-d2),random,random,,,1,15,3000
+"a dungeon master's golden dice set",enchnt-mat,0,spec,,,,2-d1 2-d2,,,,,,,,,,,,2sock(2-d1 2-d2),random,random,,,1,25,3000
+"the thain girth",armor,5,sm,waist,,,1con,,,,,,,4,,,,,,"The Thain","Shire",,,2,4500,200
+"a key to a burrow",key,0,spec,hold,,,,,,,,,break,,,,,,,"The Thain","Shire",,,0,0,0
+"a tiny dagger",weapon,0,spec,wield hold,,,1hit,,,,,,hold-w,,5,2D4,pierce (pierce),,,"A shiriff","Shire",,,2,100,100
+"a small leather jacket",armor,0,spec,body,,,1dam,,,,,,,4,,,,,,"A shiriff","Shire",,,3,200,120
+"a dirty robe",armor,0,spec,body,,,1wis 1con,,,,,,,4,,,,,,"The Gaffer","Shire",,,3,2300,200
+"A slender key",key,0,spec,hold,,,,,,,,,break,,,,,,,"The Captain of the shiriffs","Shire",,,0,0,0
+"the Rainbow Staff",light,0,spec,hold,,,1int,,,,,,,,,,,,,"An Elven Wizard","Shire",,,2,6500,200
+"A silvery cloak",armor,0,norm,about,,,10mv,-30r-fire,,,,,,7,,,,,,"An Elven Wizard","Shire",,,5,8000,2000
+"A carved ivory pipe",container,5,sm,hold,,,+1(healing dream),,,,,,,,,,,,,"The Mayor","Shire",,,4,40000,10000
+"a bronze helmet",armor,0,spec,head,warr rogue,,5aps,,,,,,,5,,,,,,"The Elven Prince","Shire",,,4,3400,400
+"A lesser elven ice bow",weapon,5,spec,wield,ra,,1hit,,,,,,2-hand,,8,4D3,chill (special),,,"The Elven Prince","Shire",,,4,8211,700
+"A gardener's hoe",weapon,5,spec,wield,,,2dam 2hit,,,,,,,,11,2D10,slash (slash),,,"Samwise Gamgee","Shire",,,7,40000,10000
+"a pair of ethereal pixie wings",armor,5,spec,about,,,-1str imp-invis,,,,,a-e,,4,,,,,,"Holian","Shire",,,1,12320,400
+"a magical pixie sword",weapon,5,spec,wield hold,,,5ma-gain 2str,,,,,,,,14,4D6,slash (slash),,,"Holian","Shire",,,14,16000,800
+"An Elven necklace",armor,15,norm,neck,,,10ma 2int awalk beneficence,,,,,,,7,,,,,,"The Noldo leader","Shire",,,3,16000,4000
+"a necklace made of rotting mushrooms",armor,0,norm,neck,,,10ma 2wis -1cha,,,,,,,4,,,,,,"Farmer Maggot","Shire",,,2,12000,3000
+"A cloak of Bree",armor,0,norm,about,,,15hp,,,,,,,7,,,,,,"The gate guard, The guard","Shire",,,5,20000,5000
+"a pair of lucky dice",worn,0,spec,hold,,,,,,-2sv-spell,,,,,,,,,,"A gambler","Shire",,,2,4000,1000
+"A ruby amulet",armor,15,sm,neck,,,1str 2int dsight,,,,,,,5,,,,,,"Fardle the Gnome","Shire",,,4,16000,4000
+"a thin wristband",armor,0,norm,wrist,,,1hit,,,-1sv-spell,,,,5,,,,,,"An Elf of Bree","Shire",,,3,10000,2500
+"a mithril neckguard",armor,0,norm,neck,,,,,,,,,,7,,,,,,"A Dwarf of Bree","Shire",,,6,4000,1000
+"superior enchanted arming sword",weapon,0,spec,wield,fi,,2atk-2rd -1dam,,,,,a-g a-e,,,18,2D17,stab (pierce),5sock(2-d2 1prof),,random,random,,,20,45,3000
+"a patch of thick wool",enchnt-mat,0,spec,,,,,20r-sonc,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a bearskin kilt",worn,15,norm,legs,,,40hp -20aps pfe s-life,,,,,a-e,,,,,,,,"Goro, Honu chieftain","Shire",,,5,40000,4000
+"Ortho's Tooth",weapon,5,spec,wield hold,,,2dex,,5d-fire,-2sv-spell,,,hold-w,,10,4D4,stab (pierce),,,"Beauregard the Mage","Vault",,,13,7590,2970
+"three interlocking gold rings",armor,5,spec,finger,,,25hp,,,,,,,0,,,,,,"Beauregard the Mage","Vault",,,1,60000,15000
+"a stone triangle",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"Beauregard the Mage","Vault",,,0,0,0
+"a monocle",armor,10,spec,head,,,1int d-align d-invis d-magic s-life,,,,,,,0,,,,,,"Beauregard the Mage","Vault",,,7,7300,3030
+"a suit of yellow steel mail",armor,30,spec,body,th fi pa ap ba sa ra be,,2dam 30hp,25r-elec,,,,,,12,,,,,,"Hadrian the Fighter","Vault",,,12,82430,14270
+"a bracelet of steel rings",armor,5,spec,wrist,,,20hp 1con,,3d-shdw,,,,,0,,,,,,"Hadrian the Fighter","Vault",,,2,17233,1910
+"a pair of leather leggings",armor,10,spec,legs,,,1dex awalk sneak,,,,,,,5,,,,,,"Wilhelm the Druid","Vault",,,11,14232,4470
+"a staff of withering",staff,20,spec,hold,,,10chrg(lvl30 wither),,,,,,,,,,,,,"Wilhelm the Druid","Vault",,,7,98323,7680
+"an adamantine roundshield",armor,0,spec,shield,,,-30aps,,,-3saving_rod,,,,14,,,,,,"The Sentry, A legionary","Vault",,,9,700,700
+"an iron pilus",weapon,0,spec,wield,,,,,,,,,2-hand,,7,2D6,pierce (pierce),,,"The Sentry","Vault",,,13,18700,1320
+"an iron neckguard",armor,0,spec,neck,,,,,,,,,,4,,,,,,"The Sentry, A legionary","Vault",,,1,1420,1420
+"a bronze lorica armor piece",armor,20,spec,body,,,2dam -1hit,,5melee-crit-dam,,,,,14,,,,,,"The Sentry, A legionary","Vault",,,12,7560,3400
+"A pair of iron boots",armor,5,spec,feet,warr wizd rogue,,20mv,,,,,,,5,,,,,,"The Sentry, A legionary","Vault",,,4,7540,2100
+"The silver scimitar named, 'Spellbinder'",weapon,5,spec,wield,,,2dam 3hit haste,50r-life,,-3sv-spell,,a-g a-e,,,10.5,7D2,slash (slash),,,"Wilhelm the Druid","Vault",,,13,42500,3289
+"a pair of steel shinguards",armor,15,norm,legs,,,d-align,,,,,,,14,,,,,,"Tertius","Vault",,,11,11900,4680
+"A pair of steel toed boots",armor,15,spec,feet,,,2dam -25mv,,,,,,,8,,,,,,"Tertius","Vault",,,4,13500,6030
+"A red woolen cloak",armor,0,spec,neck,,,15hp 2hp-gain,,,,,,,6,,,,,,"The Sentry, A legionary","Vault",,,1,2500,690
+"a small vial of quickling blood",enchnt-mat,0,spec,,,,6mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a studded leather jacket",armor,0,spec,body,,,,,,,,,break,3,,,,,,"A senator","Rome",,,20,500,10
+"a small sword",weapon,0,spec,wield,mo dr be warr priest,,,,,,,,break,,3.5,1D6,pierce (slash),,,"A soldier, A senator","Rome",,,3,60,10
+"combat plate",armor,0,norm,body,,,-4hit 3dex,,,,,,,10,,,,,,"A soldier","Rome",,,25,50000,8333
+"a pair of leather sandals",armor,5,norm,feet,,,,,,,,,,4,,,,,,"A soldier, The master scheduler","Rome",,,2,250,41
+"a sapphire ring",armor,5,spec,finger,,,2hit,,,,,,,10,,,,,,"The judge","Rome",,,1,35000,9166
+"a silver hairbrush",armor,5,spec,hold,,,1cha waterwalk,,,,,,,0,,,,,,"","",,,7,800,200
+"a green gown",armor,5,norm,about,,,dsight,,,,,,,5,,,,,,"","",,,1,50,12
+"a feather-topped hat",armor,0,norm,head,,,awalk,,,,,,,4,,,,,,"","",,,1,200,50
+"A pair of woodsman gloves",armor,0,spec,hands,warr,,10hp 1str,,,,,a-e,,2,,,,,,"The heroic ranger Ephram","Vault",,,2,6540,1330
+"brown chemise",armor,15,spec,neck about,mo warr,,1dam 1con -15aps,,,,,a-e,,11,,,,,,"The heroic ranger Ephram","Vault",,,8,9350,4300
+"a dogwood bracelet",armor,5,spec,wrist,,,2hit 2int,,,,,a-e,,0,,,,,,"The heroic ranger Ephram","Vault",,,2,6300,2660
+"A chromatic bow",weapon,15,spec,wield,ra,,1str,,7d-spell,,,a-e,2-hand,,16.5,11D2,pierce (special),,,"The heroic ranger Ephram","Vault",,,7,50000,6000
+"A symbol of the goddess of bad luck",armor,10,spec,neck,,,-25hp -25ma cloak-s,,10d-divn,3sv-brth 3sv-para 3sv-petri 3saving_rod 3sv-spell,,,,0,,,,,,"The lovely bard Victoria","Vault",,,1,42600,5300
+"A golden belt",armor,15,spec,waist,ba,,10ma 2int awalk,,,,,,,3,,,,,,"The lovely bard Victoria","Vault",,,5,24300,2720
+"An elven rapier named, 'Wit'",weapon,15,norm,wield,,,haste +40(slash attack),,,,,,,,10,5D3,slash (slash),,,"The lovely bard Victoria","Vault",,,13,26500,3680
+"a book of hymns",container,15,norm,hold,,,,,,,,,,,,,,,,"The lovely bard Victoria","Vault",,,12,4750,100
+"the Song of Sorrow",weapon,20,spec,wield,ba,,5hit silence,,,,,,,,18,12D2,pierce (pierce),,,"The lovely bard Victoria","Vault",,,5,60000,15000
+"an onyx ring",worn,5,spec,finger,,,15hp 1con,,,,,a-g,,,,,,,,"Titus Andronicus","Rome",,,1,20000,2000
+"a dagger",weapon,0,spec,wield,mo dr be warr priest,,,,,,,,break,,2.5,1D4,pierce (lamentation),,,"Titus's shopkeeper","Rome",,,1,10,10
+"a warhammer",weapon,0,spec,wield,,,,,,,,,break,,3,1D5,pound (lamentation),,,"Titus's shopkeeper","Rome",,,6,50,10
+"the Kodarta staff",staff,5,spec,hold,,,3chrg(lvl17 charm),,,,,,,,,,,,,"The doctor","Rome",,,6,21000,5833
+"a stethoscope",worn,5,norm,neck,,,-2dam 4hit,,,1h-bonus,,,curs,,,,,,,"The doctor","Rome",,,1,15000,2500
+"a white coat",armor,0,spec,about,,,,,,3h-bonus,,,break,4,,,,,,"The doctor","Rome",,,20,1200,600
+"the staff of latumfus",staff,5,spec,hold,,,3chrg(lvl17 shadowbolt),,,,,,,,,,,,,"A nurse","Rome",,,5,9000,2500
+"a hairpin",worn,5,spec,head,,,10ma -1str 1int,,,,,,,,,,,,,"A nurse","Rome",,,1,3000,500
+"a wooden club",weapon,0,spec,wield,,,,,,,,,break,,2,1D3,pound (lamentation),,,"A slave","Rome",,,3,12,10
+"a bronze belt",armor,5,norm,waist,,,2hit -2str,,,,,,,8,,,,,,"The Nobleman","Rome",,,5,10000,1666
+"a blue coat",armor,5,norm,body,,,hide waterwalk,,,,,,,4,,,,,,"","",,,5,1500,375
+"a skull amulet",armor,10,norm,neck,wizd,,4ma-gain,,,,,,,2,,,,,,"The traveling sorcerer","Juris",,,6,13210,800
+"a medallion",armor,0,sm,neck,,,10hp,,,,,,,5,,,,,,"Julia","City of Raddok",,,1,780,780
+"A long, green cape",armor,10,norm,about,,,1con infra,,,,,,,8,,,,,,"Malag","City of Raddok",,,3,7334,1645
+"a large mace",weapon,10,norm,wield,,,2dam 2hit,,,,,,,,3.5,1D6,bludgeon (bludgeon),,,"Malag","City of Raddok",,,10,800,800
+"a pair of silver sleeves",armor,10,lrg,arms,,,1dam 1str,,,,f-g,,,9,,,,,,"The Silver Guard","City of Raddok",,,5,18000,2800
+"a silver bastard sword",weapon,15,norm,wield,fi pa ap mo sa ra be,,2dam  +60(detect alignment),,,,f-g,,2-hand,,17.5,5D6,slash (slash),,,"The Silver Guard","City of Raddok",,,13,8250,4030
+"a jade-colored sash",worn,10,spec,neck waist,mo priest,,2dam 10hp 15ma dsight,,,,f-g,a-e a-n,break,,,,,,,"The Noble Seer of Raddok","City of Raddok",,,4,20000,4000
+"a white, cotton cap",armor,20,sm,head,warr priest rogue,,1hit 10mv 1cha,,,,,a-g,,5,,,,,,"The Warehouse Foreman","City of Raddok",,,3,9215,4230
+"a pair of brass leg plates",armor,0,spec,legs,,,,,,,,,break,8,,,,,,"Algan","City of Raddok",,,7,14300,2860
+"an electrum ring",armor,15,norm,finger,,,2dam 2hit,,,1melee_crit_pct,,,,8,,,,,,"Lanthar","City of Raddok",,,1,5340,5340
+"a pair of winged sandals",armor,20,spec,feet,,,5dex awalk,,,,,a-n,,8,,,,,,"Mercury","Rome",,,4,75000,12500
+"a grey potion",potion,15,spec,,,,lvl40(word of recall/sleep/poison),,,,,,no-rent  break,,,,,,,"","",,,0,1000,1000
+"an opal potion",potion,0,spec,,,,lvl15(remove poison/heal light/heal light),,,,,,,,,,,,,"","",,,1,4000,1000
+"An elemental shard (shimmering blue)",weapon,15,norm,wield,dr,,2dam 4hit,25r-pier,,,,,no-rent,,15,15D1,pierce (pierce),,,"","",,,1,0,1
+"enchanted orange kushalaka",worn,0,spec,waist,mo,,1dam 20ma -1dex awalk,,,,f-g,a-e,,,,,,4sock,,random,random,,,1,15,2500
+"a brilliant bronze power crystal",enchnt-mat,0,spec,,,,1dam 1hit,,,,,,,,,,,,2sock,random,random,,,1,3,2000
+"a jeweled goblet",potion,0,spec,hold,,,-2int  lvl40(regeneration),,,,,,2slot break,,,,,,,"","",,,2,13500,3000
+"a stack of steel plates",enchnt-mat,0,spec,,,,1ac,,,,,,,,,,,,1sock(1ac),random,random,,,1,3,2000
+"A sparkling, white vest",armor,5,norm,body,,,10mv 1str 5age,,,,,a-e,,7,,,,,,"","",,,7,21875,7000
+"a silver sickle",weapon,25,norm,wield,dr,,2atk-2rd 4dam 4hit regeneration,,,,,a-g a-e,,,15,6D4,slash (slash),,,"","",,,13,103301,15251
+"a dark olive skirt",armor,20,norm,legs,dr warr wizd rogue,,30mv 6mv-gain,,,-10sv-brth,,,,12,,,,,,"Tatiana","Vrolok",,,8,72027,7227
+"a wreath of flowers",armor,15,norm,head,dr,,30ma 3ma-gain 4cha,,,,,a-g a-e,,2,,,,,,"Tatiana","Vrolok",,,1,83038,8338
+"a dark olive shirt",armor,25,norm,body,dr warr rogue,,50hp 9hp-gain hide pfe pfg,50r-pois,,-10sv-para,,,,8,,,,,,"Tatiana","Vrolok",,,12,67176,7007
+"an obsidian bracelet",armor,10,norm,wrist,,,20ma 4ma-gain,,,,,,,8,,,,,,"Voivode","Vrolok",,,2,53035,5335
+"The Eldritch Staff",weapon,15,spec,wield,ma ne,,-30hp 30ma 2int,,,,f-e,a-g,,,18,4D8,bludgeon (bludgeon),,,"Voivode","Vrolok",,,10,124421,11411
+"The Grimoire",wand,10,spec,hold,wizd,,35ma -12mv d-align 10chrg(lvl40 color spray),,3d-elec,,,,,,,,,,,"Voivode","Vrolok",,,3,47074,4774
+"a cold steel throwing axe",throw_weapon,35,spec,hold,th sa,,2dam 2dex,,,,,a-e,,,,,,,,"Alexei","Vrolok",,,3,54045,5445
+"The Defender's Sword",weapon,25,lrg,wield,pa sa,,1atk-2rd 35hp 15ma pfe,,,,,a-e a-n,curs 2-hand,,24.5,7D6,slash (slash),,,"Alexei","Vrolok",,,16,120021,12021
+"a white silk sash",armor,10,spec,waist,,,2con,,3d-divn,,,a-e,curs,3,,,,,,"Alexei","Vrolok",,,5,31013,3113
+"an emblazoned sable surcoat",armor,20,lrg,about,pa priest,,2dam -2dex pfe,20r-fire,,,,a-e,,8,,,,,,"Alexei","Vrolok",,,8,43034,4004
+"a Crusader's Shield",armor,25,lrg,shield,pa mo,,1dam 35hp 2ma-gain,,,,f-g,a-e,curs,20,,,,,,"Alexei","Vrolok",,,9,52025,5225
+"an embroidered robe",armor,15,norm,body,priest wizd,,3int,,3spell-crit-pct 5spell-crit-dam,-15sv-spell,,,,8,,,,,,"Voivode","Vrolok",,,6,45054,4554
+"priestly vestments",armor,15,norm,about,cl wizd,,20ma 2ma-gain,,,,f-e,a-g,curs,4,,,,,,"Cassova","Vrolok",,,8,46564,4774
+"a Mercury Ring",armor,15,norm,finger,,,20mv freeact,15r-elec,,2melee_crit_pct,,,,10,,,,,,"Cassova","Vrolok",,,1,37073,4224
+"a black body suit",armor,25,norm,body,th,,2dam 1str 1int s-life,,,1melee_crit_pct,,,,12,,,,,,"Cassova","Vrolok",,,2,75057,6336
+"a black mask",armor,20,norm,head,rogue,,d-align d-invis infra pfg,25r-shdw,,,f-e,,,10,,,,,,"Cassova","Vrolok",,,1,35053,3553
+"a sharp stiletto dagger",weapon,10,spec,wield,rogue,,5dam 5hit,,,,,,,,12.5,5D4,stab (pierce),,,"Cassova","Vrolok",,,7,80908,8008
+"A planetar's feather",enchnt-mat,0,spec,,,,1cha,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a whirlwind cloak",armor,15,norm,neck,warr wizd rogue,,1dam 35hp 1dex waterwalk,,,,,,,5,,,,,,"Grigori","Vrolok",,,1,52025,6006
+"a pair of tasseled boots",armor,15,norm,feet,,,20hp 3dex awalk,,,,,,,6,,,,,,"Sasha","Vrolok",,,4,40404,4004
+"a pair of silk sleeves",armor,15,norm,arms,priest wizd rogue,,4hit 2str freeact,,,,,,,2,,,,,,"Sasha","Vrolok",,,4,31913,3223
+"a gold and silver lyre",wand,25,norm,shield hold,ba,,30ma 3cha -20aps  10chrg(lvl40 charm monster),,,,,,,,,,,,,"Sasha","Vrolok",,,9,34543,3553
+"a magic flute",wand,20,norm,hold,,,3ma-gain 2cha  10chrg(lvl40 charm monster),,2d-sonc,,,,break,,,,,,,"Sasha","Vrolok",,,3,27572,2882
+"A feathered Lorist's cap",armor,20,norm,head,ba,,2str 2con 2cha,,,,,,,3,,,,,,"Sasha","Vrolok",,,2,47074,4774
+"a pair of spurred boots",armor,15,norm,feet,warr,,2dam -20mv 2con,-15r-fire,4d-cold,,f-e,a-g,,6,,,,,,"Ordog","Vrolok",,,4,59095,5995
+"a pair of flit wings",enchnt-mat,0,spec,,,,2dex,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a cloudy red beryl",enchnt-mat,0,spec,,,,,,,1melee_crit_pct,,,,,,,,,1sock,random,random,,,1,3,2000
+"a fire opal bracelet",armor,15,spec,wrist,cl dr,,20ma haste,-25r-cold,,5h-bonus,,,,0,,,,,,"in Vault","Vault",,,2,4660,4660
+"a pair of white pantaloons",armor,5,sm,legs,,,33mv -1dex,,,,,a-e,,12,,,,,,"","",,,11,20000,50000
+"a plain silver circlet",armor,25,norm,head,,,15ma 15mv freeact hide,30r-sumn,,,,,,8,,,,,,"Elrond","Imladris",,,2,60000,15000
+"A pair of spectral gauntlets",armor,20,spec,hands,,,2dam 2int  +40(ice lance),20r-life,,,f-e,,,10,,,,,,"","",,,1,84148,8228
+"an Iron Cross",weapon,20,lrg,wield,cl,,20ma -2dex -20aps,,,3h-bonus,,,,,18,9D3,crush (bludgeon),,,"","",x,,13,65456,6556
+"a ranging ring",armor,0,spec,finger,ra ba,,1dam 2dex awalk haste sneak,,4d-spell,,,a-e,,,,,,,,"Elrohir","Shire",x,,1,100000,25000
+"Vulcanus, hammer of the gods",weapon,25,lrg,wield,,,2atk-2rd,25r-fire,,,,,,,19.5,13D2,pound (bludgeon),,,"Hadrian the Fighter","Vault",x,,28,38763,6510
+"The Hammer of the Underworld",weapon,25,lrg,wield,,,,,10melee-crit-dam,5melee_crit_pct,,,,,,,,,,"","",x,,30,120021,12021
+"a suit of black field plate mail",armor,20,lrg,body,warr,,2dam,50r-divn,,,,,,17,,,,,,"","",x,,15,63936,6556
+"superior enchanted white slippers",armor,0,spec,feet,cl dr,,2ma-gain -1wis,,,3h-bonus,,a-e,,4,,,,5sock,,random,random,,,2,45,3500
+"a tul rune",enchnt-mat,0,tiny,,,,+20(lightning bolt),,,,,,,,,,,,1sock,random,random,,,3,30,3000
+"a zel rune",enchnt-mat,0,tiny,,,,+30(vitalize mana),,,,,,,,,,,,1sock,random,random,,,3,30,3000
+"Sisyphus' Stone of Power",light,20,lrg,hold,fi pa ap mo sa ra be,,2dam 1hit 15ma,,,,,,,,,,,,,"Sisyphus","Swamp",,,6,75000,7500
+"a crystal ring",worn,15,norm,finger,,,2dam 15hp 3hp-gain,,,,,,,,,,,,,"","",,,1,55000,8500
+"a pair of red silk slippers",armor,0,spec,feet,,,2dam 1dex,,,,,,break,4,,,,,,"","",,,2,72000,5700
+"a pair of dashing green tights",armor,10,norm,legs,,,2dam 4mv 2dex,,,,,,,7,,,,,,"","",,,8,70000,17500
+"a tightly strung English longbow",weapon,20,spec,wield,ra,,3dam 20ma,,,3melee_crit_pct,,a-e,2-hand,,24,8D5,pierce (special),,,"","Nottingham",,,24,160000,40000
+"a pair of Gauntlets of Dexterity",armor,0,spec,hands,,,3dam 3dex haste,40r-fire,,,,,,8,,,,,,"chest past Robin Hood","Nottingham",,,10,60000,15000
+"The Golden Compass",worn,20,spec,trinket,warr,,,25r-elec,,,,,,,,,,,,"Captain Titara","Black Market",,,6,142000,12000
+"the quiver of Artemis",container,25,spec,about,ra,,,,,,,,,,,,,,,"","",x,,5,172000,43000
+"a silhouette rapier",weapon,15,norm,wield,fi dr wizd rogue,,4hit,,,,,,,,,,,,,"Grigori","Vrolok",x,,6,92029,9229
+"a gold leaf belt",worn,0,norm,waist,,,,,,2h-bonus,,,,,,,,,,"","",,,6,800,200
+"a humming ring",wand,0,norm,finger hold,,,5chrg(lvl5 cure serious),,,,,,,,,,,,,"","",,,2,4000,1000
+"a pair of blue and white shirt sleeves",armor,5,spec,arms,priest,,10ma 10mv,,4d-spell,,,,,0,,,,,,"","Vault",,,3,32383,2140
+"some red and orange shirt sleeves",armor,20,spec,arms,warr,,2dam,-25r-sumn,,,,,,4,,,,,,"Hadrian the Fighter","Vault",,,5,12443,2300
+"a choker of steel teeth",armor,20,spec,neck,,,2dam 25hp silence,,3melee-crit-dam,8dmg_self,,,,0,,,,,,"","Vault",,,1,32482,6600
+"Jupiter's Thunderbolt",weapon,20,spec,wield,,,4dam 4hit sonar +75(lightning bolt),30r-elec -30r-sonc,6d-elec,,,,,,12.5,5D4,shock (special),,,"","",,,18,130616,16667
+"a weak lightning orb",enchnt-mat,0,spec,,,,,,1d-elec,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a sparkle of starlight",light,25,spec,hold,,,d-invis dsight infra regeneration,,4d-lght,,,,,,,,,,,"Aziliz","Shire",,,1,24600,4920
+"a golden comb",armor,20,spec,head,,,3dam -2wis,-20r-elec,,,,,,2,,,,,,"Ank-a-doodle-ou, the rooster of death","Shire",,,3,17000,3400
+"The Sceptre of Sirona",light,20,spec,,,,sonar d-align d-invis d-magic dsight infra s-life,,3d-sonc,,,,,,,,,,,"The woodsman","Bonne Terre",,,6,78087,7887
+"some worn leather gloves",armor,0,spec,,,,1hit -1str,,,,,,,3,,,,,,"","",,,3,7210,400
+"a GIANT black beetle carapace shield",armor,20,gnt,shield,warr,,-50aps,,,,,,break,25,,,,,,"","",,,0,0,0
+"an Obsidian Mace named Oblivion",weapon,20,norm,wield,warr priest,,18ma 3int,,,,f-e,,,,17.5,5D6,bludgeon (bludgeon),,,"","",,,12,78517,15703
+"a Mystical Shield",worn,10,norm,shield hold,ma cl fi pa ap mo sa ra dr ne,,20ma 1dex curse,,,,f-e,a-e,curs,,,,,,,"The mystical Goblin","Swamp",,,25,40000,2500
+"a pair of feathered wings",armor,10,spec,arms,ma,,2dex awalk,,,,,,,14,,,,,,"The witch Hecate","Mortimer",,,5,3290,3290
+"a shadow dagger",weapon,10,spec,wield hold,ma ap ne,,1dam,,,,f-e,,hold-w,,15,5D5,pierce (pierce),,,"A roaming demon","Mortimer",,,13,4270,4270
+"Hat of the Mortician",armor,10,norm,head,ma ap ne,,50hp 5ma-gain 2int,,,,,a-g,,0,,,,,,"","",,,7,3770,3770
+"the Sickle of Death",weapon,30,spec,wield,ma ap ne wa,,20ma-gain -3str 10age  +25(ghoul gauntlet),,5d-cold,,,a-g a-n,2-hand,,21,7D5,slash (slash),,,"","",,,15,10820,10820
+"a crown of green leaves",armor,30,norm,head,cl dr,,regeneration,,,10h-bonus,,,break,6,,,,,,"Sycorax, the breathing tree","Mortimer",,,1,56345,3453
+"a Mighty Branch",weapon,30,spec,wield,,,30ma,,10d-spell,30h-bonus,,,2-hand,,19,2D18,bludgeon (bludgeon),,,"Sycorax, the breathing tree","Mortimer",,,16,145740,14574
+"a Hood of the Dragon",worn,25,norm,head,,,15ma 3str d-align,,4d-fire,,,,,,,,,,,"Flagg the Sorceror","Mortimer",,,7,4560,4560
+"the Eye of the Dragon",light,25,spec,,,,2ma-gain infra s-life,,5d-spell,,,a-g,,,,,,,,"Flagg the Sorceror","Mortimer",,,6,7670,7670
+"a Staff of Safety",staff,0,spec,hold,,,1chrg(lvl20 word of recall),,,,,,,,,,,,,"","Mortimer",,,7,1510,1510
+"the Phantom Dagger",weapon,20,spec,wield,th,,1atk-2rd 4hit -2wis,,,,,a-g a-n,,,18,6D5,pierce (pierce),,,"","Mortimer",,,13,100000,7900
+"The Head of Macbeth",other,30,spec,hold,,,,,,,,,no-rent,,,,,,,"","Mortimer",x,,6,11750,11750
+"a crusader ring",armor,25,norm,finger,cl warr,,2dam pfe,25r-shdw,,,f-g,a-e,,16,,,,,,"","",,,1,28300,6500
+"a Cloak of the Mortician",armor,30,norm,about,ne wa,,20ma -4cha sonar cloak-s haste,,,,,a-g a-n,,0,,,,,,"","",,,1,70000,7680
+"a lightweight canoe",boat,0,spec,hold,,,,,,,,,,,,,,,,"","",,,10,6250,500
+"two ivory dice",enchnt-mat,0,spec,,,,2-d2,,,,,,,,,,,,1sock(2-d2),random,random,,,1,10,2000
+"the Dark cape of the Magi",armor,30,spec,neck,ma ne wa,,40hp 20ma 2ma-gain,,,,,a-g,,6,,,,,,"","",,,4,50000,25000
+"a Cloak of the Dragon",container,30,norm,neck,,,2con d-invis invis regeneration,,6d-fire,,,a-g,,,,,,,,"Flagg the Sorceror","Mortimer",,,1,5710,5710
+"the Ring of Elemental Destruction",armor,15,spec,finger,ma mo ra dr,,2dam 15hp -1str -1int,,4d-spell,,,,,0,,,,,,"Sisyphus","Swamp",,,1,50000,6000
+"an old, gnarled staff",weapon,5,lrg,wield,cl mo dr,,15ma,,,,,,,,10,4D4,bludgeon (bludgeon),,,"High Priest Scytodes","Swamp",,,14,160000,40000
+"the Claw of a Dragon",weapon,40,spec,wield,,,2dam -1dex,,,1melee_crit_pct,,,,,15,6D4,slash (fist),,,"Lord Selenops","Swamp",,,18,45000,9400
+"The Helm of Elemental Radiance",armor,20,spec,head,ma,,-20ma -2int awalk,25r-fire 25r-elec 25r-cold,,,,,,10,,,,,,"Archmage Salassina","Swamp",,,7,74000,12000
+"a woven leather staff of fire",staff,15,lrg,hold,ma,,3chrg(lvl30 fireball),,,,,,,,,,,,,"Archmage Salassina","Swamp",,,7,6070,6070
+"a pouch of beholder salts",enchnt-mat,0,spec,,,,2mv-gain,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"superior enchanted gnarled wand",weapon,0,spec,wield,dr,,-1int,,5d-spell,,,a-g a-e,,,7.5,3D4,bludgeon (bludgeon),5sock,,random,random,,,10,45,3000
+"a suit of atlantian chainmail",armor,25,spec,body,,,3dam 15hp -25ma -2dex 1con,,,,,a-g,,12,,,,,,"A Treasury Guardian","Swamp",,,15,100000,12000
+"a pair of atlantian bracers",armor,25,spec,arms,,,2dam 15hp,,,1melee_crit_pct,,a-g,,8,,,,,,"A Treasury Guardian","Swamp",,,8,100000,12000
+"a giant's finger bone",enchnt-mat,0,spec,,,,2str,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"the Wristlet of Passing Truths",armor,25,spec,wrist,mo,,4dam,,5d-fire 5d-elec,,,a-e a-n,,8,,,,,,"in Vault","Sylvan Swamp",,,4,100000,12000
+"the Circlet of the Arch-Mage",armor,25,spec,head,ma,,25hp,,6d-spell 3spell-crit-pct,,,a-g,,4,,,,,,"in Vault","Swamp",,,8,100000,12000
+"the Gauntlets of Destruction",armor,25,spec,hands,be,,3dam 2hit 25ma,,,,,,,12,,,,,,"in Vault","Swamp",,,8,100000,12000
+"a wizard's rod",enchnt-mat,0,spec,,,,,,,-5saving_rod,,,,,,,,,1sock,random,random,,,1,3,2000
+"a black apple",food,0,tiny,,,,,,,,,,,,,,,,,"in Vault","Sylvan Swamp",,,1,300,150000
+"a large mithril bar",treasure,0,spec,hold,,,,,,,,,break,,,,,,,"","Swamp",x,,20,300000,75000
+"the head of the basilisk",staff,20,spec,hold,,,freeact 8chrg(lvl40 paralyze),,,,,,no-rechrg,,,,,,,"The basilisk","Nottingham",,,35,40000,10000
+"The Shogunate Signet of Power",armor,15,spec,finger,sa,,2dam 10ma 3ma-gain,,,,,,,10,,,,,,"Shogun Ieyasu Tokugawa","Forbidden Empire",,,1,100000,12000
+"a white steel neck guard",worn,20,norm,neck,,,2dam -10aps,15r-cold,,,,a-e,,,,,,,,"Shogun Ieyasu Tokugawa","Forbidden Empire",,,2,68500,7000
+"'Hanzo Masamune,' the Sword of Peace",weapon,20,spec,wield,sa,,1atk-2rd 2hit,,,,f-g,a-e a-n,break,,18,9D3,slash (slash),,,"Shogun Ieyasu Tokugawa","Forbidden Empire",,,17,325000,12400
+"a green kimono",armor,10,norm,about,,,15ma 7mv,,,5h-bonus -5sv-petri -5sv-spell,,a-e,,10,,,,,,"Princess Yukiko","Forbidden Empire",,,8,31000,4250
+"a steel fan",other,20,norm,hold,,,15mv 3mv-gain d-align haste,,6d-elec,,,,,,,,,,,"Princess Yukiko","Forbidden Empire",,,1,20000,2500
+"a glowing wand",wand,0,spec,hold,,,5chrg(lvl9 lightning bolt),,,,,,,,,,,,,"","",,,7,1000,930
+"a slender and flexible piece of bamboo",weapon,30,spec,wield,,,,,,,,,no-rent   2-hand,,5.5,1D10,bludgeon (bludgeon),,,"","",,,4,100,100
+"a tanso backpack chest",container,0,spec,about hold,,,,,,,,,,,,,,,,"","",,,18,125000,2000
+"a pale blue gown",armor,5,norm,body,,,imp-invis,,,,,,,4,,,,,,"The miller's daughter","Bonne Terre",,,12,2550,2550
+"a sapphire blue cloak",armor,5,norm,about,,,2con,,,,,,,8,,,,,,"The miller's daughter","Bonne Terre",,,8,2150,2150
+"Yevaud's White Fang",armor,25,spec,head,pa ba ra,,,25r-acid,,,,a-n,,,,,,,,"","",x,,7,82000,13000
+"a black leather belt",armor,5,norm,waist,,,2dex,,,,,,,8,,,,,,"","",,,5,1940,1940
+"a pair of crystal bracers",armor,5,norm,arms,,,1dam 1hit,,,,,,,7,,,,,,"","",,,5,1790,1790
+"enchanted chromatic bow",weapon,0,spec,,ra,,-1dam,,3d-spell,,,,,,7,2D6,chill (special),4sock(1-d1 1-d2 1prof),,random,random,,,1,15,2000
+"the cyclopean maul",weapon,15,spec,wield,,,3dam,,,50aggr_general,,,2-hand,,13,2D12,pound (bludgeon),,,"at fountain","Aurvuron",,,34,9715,3000
+"a glinting silver bracelet",armor,15,spec,wrist,,,2dam,-50r-elec,,,f-n,a-g a-e,,3,,,,,,"The Master's apprentice","College",,,5,25000,4500
+"a seal of obedience",trash,0,spec,,,,,,,,,,break,,,,,,,"The Madman","Aurvuron Citadel",,,0,47000,12000
+"the Gorebringer axe",weapon,20,norm,wield,warr,,5hp-gain rage,,,,,,2-hand  break,,26,4D12,slash (slash),,,"","",,,30,55000,13750
+"Skin of the Traitor",armor,30,sm,body,priest wizd,,freeact haste,,9d-spell 1spell-crit-pct,8dmg_self,,,,3,,,,,,"","Aurvuron Citadel",,,12,70000,17500
+"bile extractor kit",armor,20,norm,head about,,,100hp 10str sonar,30r-shdw,,,,,N,13,,,,,,"","Aurvuron Citadel",,,12,30000,7500
+"a frostbite brew",potion,0,spec,,,,lvl40(),,,25 hp-gain(10tic) 25 mv-gain(10tic) 50 r-cold(4tic),,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
+"a thin ivory bracelet",worn,30,norm,wrist,wizd,,25hp,25r-divn 25r-fear,10d-spell,,,,,,,,,,,"","Aurvuron Citadel",,,1,55000,10000
+"an elixir of the shattered sun",potion,0,spec,,,,lvl40(),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
+"a flimsy veil",armor,10,sm,head mask,,,2hit imp-invis,,,,,,,4,,,,,,"","",,,2,20000,5000
+"black tunic",armor,25,sm,body about,,,2dam,,,,f-e,,,6,,,,,,"","",,,8,6000,1500
+"an opal bracelet",armor,5,spec,wrist,,,1dam 1con,,,,,,,1,,,,,,"","",,,2,20000,4000
+"a suit of armor made of leaves",armor,30,norm,body,,,3dam,15r-pois,,,,,,1,,,,,,"","Tuatha de Danaan",,,4,35000,8750
+"a broken lyre",other,20,spec,hold,ba,,1atk-2rd -1dam -2hit -2int,,,,,,curs,,,,,,,"The Master of the Black Robes","College",,,6,40000,4000
+"a minor celestial warding cube",other,5,spec,hold,,,-2dam,25r-blgn,,,,,,,,,,,,"The Master of Goodness","College",,,5,50000,5000
+"a chameleon poncho",armor,5,spec,about,,,20hp -1size,-50r-fire,,,,,,8,,,,,,"in hallway","College",,,4,20000,5000
+"a spiked collar",armor,5,spec,neck,,,,25r-slsh -25r-pier -25r-blgn,,,,,,,,,,,,"The calico cat, A blue tortoise","Swamp",x,,9,35000,6000
+"a pair of white, silk stockings",armor,25,sm,legs,pa ba ra dr,,15hp,-35r-cold 35r-gas,7d-spell,,,,,6,,,,,,"","",,,2,20000,5000
+"a lightning recurve bow",weapon,20,norm,wield,ra,,2dam,,,-2sv-spell,,,,,15,5D5,shock (special),,,"","",,,28,48239,4330
+"one dungeon master two-sided die",enchnt-mat,0,spec,,,,1-d1 2-d2,,,,,,,,,,,,2sock(1-d1 2-d2),random,random,,,1,15,3000
+"a cloudy resonating crystal",enchnt-mat,0,spec,,,,1hit,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"the black staff of ancient magic",light,10,spec,hold,,,1dam 25hp,-25r-lght,,1melee_crit_pct,,a-g,curs,,,,,,,"","",,,6,50000,12500
+"enchanted gold armlet",armor,0,spec,arms,wizd,,-1con awalk,,2spell-crit-pct,,,a-e,,8,,,,3sock,,random,random,,,2,15,2500
+"a weak torniquete",enchnt-mat,0,spec,,,,,,1d-life,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a glowing bronze power crystal",enchnt-mat,0,spec,,,,1dam -1hit,,,,,,,,,,,,2sock,random,random,,,1,3,2000
+"superior enchanted red silk gloves",armor,0,spec,hands,wizd,,5mv 2mv-gain -1con,,,,f-e,a-g,,4,,,,5sock,,random,random,,,3,45,3500
+"a stack of cobalt plates",enchnt-mat,0,spec,,,,3ac,,,,,,,,,,,,1sock(3ac),random,random,,,1,3,2000
+"a single, black glove",armor,30,norm,hands,ra,,2dam 2hit  +10(bash),,5d-cold,,f-e,,break,9,,,,,,"Lanthar, Kells","Midgaard",,,6,24300,11270
+"a vermillion kilt",armor,15,lrg,legs,,,2dam,,,,,,,5,,,,,,"Master Werewolf","Vrolok",x,,6,72127,7117
+"a small vial of bloodpetal sap",poison,35,spec,,,,,,,,,,,,,,,,,"","",,,1,10000,2000
+"an obsidian throwing dagger",throw_weapon,30,spec,hold,,,2dam,,,1melee_crit_pct,,,break,,,6D6,pierce (throw),,,"","",,,0,6500,2000
+"superior enchanted black riding boots",armor,0,spec,feet,wizd,,5mv 2mv-gain -1int,,,,f-e,a-g,,4,,,,5sock,,random,random,,,3,45,3500
+"enchanted leather gloves",armor,0,spec,hands,rogue,,7mv -1dex,,,,,a-e,,8,,,,4sock,,random,random,,,3,15,2500
+"a weak plague vial",enchnt-mat,0,spec,,,,,,1d-pois,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a single ivory die",enchnt-mat,0,spec,,,,1-d2,,,,,,,,,,,,1sock(1-d2),random,random,,,1,3,2000
+"a small vial of planetar blood",enchnt-mat,0,spec,,,,6hp,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"A captain's rawhide armor",armor,5,spec,body,warr rogue,,1hit -1con -10aps,,,2sv-spell,,,,6,,,,,,"The Astyll Ranger Captain","Astyll Hills",,,7,5400,1400
+"a captain's silver longsword",weapon,0,spec,wield,fi pa sa be,,1dam,,,,,a-e,2-hand break,,7.5,3D4,slash (slash),,,"The Astyll Ranger Captain","Astyll Hills",,,16,5700,1500
+"a small pouch of mindflayer salts",enchnt-mat,0,spec,,,,1ma-gain,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a torniquete",enchnt-mat,0,spec,,,,,,2d-life,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a basilisk thagomizer",worn,15,spec,trinket,,,5ma-gain freeact,,,,,a-g,,,,,,,,"An armored basilisk","Blightland",,,3,21000,3500
+"a silver power crystal",enchnt-mat,0,spec,,,,2dam -2hit,,,,,,,,,,,,2sock,random,random,,,1,3,3000
+"The Jewel of the Deep",other,20,norm,hold,ma pa ba mo ra dr ne wa,,,,6d-spell,,,,,,,,,,,"in buried chest","Burning Talon",x,,3,62000,10000
+"a slender, bone earring",other,0,lrg,head,ma cl ba ra dr ne wa,,19ma 3mv-gain  +40(teleport minor),,,,,,,,,,,,,"A hill giant","Blightland",,,4,20000,6000
+"a hill giant's girdle",other,0,lrg,waist,,,1dam 1str -1dex,,,,,,,,,,,,,"A hill giant","Sylvan Jungle",,,8,35000,5500
+"a steel claymore named, 'Nylaetha'",weapon,10,spec,wield,,,-1int -1wis,,,1melee_crit_pct,f-g,a-e,2-hand,,14,4D6,slash (slash),,,"The Captain of the Guard","Juris",,,22,21010,1500
+"a bone handled dagger",weapon,10,norm,wield,th ap,,1dam,,,,,a-g,,,10,4D4,pierce (pierce),,,"Pel","Juris",,,8,13874,1200
+"a red robe of the Order of the Skull",worn,10,norm,body,priest,,10mv d-invis,,,,,a-g,,,,,,,,"A Priestess of the Order of the Skull","Juris",,,6,13540,900
+"a diamond engagement ring",armor,0,spec,finger,,,,,,,,,,0,,,,,,"Jeweler","Juris",,,1,500000,10000
+"a gold wedding band",armor,0,spec,finger,,,,,,,,,,0,,,,,,"Jeweler","Juris",,,0,25000,2000
+"some battle gauntlets",armor,10,lrg,hands,warr,,1dam -1con,,,,,a-e,,4,,,,,,"The Jailor","Juris",,,8,13700,800
+"the Governor Ring",armor,10,norm,finger,,,1dam 1con,,,,,a-e,,3,,,,,,"The Governor of Juris","Juris",,,4,11321,520
+"a crescent moon shaped rock",other,0,spec,,,,,,,,,,no-rent   break,,,,,,,"A smuggler","Juris",,,1,0,0
+"a crystalline figurine of a man",other,0,spec,,,,-1hit,,,,,,break,,,,,,,"","Juris",,,0,0,0
+"a twine bracelet",armor,0,lrg,wrist,,,1hit -1str,,,,,,,2,,,,,,"The Mayor's son","Juris",,,1,4250,800
+"a tarnished steel cup",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"A Honu tribeswoman","Darkrime",,,2,0,0
+"a tin dagger",weapon,0,spec,wield hold,,,,,,,,,no-rent break,,2.5,1D4,stab (pierce),,,"A Honu tribesman","Darkrime",,,1,0,0
+"a brass ring",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"A Honu child","Darkrime",,,1,0,0
+"a black bear pelt",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"A Honu tribesman","Darkrime",,,6,0,0
+"a small axe with a red handle",weapon,0,spec,wield hold,,,,,,,,,no-rent break,,4.5,1D8,slash (slash),,,"A Honu tribesman","Darkrime",,,2,0,0
+"a bronze spear",weapon,0,norm,,,,,,,,,,no-rent break,,9,2D8,pierce (pierce),,,"in hut","Darkrime",,,8,0,0
+"a chunk of flint",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"A Honu tribesman","Darkrime",,,1,0,0
+"a dried red herring",food,0,spec,,,,,,,,,,no-rent break,,,,,,,"A Honu tribeswoman","Darkrime",,,1,0,0
+"a tar-covered sword",weapon,0,spec,wield,,,,,,,,,no-rent break,,6.5,1D12,slash (slash),,,"A Honu tribesman","Darkrime",,,5,0,0
+"a solid silver disc",treasure,0,spec,,,,,,,,,,no-rent break,,,,,,,"Muri, Honu elder","Darkmire",,,4,0,0
+"an eagle feather",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"Gelsa, Honu witch","Darkmire",,,1,0,0
+"a polished steel helmet",armor,0,spec,head,warr rogue,,1hit 1str,,,,,,,6,,,,,,"The Rook Captain","Canticle",,,7,5500,1800
+"a thin leather collar",worn,25,spec,neck,,,-1size,-30r-blgn,,,,,curs,,,,,,,"orange puppy","Nature's Descent",x,,3,120000,30000
+"a tattoo of an eagle",worn,15,spec,neck arms,,,1dam 1dex awalk,,,,,,d-curs,,,,,,,"Kano, son of Goro","Darkmire",,,1,56000,5600
+"a brass coin",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"Kano, son of Goro","Darkmire",,,1,0,0
+"some wild berries",food,0,spec,hold,,,,,,,,,break,,,,,,,"forage","mountain terrain",,,2,500,100
+"an edible mushroom",food,0,spec,,,,,,,,,,break,,,,,,,"forage","forest terrain",,,2,750,120
+"some bat guano",potion,0,spec,hold,,,lvl20(bat sonar/poison),,,,,,break,,,,,,,"forage","hill terrain",,,1,4200,300
+"a small ginseng root",food,0,spec,hold,,,lvl25(vitm light),,,,,,break,,,,,,,"forage","hill terrain",,,1,425,100
+"a vial of angel's trumpet oil",potion,0,spec,,,,lvl25(word of recall/smite evil),,,,,,break,,,,,,,"forage","hill terrain",,,1,10000,3500
+"some red mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,break,,,,,,,"forage","mountain terrain",,,0,0,0
+"a bunch of wild blackberries",food,0,spec,,,,,,,,,,no-rent break,,,,,,,"on ground","Darkrime",,,0,0,0
+"a snow hare skull",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"A sabertooth tiger","Darkrime",,,2,0,0
+"a hooded green cloak",armor,15,norm,about,ra,,,,3d-spell,,f-n,,,20,,,,,,"","Arcane",x,,4,14741,1441
+"a tattoo of a grizzly bear",worn,20,spec,neck arms,warr rogue,,2dam 20hp 5hp-gain,,,,,,d-curs,,,,,,,"Goro, Honu chieftain","Darkmire",,,1,60000,6000
+"the Axe of the Mountain Lords",weapon,20,norm,wield,warr,,4dam 40hp,,,,,a-e,2-hand,,18,12D2,slash (slash),,,"Goro, Honu chieftain","Darkmire",,,15,80000,8000
+"a rams-head hammer",key,0,spec,hold,,,,,,,,,no-rent  break,,,,,,,"Goro, Honu chieftain","Darkmire",,,3,0,0
+"a vial of medicine",liq_container,0,spec,,,,,,,,,,,,,,,,,"Hans Jurgen, doctor of Juris","Juris",,,1,1400,350
+"a stuffed bear named 'Miss Kitty'",other,0,spec,hold,,,1cha imp-invis,,,,f-g,,,,,,,,,"Kyoma, youngest son of Goro","Darkrime",,,1,250,62
+"an aloe tincture",potion,0,spec,hold,,,lvl40(heal light),,,,,,break,,,,,,,"forage","hill terrain",,,1,9200,1450
+"a basilisk shedding",staff,20,spec,hold,,,3chrg(lvl40 paralyze),,,,,,break,,,,,,,"forage","hill terrain",,,3,48000,3500
+"some white mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,break,,,,,,,"forage","mountain terrain",,,0,0,0
+"a yarrow potion",potion,0,spec,hold,,,lvl40(sovereign heal),,,,,,break,,,,,,,"forage","hill terrain",,,0,0,0
+"a bundle of mistletoe",wand,20,spec,hold,,,20chrg(lvl40 charm person),,,,,,break,,,,,,,"forage","hill terrain",,,5,36500,5000
+"a small vial of arcanaloth blood",enchnt-mat,0,spec,,,,6ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a droplet of unmelting ice",worn,25,spec,neck,priest wizd,,10ma awalk sustain,,,,,a-e,,,,,,,,"Kalinda","Darkmire",,,1,124400,12440
+"Ioun stone",worn,20,spec,neck body head legs hands arms about waist wrist,,,sustain,,,,,,curs,,,,,,,"","Mt Hate",x,,1,100000,25000
+"an Axe of the Dragon",weapon,30,spec,wield,ma cl fi pa ra,,1atk-2rd 4dam,50r-fire,6d-fire,,,,,,18,6D5,slash (slash),,,"Flagg the Sorceror","Mortimer",,,30,17980,15000
+"a silvery lace cap",armor,0,norm,head,,,20ma 1wis dsight,,,,,a-e,,10,,,,,,"","",,,2,80000,20000
+"a silver leaf girdle",armor,20,norm,waist,priest,,1wis 2con,,3d-spell 2spell-crit-pct,,,,,3,,,,,,"","",,,1,28000,7000
+"a grey hooded cloak",worn,15,norm,about,,,1dam 2dex -10aps awalk dsight invis_to_enemies,,,,,a-e,,,,,,,,"","",,,4,20000,5000
+"the blade-shard of Narsil",weapon,20,spec,hold,warr,,2dam 25hp d-align,,,,,a-e,hold-w,,20,4D9,slash (slash),,,"Strider","Imladris",,,5,60000,15000
+"the hilt-shard of Narsil",weapon,20,spec,wield,warr,,1hp-gain 1con,,,,,a-e,,,20,4D9,slash (slash),,,"Strider","Imladris",,,15,300000,2000
+"a handful of blueberries",food,0,spec,hold,,,lvl25(vigorize light),,,,,,break,,,,,,,"forage","hill terrain",,,1,800,120
+"some poisonous alpine thistle sap",poison,20,spec,hold,,,,,,,,,break,,,,,,,"forage","hill terrain",,,1,14300,1000
+"some deadly nightshade poison",poison,25,spec,hold,,,,,,,,,break,,,,,,,"forage","hill terrain",,,1,19200,3000
+"a brimstone effigy",staff,15,spec,hold,,,2chrg(lvl35 flamewalk),20r-cold,7d-fire,,,,,,,,,,,"","",,,7,28000,9000
+"A vial of devil's trumpet oil",potion,0,spec,,,,lvl25(word of recall/smite good),,,,,,break,,,,,,,"forage","hill terrain",,,1,10000,3500
+"a pixie potion",potion,0,spec,hold,,,lvl25(lesser electricity resistance/lesser fire resistance),,,,,,break,,,,,,,"forage","hill terrain",,,1,9200,1000
+"a frostbite brew",potion,0,spec,,,,lvl40(),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
+"a vial of dire wolf blood",potion,0,spec,,,,lvl30(shrink/poison/smite good),,,,,,break,,,,,,,"","",,,1,80000,4000
+"a frosted cladonia potion",potion,0,spec,hold,,,lvl30(healing dream),,,,,,break,,,,,,,"","",,,1,15200,1500
+"a nettle thorn potion",potion,0,spec,hold,,,lvl40(remove poison),,,,,,break,,,,,,,"","",,,0,0,0
+"a buckskin tunic",armor,5,norm,body,,,2dex,,,,,,,7,,,,,,"","",,,12,1770,1770
+"superior enchanted lightning bow",weapon,0,spec,wield,ra,,-1dam,,5d-elec,,,,,,7,2D6,shock (special),5sock(1-d1 1-d2 1prof),,random,random,,,22,45,3000
+"A filigreed silver locket",container,0,spec,neck,,,,,,,f-g,,,,,,,,,"Kalinda, the ice faerie","Swamp",,,1,16000,4000
+"a rough iron bracelet",worn,20,norm,wrist,pa mo ra be,,1dam 2hit sonar,,,,f-g,a-e,,,,,,,,"Goro, Honu chieftain","Darkmire",,,7,50000,5000
+"The legendary greatsword, 'Slayer'",weapon,25,lrg,wield,fi pa ap ra,,5hit -2dex -1con awalk,,10melee-crit-dam,2melee_crit_pct,,,2-hand,,27,6D8,slash (slash),,,"Sisyphus","Swamp",,,13,135000,13500
+"some clawed boots",armor,20,lrg,feet,,,2dam 3mv-gain -2dex -35aps,,,,,,,12,,,,,,"Sisyphus","Swamp",,,4,95000,9000
+"the Ring of the Lizardkind",armor,15,lrg,finger,mo warr rogue,,2dam 25ma 3ma-gain -1str -1con,,,,,,,0,,,,,,"Sisyphus","Swamp",,,1,50000,80000
+"A breastplate of tortoise shell",armor,15,lrg,body,,,2dam 2hit 10hp,25r-elec,,,,,,10,,,,,,"Sisyphus","Swamp",,,12,62000,7000
+"a vial of arcanaloth blood",enchnt-mat,0,spec,,,,11ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a lion bane reed",wand,0,spec,hold,ra,,10chrg(lvl30 poison),,,,,,break,,,,,,,"","",,,3,12300,2000
+"a ringed belt",armor,5,norm,waist,,,,50r-fire,,,,,,4,,,,,,"","",,,5,2820,2820
+"The Golden Talons",weapon,10,spec,wield,,,3dam 3hit,,,,,,,,16,8D3,claw (fist),,,"","Crypt",,,16,90000,30000
+"an earring of captive flame",worn,20,spec,head,,,2int d-align infra,30r-fire,5d-fire 4d-spell,,,,,,,,,,,"Prowler","Aurvuron",,,1,40000,4500
+"razor of the Ivory Covenant",weapon,15,spec,wield,,,3dam freeact pfg,,5d-shdw,,,a-g,,,13,2D12,pierce (pierce),,,"","",,,5,24270,17000
+"a weak ice crystal",enchnt-mat,0,spec,,,,,,2d-cold,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The Watchman's Lamp",light,20,spec,hold,,,1dam sonar,,,,f-e,,curs,,,,,,,"A skeletal barrelman","Swamp",x,,7,47600,7600
+"a weak glass prism",enchnt-mat,0,spec,,,,,,2d-lght,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a tiny pouch of frost crystals",enchnt-mat,0,spec,,,,,20r-cold,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a fur trimmed scarlet girdle",armor,25,lrg,waist,,,1dam 30hp awalk,,2melee-crit-dam,2melee_crit_pct,,,break,8,,,,,,"Blackthorn","Aurvuron Citadel",,,8,18000,7000
+"fetish of the darkcaster",other,20,spec,finger neck wrist,,,cloak-s +65(poison),,6d-fear 3d-shdw,,f-e,a-g,curs,,,,,,,"","",,,1,30000,10000
+"an engraved shield",armor,20,spec,shield,,,2dam 19ma,,4d-spell,,,,,20,,,,,,"Moyne","Shire",,,9,65000,6500
+"superior enchanted yoshihara katana",weapon,0,spec,wield,sa,,2atk-2rd -1dam,,,,f-g,a-e a-n,,,3.5,1D6,slash (slash),5sock(2-d1 1-d2 1prof),,random,random,,,20,45,3000
+"a radiant silver power crystal",enchnt-mat,0,spec,,,,2dam,,,,,,,,,,,,1sock,random,random,,,1,3,3000
+"a flaming sceptre",light,15,spec,hold,fi pa ba mo sa ra be,,2dam,25r-fire,,,,,,,,,,,,"","Caves of Fire",,,6,62500,4800
+"A suit of ornate cotton armor",armor,15,lrg,body,warr,,2dam 10ma 1int 50aps,,,,,,,4,,,,,,"Lord Selenops","Swamp",,,12,39000,4000
+"A Ceremonial Headdress",armor,20,lrg,head,fi pa ap sa ra be,,2dam -1str sustain,,5d-cold 5d-divn,,,,,5,,,,,,"Lord Selenops","Swamp",,,7,71000,8500
+"noldorin boots",armor,0,norm,feet,,,1dam 2dex awalk sneak,,,,,,,6,,,,,,"Glorfindel","Imladris",,,3,100000,25000
+"An elven chainmail suit",armor,0,norm,body,,,5mv,,,,,,,7,,,,,,"An elven blacksmith","Imladris",,,6,30000,7500
+"a Feanorian longsword",weapon,0,spec,wield,,,2dam 5hit,,,,,,,,15,5D5,slash (slash),,,"An elven blacksmith","Imladris",,,12,140000,35000
+"the Broadsword of the Elves",weapon,10,spec,wield,,,,,,,,a-e,,,16.5,1D32,slash (slash),,,"","Imladris",x,,1,320000,80000
+"Ringrist",weapon,20,spec,wield,cl dr,,,15r-cold,,4h-bonus,,,break,,15,6D4,slash (slash),,,"Elrond","Imladris",x,,16,320000,80000
+"Anglin",weapon,0,spec,wield,,,,,,,,,break,,20,10D3,slash (slash),,,"Glorfindel","Imladris",x,,20,400000,100000
+"Vilya, the Elven Ring of Air",armor,25,spec,finger,cl dr wizd,,hide invis pfe regeneration sneak,,,7h-bonus,,,break,6,,,,,,"Elrond","Imladris",x,,1,120000,30000
+"The Jeweled Hammer",weapon,20,spec,wield,ma cl dr ne,,25ma 3mv-gain sustain,,,,,,,,12.5,5D4,bludgeon (bludgeon),,,"","Caves of Fire",,,15,86750,7700
+"An amulet",armor,15,norm,neck,priest,,20ma 20mv  +60(bless),,,,,a-e,,6,,,,,,"Balrak","Raddok",,,1,128399,5270
+"A royal insignia",armor,0,norm,trinket,ne warr priest rogue,,20hp 10mv,,,,,a-g a-e,,2,,,,,,"","",x,,8,73793,24575
+"enchanted rounding hammer",weapon,0,spec,wield,,,-1dam,,,,,,,,6,1D11,pound (bludgeon),5sock(1-d1 1-d2 1prof),,random,random,,,12,15,2000
+"a long, silver necklace",armor,15,lrg,neck,,,25hp 1cha -20aps pfe,,,,f-g,,,10,,,,,,"The Silver Guard","City of Raddok",,,1,5100,5100
+"a silver battle shield",armor,15,lrg,shield,pa,,1dam 1hit 25ma -1str 1dex,,,,f-g,,,20,,,,,,"The Silver Guard","City of Raddok",,,9,32990,7219
+"A pair of adamantine leg plates",armor,15,lrg,legs,,,20mv,,,,,,,10,,,,,,"The Adamantite Guard","City of Raddok",,,11,5180,5180
+"a Lucerne hammer",weapon,10,norm,wield,,,2dam 3hit,,5melee-crit-dam,,,,2-hand,,16,4D7,crush (bludgeon),,,"A Sentry","Vrolok",,,13,18081,1881
+"The Disc of the Sun",armor,25,spec,shield hold,priest,,3dam 3hit,50r-fire 50r-lght,7d-fire,,,,,8,,,,,,"Moyne","Shire",,,9,56000,9000
+"The Spirit of a Fire Elemental",light,20,spec,hold,,,,25r-fire,,,,a-g,break,,,,,,,"","",x,,1,92000,4500
+"the Cloak of Rebellion",armor,10,sm,neck about,warr,,-2cha cloak-s,,,,,,,5,,,,,,"Shewen the Gnome","The Gnomelight",,,4,43000,8500
+"The short-sword named, 'Retribution'",weapon,25,spec,wield,rogue,,2hit 15ma 2con imp-invis regeneration,,,,f-g,,,,18,4D8,slash (slash),,,"Shewen the Gnome","The Gnomelight",,,4,191920,38384
+"an ogre staff",weapon,0,spec,wield hold,,,2hit,,,,,,hold-w,,8,4D3,crush (bludgeon),,,"Fopraw the Ogre","Gnomelight",,,7,20000,4000
+"a Liberty Belt",armor,0,sm,waist,,,2mv-gain -1con freeact imp-invis invis,,5spell-crit-dam,,f-g,,,7,,,,,,"The gnomian wizard, Maxter","The Gnomelight",,,4,56000,11200
+"a Cloak of Starlight",worn,25,sm,about,,,10ma 13age deaths_door,,7d-lght,,,,,,,,,,,"","",,,4,62000,11200
+"a tiny pouch of activated carbon",enchnt-mat,0,spec,,,,,20r-pois,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a stack of electrum plates",enchnt-mat,0,spec,,,,2ac,,,,,,,,,,,,1sock(2ac),random,random,,,1,3,2000
+"a tungsten bracelet",armor,5,lrg,wrist,,,1str 1con,,,,,,,4,,,,,,"","Vrolok",,,2,5445,818
+"a foaming potion",potion,0,spec,hold,,,lvl40(detect alignment/protection from evil/sanctuary),,,,,,,,,,,,,"","Vrolok",,,1,2002,252
+"a full-moon talisman",armor,20,lrg,neck,,,2str hide +60(moon mote),50r-sumn,,,,,,2,,,,,,"The master werewolf","Vrolok",,,1,19091,1991
+"a spectral gown",armor,20,norm,about,,,35hp 3cha,,,,,,,12,,,,,,"Threnody","Vrolok",,,0,48984,4994
+"a silver tiara",armor,10,spec,head,,,25ma 2wis,,,,,a-e a-n,,5,,,,,,"Threnody","Vrolok",,,3,43834,4884
+"An anointed morningstar",weapon,10,norm,wield,,,2dam 2hit curse d-align pfe,,,,,a-e,curs,,15,10D2,pound (bludgeon),,,"The White Priest","Vrolok",,,15,52052,8008
+"a pair of diamond earrings",armor,15,norm,head,,,2int 2cha,,,,,,,2,,,,,,"A female vampire","Vrolok",,,1,21012,2772
+"a pair of shimmering sandals",armor,15,spec,feet,dr warr wizd rogue,,awalk haste,,,,,a-e,,3,,,,,,"Threnody","Vrolok",x,,2,57275,5775
+"an embroidered stole",armor,15,norm,neck,priest wizd,,3int,,3spell-crit-pct 5spell-crit-dam,-15sv-spell,,,,8,,,,,,"Voivode","Vrolok",,,6,45054,4554
+"The Mirror of Truth",armor,15,norm,shield hold,cl pa,,20ma 1wis sonar d-align d-invis d-magic s-life,,,,,,curs,10,,,,,,"Sergei","Vrolok",,,9,52925,5115
+"a Captain's jacket",armor,20,norm,body,,,2wis 3con,,,,,,,7,,,,,,"Grigori","Vrolok",,,12,32023,4334
+"enchanted silver armlet",armor,0,spec,arms,cl dr,,-1con awalk,,3spell-crit-dam,,,a-g,,4,,,,3sock,,random,random,,,2,15,2500
+"a weak fire essence",enchnt-mat,0,spec,,,,,,2d-fire,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a serpentine epaulette",armor,30,spec,trinket,,,,35r-elec,,,,,0slot break,3,,,,,,"Sisyphus","Swamp",,,3,0,10000
+"superior enchanted celestial longsword",weapon,0,spec,wield,fi pa,,2atk-2rd -1dam,,,,f-g,a-e a-n,,,6,4D2,slash (slash),5sock(2-d1 1-d2 1prof),,random,random,,,24,45,3000
+"a stack of iridium plates",enchnt-mat,0,spec,,,,4ac,,,,,,,,,,,,1sock(4ac),random,random,,,1,3,2000
+"a single dragon bone die",enchnt-mat,0,spec,,,,1-d1,,,,,,,,,,,,1sock(1-d1),random,random,,,1,3,2000
+"a lesser badge of the Ivory Crusade",trash,0,spec,trinket,,,,,,,,,,,,,,,,"An Aurvuron Apprentice Mage","Shire",,,0,4000,100
+"a greater badge of the Ivory Crusade",trash,0,spec,,,,,,,,,,,,,,,,,"An Aurvuron Veteran Guard","Shire",,,0,8000,200
+"The Sheltering Staff",light,30,lrg,hold,,,,25r-fire 25r-elec 25r-sonc 25r-cold 25r-acid 25r-gas 25r-divn 25r-lght,,,,,break,,,,,,,"","",x,,8,63000,20000
+"a radiant bronze power crystal",enchnt-mat,0,spec,,,,1dam,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a bronze power crystal",enchnt-mat,0,spec,,,,1dam -2hit,,,,,,,,,,,,2sock,random,random,,,1,3,2000
+"enchanted leather leggings",armor,0,spec,legs,rogue,,7mv -1str,,,,,a-e,,8,,,,4sock,,random,random,,,3,15,2500
+"a lightning talisman",armor,15,spec,hold,,,2dam 2dex -1con,25r-elec,5d-elec,,,,break,0,,,,,,"Moyne","Shire",,,7,60000,6000
+"A deep red fitted smock",armor,15,norm,body,,,2str,,,,,,,8,,,,,,"The fuller","Bonne Terre",,,12,5000,5000
+"a Merovingian pendant",armor,0,spec,neck,,,1wis,,,,,,,4,,,,,,"chest in attic","Bonne Terre",,,3,15000,4750
+"a jewelled hairpin",armor,0,spec,head,,,1con,,,,,,,0,,,,,,"chest in attic","Bonne Terre",,,7,760,30
+"a bone comb",armor,0,spec,hold,,,,,,,,,,0,,,,,,"chest in attic","Bonne Terre",,,7,20000,5000
+"a ragged blue gown",armor,0,norm,body,,,-100mv curse,,,,f-e,,curs,3,,,,,,"The miller's wife","Bonne Terre",,,12,1220,1220
+"a ragged scarlet cloak",armor,0,norm,about,,,curse,,,,f-e,,curs,10,,,,,,"The miller's wife","Bonne Terre",,,8,680,680
+"A deep blue fitted smock",armor,10,norm,body,,,2dex,,,,,,,8,,,,,,"The baker","Bonne Terre",,,12,3140,3140
+"a pair of flat soled leather shoes",armor,0,norm,feet,,,,,,,,,,5,,,,,,"The baker's wife","Bonne Terre",,,4,600,600
+"a pair of banded grey pants",armor,5,norm,legs,ma th fi pa ap ba sa ra ne,,15mv,,,,,,,10,,,,,,"The fuller","Bonne Terre",,,11,2130,2130
+"a pair of soft leather boots",armor,0,norm,feet,,,,,,,,,,6,,,,,,"The fuller","Bonne Terre",,,4,1000,500
+"a skramasax",weapon,0,spec,wield hold,,,,,,,,,hold-w,,4.5,1D8,slash (slash),,,"The fuller","Bonne Terre",,,4,1750,400
+"a red woolen hood",armor,0,norm,head,,,,,,,,,,5,,,,,,"The fuller's wife","Bonne Terre",,,7,1230,1230
+"a pair of grey pants",armor,0,norm,legs,,,,,,,,,,4,,,,,,"A freeman","Bonne Terre",,,11,800,800
+"a slate blue tunic",armor,15,norm,body,,,2wis 2dex,,,,,,,6,,,,,,"The Goliard","Bonne Terre",,,12,5150,5150
+"a psalterium",armor,10,spec,hold,th ba,,3hit,,,,,,,0,,,,,,"The Goliard","Bonne Terre",,,1,3890,3890
+"an iron knife",weapon,0,spec,wield hold,,,,,,,,,hold-w,,5,2D4,pierce (pierce),,,"A freeman","Bonne Terre",,,13,1650,1650
+"a leather apron",armor,0,spec,waist,,,,,,,,,,7,,,,,,"The carpenter","Bonne Terre",,,5,1210,1210
+"a pair of boar tusks",weapon,20,spec,wield,,,2dam 25hp,,,,,,,,7.5,3D4,slash (fist),,,"","Bonne Terre",,,2,18081,1881
+"a steel cap",armor,0,norm,head,,,,,,,,,,8,,,,,,"Dondo the traveling merchant","Bonne Terre",,,7,800,800
+"a buff yellow tunic",armor,10,norm,body,,,1int 10age,,,,,,,6,,,,,,"The jongleur","Bonne Terre",,,8,3350,100
+"a pair of blue stockings",armor,0,norm,legs,,,,,,,,,,4,,,,,,"The jongleur","Bonne Terre",,,11,1010,1010
+"a malacca cane",weapon,5,spec,wield,,,2hit 2dex,,,,,,,,6,3D3,bludgeon (bludgeon),,,"The jongleur","Bonne Terre",,,13,3500,3500
+"a braided bracelet",armor,25,spec,wrist,,,hdream,,,,,,,6,,,,,,"The clothier","Bonne Terre",,,2,10210,10210
+"some consular robes",armor,5,norm,body,cl mo dr,,1int 1dex,,,,,,,2,,,,,,"The village priest","Bonne Terre",,,12,2080,2080
+"a pair of white slippers",armor,0,norm,feet,,,12mv,,,,,,,3,,,,,,"The village priest","Bonne Terre",,,4,1430,1430
+"an ivory crook",staff,5,spec,hold,,,1wis  3chrg(lvl31 sanctuary),,,,,,,,,,,,,"The village priest","Bonne Terre",,,7,2870,2870
+"a suit of steel chainmail",armor,5,norm,body,,,,,,,,,,8,,,,,,"The traveling knight","Bonne Terre",,,12,1890,1890
+"some chainmail leggings",armor,5,norm,legs,,,,,,,,,,8,,,,,,"The traveling knight","Bonne Terre",,,11,1940,1940
+"a pair of steel boots",armor,10,norm,feet,,,,,,,,,,10,,,,,,"The traveling knight","Bonne Terre",,,4,3110,3110
+"some chainmail mittens",armor,0,norm,hands,,,-1dex,,,,,,,6,,,,,,"The traveling knight","Bonne Terre",,,2,1380,1380
+"a kite shield",armor,10,spec,shield,,,,,,,,,,12,,,,,,"The traveling knight","Bonne Terre",,,9,3690,3690
+"a frankish sword",weapon,0,spec,wield,,,,,,,,,,,7.5,3D4,slash (slash),,,"The traveling knight","Bonne Terre",,,13,700,700
+"a walking stick",staff,10,spec,hold,,,20age  6chrg(lvl20 airwalk),,,,,,,,,,,,,"The Traveler","Black Market",,,7,92500,10050
+"a withering staff",staff,25,spec,hold,,,20age  4chrg(lvl30 enfeeblement),,,,,,,,,,,,,"Aura the Great Mage","Black Market",,,8,14000,3500
+"a bead necklace",armor,5,spec,neck hold,cl ba mo ra dr,,2wis 3age,5r-fire,,,,,,5,,,,,,"Aura the Great Mage","Black Market",,,1,6226,626
+"the Second Dagger",weapon,10,spec,wield,priest,,9age regeneration,,1spell-crit-pct,,,,,,14,4D6,pierce (pierce),,,"Aura the Great Mage","Black Market",,,4,23032,2332
+"a fan of knives",weapon,15,norm,wield,fi ap sa ra be,,1dam -2age,,,1melee_crit_pct,f-e,,hold-w,,12.5,5D4,slash (slash),,,"Madame Rileau","Black Market",,,16,24500,3000
+"a golden key on a silk necklace",key,0,spec,neck hold,,,,,,,,,no-rent   break,,,,,,,"Madame Rileau","Black Market",,,1,300,100
+"a greater elvin cloak",armor,5,spec,neck,,,-5ma imp-invis,,5d-elec 1spell-crit-pct,,,,,6,,,,,,"Mistress Gwaynlyn","Black Market",,,2,22350,3400
+"The Cloak of the Orchid",armor,15,spec,neck about,ma cl dr,,5ma 1int,,1spell-crit-pct,,,a-e,,3,,,,,,"Wren","Black Market",,,1,13500,3160
+"a breast plate",armor,5,norm,body,,,,,,,,,,7,,,,,,"Wren","Black Market",,,12,3600,500
+"a pair of iron leg plates",armor,10,norm,legs,,,,,,,,,,4,,,,,,"A Market Guard","Black Market",,,12,2400,800
+"a set of iron arm plates",armor,0,norm,arms,,,,,,,,,,5,,,,,,"A Market Guard","Black Market",,,10,1600,400
+"a blessed longsword",weapon,0,spec,wield,,,1hit,,,,,,,,7.5,3D4,slash (slash),,,"Stringer","Black Market",,,7,4000,1200
+"a small lute",staff,5,spec,hold,ba,,2hit 11hp  1chrg(lvl30 harm),,,,,a-g a-e,,,,,,,,"Stringer","Black Market",,,7,16000,4000
+"some iron gauntlets",armor,5,norm,hands,,,-1str 5age,,,,,,,4,,,,,,"A Market Guard","Black Market",,,10,1800,450
+"a finely crafted mace",weapon,10,spec,wield,,,,,,,,,,,10,5D3,bludgeon (bludgeon),,,"A Market Guard","Black Market",,,13,1700,800
+"black and yellow cuirass",armor,10,lrg,body,,,1dam 1hit -2dex,,,,,,,6,,,,,,"A Market Guard","Black Market",,,12,2900,900
+"a polished bastard sword",weapon,10,spec,wield,,,-1str,,,,,,2-hand,,12.5,1D24,slash (slash),,,"A Market Guard","Black Market",,,13,5200,1400
+"A worn long bow",weapon,10,spec,wield,,,-1hit,,,,,,2-hand,,10,5D3,pierce (special),,,"A Market Guard","Black Market",,,13,5200,1050
+"a chain coif",armor,5,norm,head,,,1hit -1wis,,,,,,,9,,,,,,"Greybeard","Black Market",,,7,6200,2960
+"The Great Axe, 'Silverspark'",weapon,10,norm,wield,fi pa ap sa ra be,,2dam,,5melee-crit-dam,,,,2-hand,,17.5,5D6,slash (slash),,,"Greybeard","Black Market",,,16,29320,3220
+"a cold steel stiletto",weapon,10,spec,wield hold,rogue,,2hit,,,,,a-g,hold-w,,12,8D2,pierce (pierce),,,"A Scoundrel","Black Market",,,13,18200,2800
+"A cold steel bastard sword",weapon,10,norm,wield,warr,,2dam 1str,,,,,,,,15,5D5,slash (slash),,,"A Swashbuckler","Black Market",,,13,13400,3300
+"a pair of leather boots",armor,0,sm,feet,,,,,,,,,,3,,,,,,"Hye","Black Market",,,4,630,100
+"a yellow cloak",armor,20,spec,about,fi pa ap sa,,,,,,,,,20,,,,,,"The Wharfmaster","Black Market",,,8,20000,5000
+"a platinum sword",weapon,10,spec,wield,,,3dam -1hit,,,,,,,,13.5,3D8,slash (slash),,,"The Wharfmaster","Black Market",,,13,76000,19000
+"The Bandana of the Rising Sun",armor,15,spec,head waist,mo sa,,1dam -15hp infra,-15r-cold,,,f-g,a-e a-n,,10,,,,,,"Abner","Pirate's Stronghold",,,1,26400,3800
+"a captain's cutlass",weapon,10,norm,wield,warr,,3dam 5hp-gain,,,,,,,,15,5D5,slash (slash),,,"Captain Titara","Pirate's Stronghold",,,13,13400,3300
+"a wristlet of dominance",armor,0,sm,wrist,,,,-15r-divn,,,,a-g,,3,,,,,,"Mistress Gwaynlyn","Black Market",x,,2,19300,1800
+"superior enchanted pike",weapon,0,spec,wield,be,,1atk-2rd -1dam,,,,,,2-hand,,12.5,5D4,stab (pierce),5sock(1-d1 1-d2 1prof),,random,random,,,34,45,3000
+"a brilliant silver power crystal",enchnt-mat,0,spec,,,,2dam 2hit,,,,,,,,,,,,2sock,random,random,,,1,3,3000
+"A Sequin Robe",armor,20,lrg,body about,priest,,,,,7h-bonus,,,,5,,,,,,"High Priest Scytodes","Swamp",,,8,42000,8000
+"an eelskin sash",armor,15,spec,waist,,,1dex,50r-acid,,,,,,5,,,,,,"High Priest Scytodes","Swamp",,,12,20000,15000
+"enchanted black and red wizard's hat",armor,0,spec,head,wizd,,1ma-gain -1str,,,,f-e,a-g,,4,,,,4sock,,random,random,,,3,15,2500
+"a masakari axe",weapon,10,norm,wield,sa,,20aps,,10melee-crit-dam,1melee_crit_pct,,,2-hand,,18,3D11,slash (slash),,,"A confident suitor","Lady's Manor",,,18,25000,2000
+"a masonic apron",armor,0,norm,waist,,,1str,,,,,,,0,,,,,,"The groundskeeper","Lady's Manor",,,10,1000,250
+"An elemental shard (flickering red)",weapon,15,norm,wield,dr,,2dam 4hit,25r-fire,,,,,no-rent,,15,15D1,burn (special),,,"The groundskeeper","Lady's Manor",,,1,0,1
+"a polished steel crossbow",weapon,10,norm,wield,ra,,2hit,,,2melee_crit_pct,,,2-hand,,16,2D15,stab (special),,,"The Investigator","Lady's Manor",,,22,25000,2000
+"a crystal decanter",liq_container,0,spec,,,,,,,,,,,,,,,,,"Dining Rm","Lady's Manor",,,53,1000,250
+"a kitchen apron",container,0,norm,waist,,,,,,,,,,,,,,,,"The household chef","Lady's Manor",,,85,1000,250
+"a cooking spoon",wand,10,spec,hold,,,5chrg(lvl10 create food),,,,,,,,,,,,,"The household chef","Lady's Manor",,,3,5000,500
+"a harp-shaped key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"The butler","Lady's Manor",,,0,100,100
+"an elegant sabre",weapon,10,spec,wield,,,3hit 2dex 20aps,,,,,,,,18,6D5,slash (slash),,,"The stealthy burglar","Lady's Manor",,,10,30000,2000
+"the Harp of Sorrow",weapon,20,lrg,wield,ba,,,,3d-sonc,,f-e,,2-hand,,10.5,3D6,bludgeon (bludgeon),,,"The Master of the House","Lady's Manor",,,30,20000,5000
+"A unicorn pendant",armor,10,norm,neck,ra dr,,1con 2cha -5age,,,,,,,0,,,,,,"in mirror","Lady's Manor",,,1,10000,4000
+"the library key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"The Master of the House","Lady's Manor",,,0,100,100
+"a teddy bear",armor,5,norm,hold,,,-1cha pfe,,,,,,,0,,,,,,"Baby","Lady's Manor",,,3,4000,1000
+"a tiara adorned with a single diamond.",armor,0,spec,head,,,18hp 5ma 5hp-gain,,,,,a-g,,3,,,,,,"The Countess","Lady's Manor",,,5,40000,6000
+"enchanted long bow",weapon,0,spec,wield,ra,,-1dam 20hp 20ma,,,,,,2-hand,,12,6D3,pierce (special),4sock(1-d1 1-d2 1prof),,random,random,,,32,15,2000
+"a black silk gown",armor,0,norm,body,,,1wis,,,,,,,6,,,,,,"The dark elf Shaman","Haunted Forest",,,1,5000,1250
+"an Iridium sword",weapon,0,spec,wield hold,ma ne,,1dam 5ma,,,,,,hold-w,,6.5,1D12,slash (slash),,,"The dark elf Shaman","Haunted Forest",,,4,8000,2000
+"a black tunic",armor,0,norm,body,,,1int,,,,,,,6,,,,,,"A dark elf citizen","Haunted Forest",,,3,100,25
+"a sharp knife",weapon,0,spec,wield hold,,,,,,,,,hold-w,,7,2D6,slash (slash),,,"A dark elf citizen","Haunted Forest",,,4,3610,902
+"a reinforced leather jacket",armor,0,norm,body,,,,,,,,,,6,,,,,,"A dark elf warrior","Haunted Forest",,,12,400,100
+"a belt of lizard skin",armor,0,norm,waist,,,4hp 1con,,,,,,,6,,,,,,"The dark elf King","Haunted Forest",,,5,950,950
+"a Yttrium sword",weapon,0,spec,wield hold,,,1dam 1hit,,,,,,hold-w,,8,2D7,slash (slash),,,"The dark elf King","Haunted Forest",,,13,13000,4250
+"superior enchanted fire bow",weapon,0,spec,wield,ra,,-1dam,,5d-fire,,,,,,7,2D6,burn (special),5sock(1-d1 1-d2 1prof),,random,random,,,22,45,3000
+"a retrievable grappling hook",other,0,spec,hold,,,,,,,,,break,,,,,,,"chest in Boss tent","Haunted",,,4,150000,5000
+"a pair of furred boots",armor,5,norm,feet,,,14mv,25r-cold,,,,,,4,,,,,,"chest in Boss tent","Haunted",,,5,2500,650
+"An ice axe",weapon,0,spec,wield hold,,,,-25r-fire 25r-cold,2d-cold,,,,hold-w,,4.5,1D8,slash (slash),,,"chest in Boss tent","Haunted",,,8,20600,10150
+"tattered leather armour",armor,0,sm,body,,,,,,,,,,4,,,,,,"A snotling","Haunted Forest",,,15,250,50
+"a tattered leather cap",armor,0,sm,head,,,,,,,,,,5,,,,,,"A snotling","Haunted Forest",,,7,200,50
+"a tattered pair of leather sleeves",armor,0,sm,arms,,,,,,,,,,6,,,,,,"A snotling","Haunted Forest",,,5,350,88
+"a tattered leather wrist guard",armor,0,sm,wrist,,,,,,,,,,4,,,,,,"A snotling","Haunted Forest",,,2,300,75
+"a club",weapon,0,spec,wield hold,,,,,,,,,hold-w,,3.5,1D6,hit (bludgeon),,,"A snotling","Haunted Forest",,,13,234,58
+"a silver key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"The dark elf King","Haunted Forest",,,1,0,0
+"a sharp long sword",weapon,0,spec,wield hold,,,,,,,,,hold-w,,5,1D9,slash (slash),,,"A dark elf warrior","Haunted Forest",,,5,925,231
+"a lesser fire bow",weapon,20,spec,wield,ra,,3hit,,4d-fire,,,,,,21,7D5,burn (special),,,"","Blightland",,,32,35000,7500
+"a broken human thigh bone",weapon,0,spec,wield hold,,,,,,,,,hold-w,,7,2D6,pierce (pierce),,,"A troll","Haunted Forest",,,8,3610,902
+"a tree branch",weapon,0,lrg,wield hold,,,,,,,,,hold-w,,6.5,1D12,bludgeon (bludgeon),,,"A troll","Haunted Forest",,,13,3460,865
+"a fishing rod",wand,5,spec,hold,,,6chrg(lvl3 OPEN SPELL SLOT),,,,,,,,,,,,,"The Riverman","Haunted Forest",,,2,1000,500
+"a wool muffler",armor,5,lrg,neck,,,,30r-cold,,,,,,0,,,,,,"The Fluffy Dragon","Haunted Forest",,,10,20000,5000
+"a pair of earmuffs",armor,5,lrg,head,,,,15r-sonc 15r-cold,,,,,,0,,,,,,"The Fluffy Dragon","Haunted Forest",,,10,20000,5000
+"a noble sword of angels",weapon,30,spec,wield,fi,,2atk-2rd d-align pfe silence,-30r-fire,,,f-g,a-e,,,20,8D4,slash (slash),,,"A planetar","All-Devourer",x,,20,145600,36400
+"The Jewel of the Deep",other,20,norm,hold,ma pa ba mo ra dr ne wa,,2dam,,6d-spell,,,,,,,,,,,"in buried chest","Burning Talon",x,,3,62000,10000
+"a slender arcane wand",weapon,15,spec,wield,dr wizd,,15ma -2str,,6d-spell,,,,,,13.5,3D8,hit (bludgeon),,,"Nahya","Blightland",,,8,42000,6000
+"a pair of naga skin gauntlets",armor,20,spec,hands,warr rogue,,3dam,25r-acid,,,f-e,a-g,,6,,,,,,"Ybor, the hero of the west","Blightland",,,0,29000,7200
+"a pair of white cotton gloves",armor,10,norm,hands,,,1int d-invis,,3d-shdw,,,,,0,,,,,,"The butler","Midgaard",,,2,10000,1000
+"a flowing black and red dress",armor,15,spec,about,,,4ma 2con -5age cloak-s,,2d-shdw,,,a-g a-n,,6,,,,,,"The Countess","Haunted",,,8,50000,10000
+"a log",staff,0,spec,hold,ba,,5chrg(lvl13 barkskin),,,,,,,,,,,,,"in West Garden","Lady's Manor",,,10,1000,250
+"a tiny bundle of black sage",enchnt-mat,0,spec,,,,,20r-divn,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The bottomless bag of infinity",container,0,spec,waist hold,,,,,,,,,,,,,,,,"","",,,1,15,15500
+"The stone of endless tides",fountain,0,spec,hold,,,,,,,,,,,,,,,,"","",,,29,25,18500
+"Some sibriex ooze",enchnt-mat,0,spec,,,,-1cha,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"an Astyll officer's ring",armor,5,spec,finger,,,1str -1int,,,,,,,3,,,,,,"The Astyll Officer","Astyll",,,1,4500,1200
+"a cloudy black opal",enchnt-mat,0,spec,,,,,,1spell-crit-dam,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a weak caustic reagent",enchnt-mat,0,spec,,,,,,2d-acid,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a small pouch of lich salts",enchnt-mat,0,spec,,,,1hp-gain,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a glowing silver power crystal",enchnt-mat,0,spec,,,,2dam -1hit,,,,,,,,,,,,2sock,random,random,,,1,3,3000
+"an ice crystal",enchnt-mat,0,spec,,,,,,2d-cold,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a pouch of fire crystals",enchnt-mat,0,spec,,,,,20r-fire,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a small bundle of black sage",enchnt-mat,0,spec,,,,,15r-divn,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"enchanted wavy kris",weapon,0,spec,wield,th ap,,-1dam,25r-shdw,,,f-e,a-g a-n,,,15,2D14,pierce (pierce),4sock(2-d2 1prof),,random,random,,,20,15,2000
+"The Crown of Desolation",armor,20,spec,head,,,25ma d-magic infra +40(locate object),,5d-fire 5d-elec 5d-cold,,f-n,a-g a-e,,8,,,,,,"","",,,7,48000,6500
+"The Cloak of the Aeons",armor,10,norm,about,,,2wis 11age 1size,,,,,,,5,,,,,,"","",,,8,32400,3000
+"The Crystal Orb of Desolation",light,20,spec,hold,ma cl dr ne,,2atk-2rd -100ma dsight,,,,f-n,,,,,,,,,"","",,,6,56000,10000
+"A Ruby Pendant",armor,15,spec,neck,,,35ma -2con haste,,,,f-n,a-g a-e,,-30,,,,,,"","",,,1,75000,5500
+"a tiny patch of black cloth",enchnt-mat,0,spec,,,,,20r-lght,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a small bundle of white sage",enchnt-mat,0,spec,,,,,25r-shdw,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"two dragon bone dice",enchnt-mat,0,spec,,,,2-d1,,,,,,,,,,,,1sock(2-d1),random,random,,,1,10,2000
+"An engraved staff",light,0,spec,,dr wizd,,,,,,,,break,,,,,,,"","",,,8,120000,30000
+"A crested helm",armor,20,norm,head,,,2dam 15hp hide,,,,,a-g a-n,curs,10,,,,,,"","",,,7,35000,4000
+"A scarlet cloth",armor,15,spec,neck,,,,,,,,,break,10,,,,,,"","",x,,3,60000,8500
+"A Great Dragon Claw",weapon,15,spec,wield,mo,,4hit 5hp d-align d-invis s-life,,6d-fire,,f-e,,,,10,4D4,claw (fist),,,"Smaug","Goblin Caves",,,20,164874,20000
+"a powerful siren orb",enchnt-mat,0,spec,,,,,,4d-sonc,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The Splinter of the Minds Eye",other,20,spec,hold,,,-50hp 30ma -1str,,6spell-crit-pct,,,,curs,,,,,,,"in chest","Goblin Caves",,,7,50000,8000
+"A Multi-faceted Gemstone",worn,0,spec,hold,,,,,,2sv-brth 2sv-spell,,a-e,,,,,,,,"in chest","Goblin Caves",,,4,40000,500
+"a pink diamond orb",treasure,0,spec,,,,,,,,,,no-rent,,,,,,,"Zealot","Caves of Fire",,,0,0,0
+"a red and yellow sash",worn,20,spec,waist,,,10mv 3mv-gain -1int,,,,,a-g,,,,,,,,"Zealot","Caves of Fire",,,2,42500,5800
+"A pair of vermilion leg plates",armor,15,lrg,legs,,,2dam -1dex,,,,,,,10,,,,,,"","Caves of Fire",,,11,49000,4100
+"A deva feather",enchnt-mat,0,spec,,,,1wis,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a sanguine cape",armor,20,lrg,neck,warr wizd,,2dam -20hp,,,1melee_crit_pct,,,,14,,,,,,"","Caves of Fire",,,3,74800,6900
+"a suit of red plate mail",armor,20,lrg,body,,,2dam 35hp regeneration,,,10sv-spell,,,,14,,,,,,"","Caves of Fire",,,12,63290,6390
+"a green diamond orb",treasure,0,spec,,,,,,,,,,no-rent,,,,,,,"","Caves of Fire",,,0,0,0
+"a small spool of copper wire",enchnt-mat,0,spec,,,,,25r-elec,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a sheet of chromium",enchnt-mat,0,spec,,,,,30r-gas,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"superior enchanted gold armlet",armor,0,spec,arms,wizd,,10hp -1con awalk,,2spell-crit-pct,,,a-e,,8,,,,4sock,,random,random,,,2,45,3500
+"a weak tome of healing",enchnt-mat,0,spec,,,,,,,1h-bonus,,,,,,,,,1sock,random,random,,,1,3,2000
+"a pouch of frost crystals",enchnt-mat,0,spec,,,,,30r-cold,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"A small oaken ring",armor,0,norm,finger,ma cl fi ba ra dr,,1cha  +20(animal friendship),,,,,a-e,,0,,,,,,"","",,,1,4000,1000
+"A pair of rawhide gloves",armor,0,norm,hands,,,1dex  +30(hold animal),,,,f-g,a-e,,5,,,,,,"Goatleaf","Shire",,,4,20000,5000
+"enchanted arming sword",weapon,0,spec,wield,fi,,2atk-2rd -1dam,,,,,a-g a-e,,,18,2D17,stab (pierce),4sock(2-d2 1prof),,random,random,,,20,15,2000
+"a single dungeon master die",enchnt-mat,0,spec,,,,1-d1 1-d2,,,,,,,,,,,,2sock(1-d1 1-d2),random,random,,,1,5,3000
+"a lightning orb",enchnt-mat,0,spec,,,,,,3d-elec,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The Wolf's Fang",weapon,25,norm,wield hold,,,3dam 3hit 1size,,,,,,break,,8,4D3,stab (special),,,"The master werewolf","Vrolok",x,,3,29092,2992
+"a bundle of deva feathers",enchnt-mat,0,spec,,,,2wis,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a tiny vial of quickling blood",enchnt-mat,0,spec,,,,7mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a holy relic",enchnt-mat,0,spec,,,,,,3d-divn,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a clear resonating crystal",enchnt-mat,0,spec,,,,2hit,,,,,,,,,,,,1sock,random,random,,,1,3,3000
+"a clear fire opal",enchnt-mat,0,spec,,,,,,2spell-crit-pct,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The First Dagger",weapon,20,spec,wield,warr,,regeneration,,10melee-crit-dam,2melee_crit_pct,,a-e,,,20,8D4,stab (pierce),,,"in footlocker","Pirate's Stronghold",,,9,87178,11811
+"a gleaming longblade",weapon,15,spec,wield,,,1dam 3hit 2con,,,1melee_crit_pct,,,,,15,5D5,slash (slash),,,"The Sentry Captain","Pirate's Stronghold",,,8,26062,2992
+"an amber skull",treasure,0,spec,,,,,,,,,,,,,,,,,"in barrel","Pirate's Stronghold",,,1,127721,12721
+"a ring of jasper",armor,0,spec,finger,,,5hp-gain 5ma-gain,,,,,,,1,,,,,,"Midnight","Pirate's Stronghold",,,1,540,540
+"a black band",armor,5,spec,neck head feet about waist wrist,,,1dam 1hit,,,,,,,0,,,,,,"Midnight","Pirate's Stronghold",,,1,13731,1331
+"a green candle",light,0,spec,,,,1cha,,,,,,,,,,,,,"Midnight","Pirate's Stronghold",,,1,1771,171
+"a vial of quickling blood",enchnt-mat,0,spec,,,,11mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"the Jeweled Crown of Dyrk",armor,20,norm,head,priest wizd rogue,,3str 3wis sustain,,,,,,,7,,,,,,"in footlocker","Pirate's Stronghold",x,,3,13031,1331
+"an awl pike",weapon,0,spec,wield,,,-1hit,,2melee-crit-dam,,,,2-hand,,16,4D7,slash (slash),,,"A Sentry","Pirate's Stronghold",,,13,9229,929
+"a wide sealskin belt",armor,10,lrg,waist,warr rogue,,2str waterwalk,,,,,,,3,,,,,,"Quartermaster Oxon","Pirate's Stronghold",,,3,6446,646
+"an ironwood sledge hammer",weapon,15,lrg,wield,,,15hp -2dex,,,1melee_crit_pct,,,2-hand,,20,4D9,crush (bludgeon),,,"Quartermaster Oxon","Pirate's Stronghold",,,26,18381,1881
+"a black plate camail",armor,0,norm,body,,,,,,,,,,11,,,,,,"A Sentry","Pirate's Stronghold",,,18,1881,181
+"a falchion",weapon,0,spec,wield,,,,,,,,,,,8,2D7,slash (slash),,,"A Sentry","Pirate's Stronghold",,,7,18781,181
+"an enchanted scarab",other,20,spec,trinket,,,,,,,,,,,,,,,,"","",,,4,92000,34000
+"an unholy gauntlet",armor,15,spec,hands,,,-2hit 3ma-gain -2str,,3spell-crit-pct,,f-e,a-g a-n,,7,,,,,,"A shadowmancer","College",,,6,25000,4500
+"a clear black opal",enchnt-mat,0,spec,,,,,,2spell-crit-dam,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a small patch of black cloth",enchnt-mat,0,spec,,,,,25r-lght,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"A supreme potion of benediction",potion,0,spec,hold,,,lvl40(benediction),,,,,,,,,,,,,"","",,,1,50000,1000
+"a patch of black cloth",enchnt-mat,0,spec,,,,,30r-lght,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a jagged dirk",weapon,15,spec,wield hold,,,3dam 2hit,25r-divn,,,,,hold-w,,12,4D5,stab (pierce),,,"","",,,14,43500,8200
+"a siren orb",enchnt-mat,0,spec,,,,,,3d-sonc,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a tiny sheet of chromium",enchnt-mat,0,spec,,,,,20r-gas,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a clear green beryl",enchnt-mat,0,spec,,,,,,2melee-crit-dam,,,,,,,,,,1sock,random,random,,,1,3,2000
+"enchanted grey pantaloons",armor,0,spec,legs,cl dr,,-1wis,,2d-spell,,,a-g,,4,,,,4sock,,random,random,,,2,15,2500
+"enchanted singing bowl",other,0,spec,hold,mo,,1dam 20mv -1con,,,,f-g,a-e,,,,,,4sock,,random,random,,,4,15,2500
+"superior enchanted orange kushalaka",worn,0,spec,waist,mo,,2dam 30ma awalk,,,,f-g,a-e,,,,,,5sock,,random,random,,,1,45,3500
+"a tiny sheet of titanium",enchnt-mat,0,spec,,,,,20r-acid,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a crystalline acorn",food,0,spec,hold,,,,,,,,,break,,,,,,,"forage","forest terrain",,,1,28000,3000
+"Excalibur",weapon,30,norm,wield,,,1atk-2rd 3hit d-align pfe,,,,f-g,a-e,,,21,6D6,slash (slash),,,"","Camelot",x,,23,240085,48017
+"a heartshade potion",potion,0,spec,,,,lvl30(sanctuary),,,,,,break,,,,,,,"","",,,1,18000,1500
+"a weak air mote",enchnt-mat,0,spec,,,,,,2d-gas,2d-gas,,,,,,,,,1sock,random,random,,,1,3,2000
+"a chromatic dragon's eye",enchnt-mat,0,spec,,,,,,2d-spell,,,,,,,,,,1sock,random,random,,,1,3,2000
+"some sibriex bile",enchnt-mat,0,spec,,,,-2cha,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"the vestments of healing",armor,10,spec,body about,cl dr,,17ma,,3spell-crit-pct,6h-bonus,,,,10,,,,,,"Ge'erak, the Fire Giant Shaman","Shire",,,6,125000,6500
+"A flit's wing",enchnt-mat,0,spec,,,,1dex,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a bundle of solar feathers",enchnt-mat,0,spec,,,,2con,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a vial of planetar blood",enchnt-mat,0,spec,,,,11hp,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"superior enchanted yellow gi",worn,0,spec,about,mo,,2dam -1str awalk,,6d-elec,,f-g,a-e,,,,,,5sock,,random,random,,,6,45,5000
+"a pouch of activated carbon",enchnt-mat,0,spec,,,,,30r-pois,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a giant apple",food,0,spec,hold,,,,,,,,,break,,,,,,,"","",,,1,800,100
+"a dragon tooth necklace",armor,15,spec,neck,ma cl pa,,haste,,,,,a-g,,4,,,,,,"Captain Titara","Black Market",x,,3,44200,6200
+"The Talisman of the Frozen Tundra",other,25,spec,neck hold,,,,25r-cold,6d-cold 5spell-crit-dam,,,,,,,,,,,"","",,,3,75000,8000
+"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","Forbidden",,,1,35000,3500
+"a chakra patch",worn,20,spec,trinket,,,4ma-gain,,,,,,,,,,,,,"","Forbidden",,,1,35000,3500
+"a small sheet of titanium",enchnt-mat,0,spec,,,,,25r-acid,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a tiny spool of copper wire",enchnt-mat,0,spec,,,,,20r-elec,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a solar's feather",enchnt-mat,0,spec,,,,1con,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The Light of the Moonrise",light,35,spec,hold,,,2dam,25r-fire,,,,a-e,,,,,,,,"Moonshaper","Gnomelight",,,7,190230,12375
+"Blackwood Club",weapon,30,lrg,wield,,,1con,,,,,,,,17.5,5D6,bludgeon (bludgeon),,,"Ogre Chieftain","Gnomelight",,,20,97650,19530
+"a jagged fingernail",worn,25,spec,finger,,,1dam  +20(pierce attack),,,,,,,,,,,,,"Slorg","Gnomelight",,,2,16000,3200
+"a set of yeti-skin armbands",armor,35,lrg,arms,,,2dam,35r-cold,,,,,d-curs,6,,,,,,"Slorg","Gnomelight",,,3,65000,13000
+"a doeskin headband",armor,0,spec,head,warr rogue,,2dam 2hp-gain 1dex -1cha awalk sneak -20(disarm),,,,,,,6,,,,,,"Phorg","Gnomelight",,,5,23250,4650
+"the Gauntlets of Treachery",armor,25,lrg,hands,th warr,,2con  +15(envenom) +20(fist attack),,,,,,,8,,,,,,"Phorg","Gnomelight",,,5,26000,4650
+"the Wristlet of Ogre Power",armor,35,lrg,wrist,,,1size,,,,,,,7,,,,,,"Ogre Chieftain","Gnomelight",x,,6,49750,9950
+"Hide of the Cavebear",worn,25,lrg,about,warr,,2dam 2hit  -20(slash attack),,,,,,,,,,,,,"in case","Gnomelight",,,6,52250,10450
+"superior enchanted white maniple",armor,0,spec,arms,cl dr,,2ma-gain -1con haste,,,3h-bonus,,a-e,,4,,,,4sock,,random,random,,,2,45,3500
