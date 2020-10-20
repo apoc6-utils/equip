@@ -79,7 +79,7 @@ def make_html(csvFilePath, htmlFilePath):
 		  <li><a href="a6-eq-parsed.csv" download>parsed (fields matching this page) csv file</a></li><li><a href="a6-eq-orig.csv" download>original (same fields as in-game) csv file</a></li>
 		</ul>
 		<p>Note: While somewhat responsive, this page is probably not mobile friendly, and given the data, does not lend itself to use on a mobile device.</p>
-		<p>If you are interested in contributing to the database or find a problem with the website, contact Cahir/Fenor in apoc or discord.</p>
+		<p>If you are interested in contributing to the database or find a problem with the website, contact Cahir/Fenor via dm in apoc or discord.</p>
 	</div>
   </div>
   <div id="table_container">

@@ -11213,7 +11213,7 @@ Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant.
 Contains the following affect powers upon enchanting:
    RESIST_ACID By 20"
-"a crystalline acorn",FOOD,HOLD,NONE,NONE,crystal,special,1,28000,3000,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,,"forage","forest terrain","Object 'a crystalline acorn', Item type: FOOD
+"a crystalline acorn",FOOD,HOLD,NONE,NONE,crystal,special,1,28000,3000,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,,"","","Object 'a crystalline acorn', Item type: FOOD
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11222,7 +11222,7 @@ Size: special
 Weight: 1, Value: 28000, Rent: 3000, Min Level: 0
 Item will give you following abilities:  NONE 
 Item is: NONE "
-"Excalibur",WEAPON,WIELD,NONE,NONE,adamantite,normal,23,240085,48017,30,DETECT_ALIGN PROTECTION_EVIL,MAGIC ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED !DISARM !IDENTIFY MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,6D6,21.0,slash attack,1ATK_/_2_ROUNDS 3HITROLL,,,"","Camelot","Object 'Excalibur', Item type: WEAPON
+"Excalibur",WEAPON,WIELD,NONE,NONE,adamantite,normal,23,240085,48017,30,DETECT_ALIGN PROTECTION_EVIL,MAGIC ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED !DISARM !IDENTIFY MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,6D6,21.0,slash attack,1ATK_/_2_ROUNDS 3HITROLL,,,"","","Object 'Excalibur', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11416,7 +11416,7 @@ Can affect you as:
    COLD_DMG By 6
    SPELL_CRIT_DMG By 5
    RESIST_COLD By 25"
-"a rising phoenix patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_FIRE,,,"","Forbidden","Object 'a rising phoenix patch', Item type: WORN
+"a rising phoenix patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_FIRE,,,"","","Object 'a rising phoenix patch', Item type: WORN
 Can be worn on: TAKE TRINKET 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11429,7 +11429,7 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Can affect you as:
    RESIST_FIRE By 25"
-"a chakra patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,4MANA_GAIN,,,"","Forbidden","Object 'a chakra patch', Item type: WORN
+"a chakra patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,4MANA_GAIN,,,"","","Object 'a chakra patch', Item type: WORN
 Can be worn on: TAKE TRINKET 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11593,7 +11593,7 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Can affect you as:
    SIZE By 1"
-"Hide of the Cavebear",WORN,ABOUT,WARRIOR,NONE,organic,large,6,52250,10450,25,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 2HITROLL,-20slash attack,,"in case","Gnomelight","Object 'Hide of the Cavebear', Item type: WORN
+"Hide of the Cavebear",WORN,ABOUT,WARRIOR,NONE,organic,large,6,52250,10450,25,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 2HITROLL,-20slash attack,,"","","Object 'Hide of the Cavebear', Item type: WORN
 Can be worn on: TAKE ABOUT 
 Class restrictions: WARRIOR 
 Race restrictions: NONE 
@@ -11626,3 +11626,253 @@ Contains the following affect powers upon enchanting:
    HEAL_BONUS By 3
    MANA_GAIN By 2
    CON By -1"
+"a Shinobi torinoko",OTHER,HOLD,NONE,NONE,paper,special,1,100000,10000,0,NONE,UNBREAKABLE !LOCATE_OBJ,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"","","Object 'a Shinobi torinoko', Item type: OTHER
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: paper
+Size: special
+Weight: 1, Value: 100000, Rent: 10000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNBREAKABLE !LOCATE_OBJ 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a gorgon tentacle",ENCHANT_MATERIAL,,NONE,NONE,organic,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1000,0,0,0,1,,,,,-5SAVING_PETRI,,,random,random,"Object 'a gorgon tentacle', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   SAVING_PETRI By -5"
+"a dwarven neckguard",ARMOR,NECK,NONE,NONE,dwarven steel,small,1,400,40,0,NONE,NONE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"A Dwarven Guard","Dwarven","Object 'a dwarven neckguard', Item type: ARMOR
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: dwarven steel
+Size: small
+Weight: 1, Value: 400, Rent: 40, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"dwarven plate mail",ARMOR,BODY,NONE,NONE,dwarven steel,small,3,5500,175,0,NONE,NONE,,,,,4,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-1ARMOR_POINTS 2HITROLL,,,"A Dwarven Guard","Dwarven","Object 'dwarven plate mail', Item type: ARMOR
+Can be worn on: TAKE BODY 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: dwarven steel
+Size: small
+Weight: 3, Value: 5500, Rent: 175, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+AP-apply is 4
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   HITROLL By 2
+   ARMOR_POINTS By -1"
+"a dwarven helmet",ARMOR,HEAD,NONE,NONE,dwarven steel,small,4,2500,300,0,NONE,NONE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-1DEX 15RESIST_POIS,,,"A Dwarven Guard","Dwarven","Object 'a dwarven helmet', Item type: ARMOR
+Can be worn on: TAKE HEAD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: dwarven steel
+Size: small
+Weight: 4, Value: 2500, Rent: 300, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+AP-apply is 3
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   RESIST_POIS By 15
+   DEX By -1"
+"Dwarven gloves",ARMOR,HANDS,NONE,NONE,leather,small,2,4000,800,0,NONE,NONE,,,,,4,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CON -1DEX,,,"A Dwarven Guard","Dwarven","Object 'Dwarven gloves', Item type: ARMOR
+Can be worn on: TAKE HANDS 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: leather
+Size: small
+Weight: 2, Value: 4000, Rent: 800, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+AP-apply is 4
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CON By 1
+   DEX By -1"
+"dwarven club",WEAPON,WIELD,NONE,NONE,wood,special,1,3000,400,0,NONE,NONE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,bludgeon,2D6,7.0,bludgeon attack,,,,"A Dwarven Guard","Dwarven","Object 'dwarven club', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 1, Value: 3000, Rent: 400, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: bludgeon,  Damage Dice: '2D6', Average Damage 7.0.
+Requires Weapon Skill: bludgeon attack"
+"A massive dwarven battle axe",WEAPON,WIELD,FIGHTER PALADIN ANTIPALADIN MONK SAMURAI RANGER BERSERKER,NONE,dwarven steel,special,5,5000,150,5,NONE,UNIQUE UNBREAKABLE MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,3D9,15.0,slash attack,,,,"A Dwarven Guard","Dwarven","Object 'A massive dwarven battle axe', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: FIGHTER PALADIN ANTIPALADIN MONK SAMURAI RANGER BERSERKER 
+Race restrictions: NONE 
+Object Material: dwarven steel
+Size: special
+Weight: 5, Value: 5000, Rent: 150, Min Level: 5
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE MAIN_HAND_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: slash,  Damage Dice: '3D9', Average Damage 15.0.
+Requires Weapon Skill: slash attack"
+"a dwarven hammer",WEAPON,WIELD,NONE,NONE,dwarven steel,special,0,5500,175,0,NONE,NONE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,crush,3D7,12.0,bludgeon attack,,,,"A Dwarven Guard","Dwarven","Object 'a dwarven hammer', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: dwarven steel
+Size: special
+Weight: 0, Value: 5500, Rent: 175, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: crush,  Damage Dice: '3D7', Average Damage 12.0.
+Requires Weapon Skill: bludgeon attack"
+"a 'gohome' stick",WAND,HOLD,NONE,NONE,wood,special,1,2002,202,0,NONE,UNIQUE UNBREAKABLE,word of recall,15,3,3,,,,,,,,,,,,,,,,,,,,,"Hide & Tooth storekeeper","Dwarven","Object 'a 'gohome' stick', Item type: WAND
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 1, Value: 2002, Rent: 202, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+Spell: word of recall at level 15, 3 (of 3) charges remaining"
+"a castle key",KEY,,NONE,NONE,copper,special,1,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"Captain of the Barracks","Dwarven","Object 'a castle key', Item type: KEY
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: copper
+Size: special
+Weight: 1, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"a healing staff",STAFF,HOLD,NONE,NONE,wood,special,3,34512,3451,0,NONE,GLOW,heal light,0,3,3,,,,,,,,,,,,,,,,,,,,,"A dwarven cleric","Dwarven","Object 'a healing staff', Item type: STAFF
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 3, Value: 34512, Rent: 3451, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: GLOW 
+Spell: heal light at level 0, 3 (of 3) charges remaining"
+"a rat on a stick",WEAPON,WIELD,NONE,NONE,organic,special,5,200,20,0,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,1D6,3.5,pierce attack,,+20cure light,,"Pubu","Dwarven","Object 'a rat on a stick', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: special
+Weight: 5, Value: 200, Rent: 20, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: pierce,  Damage Dice: '1D6', Average Damage 3.5.
+Requires Weapon Skill: pierce attack
+Modifies the following proficiencies:
+   +20 to cure light"
+"a mystical magical mouse...it has a strong, nasty odor!",WORN,NECK,NONE,NONE,organic,normal,1,10324,103,5,,GLOW !IDENTIFY,,,,,,,,,,,,,,,,,,,,,,10MAXMANA,,,"Pubu","Dwarven","Object 'a mystical magical mouse...it has a strong, nasty odor!', Item type: WORN
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: normal
+Weight: 1, Value: 10324, Rent: 103, Min Level: 5
+Item is: GLOW !IDENTIFY 
+Can affect you as:
+   MAXMANA By 10"
+"a mystical magical mouse...it has a strong, nasty odor!",WORN,NECK,NONE,NONE,organic,normal,1,10324,103,5,,!IDENTIFY,,,,,,,,,,,,,,,,,,,,,,10MAXMANA,,,"Pubu","Dwarven","Object 'a mystical magical mouse...it has a strong, nasty odor!', Item type: WORN
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: normal
+Weight: 1, Value: 10324, Rent: 103, Min Level: 5
+Item is:  !IDENTIFY
+   MAXMANA By 10"
+"a mystical magical mouse...it has a strong, nasty odor!",WORN,NECK,NONE,NONE,organic,normal,1,10324,103,5,,GLOW !IDENTIFY  !IDENTIFY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA,,,"Pubu","Dwarven","Object 'a mystical magical mouse...it has a strong, nasty odor!', Item type: WORN
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: normal
+Weight: 1, Value: 10324, Rent: 103, Min Level: 5
+Item is: GLOW !IDENTIFY  !IDENTIFY
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:#loop {1} {1} {i} {#cat {identItem[orig]} {
+    By }}"
+"a mystical magical mouse...it has a strong, nasty odor!",WORN,NECK,NONE,NONE,organic,normal,1,10324,103,5,,,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA,,,"Pubu","Dwarven","Object 'a mystical magical mouse...it has a strong, nasty odor!', Item type: WORN
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: normal
+Weight: 1, Value: 10324, Rent: 103, Min Level: 5
+Item is: !IDENTIFY
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXMANA By 10"
+"a gate key",KEY,,NONE,NONE,copper,special,1,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"A Dwarven Guard","","Object 'a gate key', Item type: KEY
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: copper
+Size: special
+Weight: 1, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"a mining pick",WEAPON,WIELD,NONE,NONE,wood,special,1,3000,400,0,NONE,NONE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,1D4,2.5,pierce attack,,,,"A dwarven mineworker","","Object 'a mining pick', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 1, Value: 3000, Rent: 400, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: pierce,  Damage Dice: '1D4', Average Damage 2.5.
+Requires Weapon Skill: pierce attack"
+"a chunk of coal",OTHER,,NONE,NONE,earth,special,1,100,0,0,NONE,NONE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"","","Object 'a chunk of coal', Item type: OTHER
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: earth
+Size: special
+Weight: 1, Value: 100, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"an old mine key",KEY,,NONE,NONE,copper,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"The dwarven mine leader","","Object 'an old mine key', Item type: KEY
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: copper
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "

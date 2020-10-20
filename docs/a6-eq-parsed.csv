@@ -789,8 +789,8 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "enchanted singing bowl",other,0,spec,hold,mo,,1dam 20mv -1con,,,,f-g,a-e,,,,,,4sock,,random,random,,,4,15,2500
 "superior enchanted orange kushalaka",worn,0,spec,waist,mo,,2dam 30ma awalk,,,,f-g,a-e,,,,,,5sock,,random,random,,,1,45,3500
 "a tiny sheet of titanium",enchnt-mat,0,spec,,,,,20r-acid,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a crystalline acorn",food,0,spec,hold,,,,,,,,,break,,,,,,,"forage","forest terrain",,,1,28000,3000
-"Excalibur",weapon,30,norm,wield,,,1atk-2rd 3hit d-align pfe,,,,f-g,a-e,,,21,6D6,slash (slash),,,"","Camelot",x,,23,240085,48017
+"a crystalline acorn",food,0,spec,hold,,,,,,,,,break,,,,,,,"","",,,1,28000,3000
+"Excalibur",weapon,30,norm,wield,,,1atk-2rd 3hit d-align pfe,,,,f-g,a-e,,,21,6D6,slash (slash),,,"","",x,,23,240085,48017
 "a heartshade potion",potion,0,spec,,,,lvl30(sanctuary),,,,,,break,,,,,,,"","",,,1,18000,1500
 "a weak air mote",enchnt-mat,0,spec,,,,,,2d-gas,2d-gas,,,,,,,,,1sock,random,random,,,1,3,2000
 "a chromatic dragon's eye",enchnt-mat,0,spec,,,,,,2d-spell,,,,,,,,,,1sock,random,random,,,1,3,2000
@@ -804,8 +804,8 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a giant apple",food,0,spec,hold,,,,,,,,,break,,,,,,,"","",,,1,800,100
 "a dragon tooth necklace",armor,15,spec,neck,ma cl pa,,haste,,,,,a-g,,4,,,,,,"Captain Titara","Black Market",x,,3,44200,6200
 "The Talisman of the Frozen Tundra",other,25,spec,neck hold,,,,25r-cold,6d-cold 5spell-crit-dam,,,,,,,,,,,"","",,,3,75000,8000
-"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","Forbidden",,,1,35000,3500
-"a chakra patch",worn,20,spec,trinket,,,4ma-gain,,,,,,,,,,,,,"","Forbidden",,,1,35000,3500
+"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","",,,1,35000,3500
+"a chakra patch",worn,20,spec,trinket,,,4ma-gain,,,,,,,,,,,,,"","",,,1,35000,3500
 "a small sheet of titanium",enchnt-mat,0,spec,,,,,25r-acid,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a tiny spool of copper wire",enchnt-mat,0,spec,,,,,20r-elec,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a solar's feather",enchnt-mat,0,spec,,,,1con,,,,,,,,,,,,1sock,random,random,,,1,3,2000
@@ -816,5 +816,26 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a doeskin headband",armor,0,spec,head,warr rogue,,2dam 2hp-gain 1dex -1cha awalk sneak -20(disarm),,,,,,,6,,,,,,"Phorg","Gnomelight",,,5,23250,4650
 "the Gauntlets of Treachery",armor,25,lrg,hands,th warr,,2con  +15(envenom) +20(fist attack),,,,,,,8,,,,,,"Phorg","Gnomelight",,,5,26000,4650
 "the Wristlet of Ogre Power",armor,35,lrg,wrist,,,1size,,,,,,,7,,,,,,"Ogre Chieftain","Gnomelight",x,,6,49750,9950
-"Hide of the Cavebear",worn,25,lrg,about,warr,,2dam 2hit  -20(slash attack),,,,,,,,,,,,,"in case","Gnomelight",,,6,52250,10450
+"Hide of the Cavebear",worn,25,lrg,about,warr,,2dam 2hit  -20(slash attack),,,,,,,,,,,,,"","",,,6,52250,10450
 "superior enchanted white maniple",armor,0,spec,arms,cl dr,,2ma-gain -1con haste,,,3h-bonus,,a-e,,4,,,,4sock,,random,random,,,2,45,3500
+"a Shinobi torinoko",other,0,spec,hold,,,,,,,,,!LOCATE_OBJ,,,,,,,"","",,,1,100000,10000
+"a gorgon tentacle",enchnt-mat,0,spec,,,,,,,-5sv-petri,,,,,,,,,1sock,random,random,,,1,3,2000
+"a dwarven neckguard",armor,0,sm,neck,,,,,,,,,break,5,,,,,,"A Dwarven Guard","Dwarven",,,1,400,40
+"dwarven plate mail",armor,0,sm,body,,,2hit -1aps,,,,,,break,4,,,,,,"A Dwarven Guard","Dwarven",,,3,5500,175
+"a dwarven helmet",armor,0,sm,head,,,-1dex,15r-pois,,,,,break,3,,,,,,"A Dwarven Guard","Dwarven",,,4,2500,300
+"Dwarven gloves",armor,0,sm,hands,,,-1dex 1con,,,,,,break,4,,,,,,"A Dwarven Guard","Dwarven",,,2,4000,800
+"dwarven club",weapon,0,spec,wield,,,,,,,,,break,,7,2D6,bludgeon (bludgeon),,,"A Dwarven Guard","Dwarven",,,1,3000,400
+"A massive dwarven battle axe",weapon,5,spec,wield,fi pa ap mo sa ra be,,,,,,,,,,15,3D9,slash (slash),,,"A Dwarven Guard","Dwarven",,,5,5000,150
+"a dwarven hammer",weapon,0,spec,wield,,,,,,,,,break,,12,3D7,crush (bludgeon),,,"A Dwarven Guard","Dwarven",,,0,5500,175
+"a 'gohome' stick",wand,0,spec,hold,,,3chrg(lvl15 word of recall),,,,,,,,,,,,,"Hide & Tooth storekeeper","Dwarven",,,1,2002,202
+"a castle key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"Captain of the Barracks","Dwarven",,,1,0,0
+"a healing staff",staff,0,spec,hold,,,3chrg(lvl0 heal light),,,,,,break,,,,,,,"A dwarven cleric","Dwarven",,,3,34512,3451
+"a rat on a stick",weapon,0,spec,wield,,,+20(cure light),,,,,,,,3.5,1D6,pierce (pierce),,,"Pubu","Dwarven",,,5,200,20
+"a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
+"a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
+"a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
+"a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
+"a gate key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"A Dwarven Guard","",,,1,0,0
+"a mining pick",weapon,0,spec,wield,,,,,,,,,break,,2.5,1D4,pierce (pierce),,,"A dwarven mineworker","",,,1,3000,400
+"a chunk of coal",other,0,spec,,,,,,,,,,break,,,,,,,"","",,,1,100,0
+"an old mine key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"The dwarven mine leader","",,,0,0,0
