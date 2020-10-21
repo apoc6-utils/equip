@@ -11801,39 +11801,6 @@ Weight: 1, Value: 10324, Rent: 103, Min Level: 5
 Item is: GLOW !IDENTIFY 
 Can affect you as:
    MAXMANA By 10"
-"a mystical magical mouse...it has a strong, nasty odor!",WORN,NECK,NONE,NONE,organic,normal,1,10324,103,5,,!IDENTIFY,,,,,,,,,,,,,,,,,,,,,,10MAXMANA,,,"Pubu","Dwarven","Object 'a mystical magical mouse...it has a strong, nasty odor!', Item type: WORN
-Can be worn on: TAKE NECK 
-Class restrictions: NONE 
-Race restrictions: NONE 
-Object Material: organic
-Size: normal
-Weight: 1, Value: 10324, Rent: 103, Min Level: 5
-Item is:  !IDENTIFY
-   MAXMANA By 10"
-"a mystical magical mouse...it has a strong, nasty odor!",WORN,NECK,NONE,NONE,organic,normal,1,10324,103,5,,GLOW !IDENTIFY  !IDENTIFY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA,,,"Pubu","Dwarven","Object 'a mystical magical mouse...it has a strong, nasty odor!', Item type: WORN
-Can be worn on: TAKE NECK 
-Class restrictions: NONE 
-Race restrictions: NONE 
-Object Material: organic
-Size: normal
-Weight: 1, Value: 10324, Rent: 103, Min Level: 5
-Item is: GLOW !IDENTIFY  !IDENTIFY
-Customizations: UNCUSTOMIZABLE
-Bindings: NON-BINDING
-Can affect you as:#loop {1} {1} {i} {#cat {identItem[orig]} {
-    By }}"
-"a mystical magical mouse...it has a strong, nasty odor!",WORN,NECK,NONE,NONE,organic,normal,1,10324,103,5,,,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA,,,"Pubu","Dwarven","Object 'a mystical magical mouse...it has a strong, nasty odor!', Item type: WORN
-Can be worn on: TAKE NECK 
-Class restrictions: NONE 
-Race restrictions: NONE 
-Object Material: organic
-Size: normal
-Weight: 1, Value: 10324, Rent: 103, Min Level: 5
-Item is: !IDENTIFY
-Customizations: UNCUSTOMIZABLE
-Bindings: NON-BINDING
-Can affect you as:
-   MAXMANA By 10"
 "a gate key",KEY,,NONE,NONE,copper,special,1,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"A Dwarven Guard","","Object 'a gate key', Item type: KEY
 Can be worn on: TAKE 
 Class restrictions: NONE 
@@ -11876,3 +11843,572 @@ Size: special
 Weight: 0, Value: 0, Rent: 0, Min Level: 0
 Item will give you following abilities:  NONE 
 Item is: !RENT !DONATE !SELL "
+"white robes",ARMOR,ABOUT,NONE,NONE,cotton,normal,8,6000,1420,0,NONE,UNIQUE UNBREAKABLE,,,,,4,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"A Smiling Priest","Temple of Opulance","Object 'white robes', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: cotton
+Size: normal
+Weight: 8, Value: 6000, Rent: 1420, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 4
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a silver breast plate",ARMOR,BODY,NONE,NONE,silver,normal,12,8000,2000,0,NONE,UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"A Temple Guard","Temple of Opulance","Object 'a silver breast plate', Item type: ARMOR
+Can be worn on: TAKE BODY 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: silver
+Size: normal
+Weight: 12, Value: 8000, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a silver long sword",WEAPON,WIELD,NONE,NONE,silver,special,13,2150,2150,0,NONE,UNIQUE UNBREAKABLE MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,2D5,6.0,slash attack,1DAMROLL 1HITROLL,,,"A Temple Guard","Temple of Opulance","Object 'a silver long sword', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: silver
+Size: special
+Weight: 13, Value: 2150, Rent: 2150, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE MAIN_HAND_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: slash,  Damage Dice: '2D5', Average Damage 6.0.
+Requires Weapon Skill: slash attack
+Can affect you as:
+   HITROLL By 1
+   DAMROLL By 1"
+"tattered robes",ARMOR,ABOUT,NONE,NONE,cotton,normal,8,1070,1070,0,NONE,UNIQUE UNBREAKABLE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"A Fanatic","Temple of Opulance","Object 'tattered robes', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: cotton
+Size: normal
+Weight: 8, Value: 1070, Rent: 1070, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 3
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a nasty dagger",WEAPON,WIELD HOLD,NONE,NONE,iron,special,13,6000,1530,0,NONE,UNIQUE UNBREAKABLE HOLDABLE_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,3D3,6.0,pierce attack,,,,"A Fanatic","Temple of Opulance","Object 'a nasty dagger', Item type: WEAPON
+Can be worn on: TAKE WIELD HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: iron
+Size: special
+Weight: 13, Value: 6000, Rent: 1530, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE HOLDABLE_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: pierce,  Damage Dice: '3D3', Average Damage 6.0.
+Requires Weapon Skill: pierce attack"
+"a scroll of identify",SCROLL,HOLD,NONE,NONE,unknown,special,1,3550,100,0,NONE,MAGIC,,,,,,,,,,,,,,,,,,,,,,,,lvl(identify),"Philamena, A senator","Rome","Object 'a scroll of identify', Item type: SCROLL
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: unknown
+Size: special
+Weight: 1, Value: 3550, Rent: 100, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: MAGIC 
+Casts the following spells at level 40:
+   identify"
+"an old scroll",SCROLL,,NONE,NONE,paper,special,1,8000,2000,0,NONE,UNIQUE UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,,,lvl(heal light),"A Fanatical Priest","Temple of Opulance","Object 'an old scroll', Item type: SCROLL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: paper
+Size: special
+Weight: 1, Value: 8000, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+Casts the following spells at level 16:
+   heal light"
+"a red key",KEY,HOLD,NONE,NONE,ruby,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"A Fanatical Priest","Temple of Opulance","Object 'a red key', Item type: KEY
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: ruby
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"a nailfile",ARMOR,HOLD,NONE,NONE,steel,special,7,2520,252,5,NONE,UNIQUE UNBREAKABLE,,,,,0,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2CHA,,,"The Secretary","Temple of Opulance","Object 'a nailfile', Item type: ARMOR
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: steel
+Size: special
+Weight: 7, Value: 2520, Rent: 252, Min Level: 5
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 0
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CHA By 2"
+"a leather habit",ARMOR,ABOUT,NONE,NONE,leather,normal,8,6000,1500,0,NONE,ANTI_GOOD UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CHA,,,"Sister Zola","Temple of Opulance","Object 'a leather habit', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: leather
+Size: normal
+Weight: 8, Value: 6000, Rent: 1500, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: ANTI_GOOD UNIQUE UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CHA By 1"
+"a blue key",KEY,HOLD,NONE,NONE,sapphire,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"Sister Zola","Temple of Opulance","Object 'a blue key', Item type: KEY
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: sapphire
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"a leather whip",WEAPON,WIELD,NONE,NONE,leather,special,13,8000,800,0,NONE,UNIQUE UNBREAKABLE MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,whip,4D3,8.0,special attack,2DAMROLL 2HITROLL,,,"Sister Zola","Temple of Opulance","Object 'a leather whip', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: leather
+Size: special
+Weight: 13, Value: 8000, Rent: 800, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE MAIN_HAND_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: whip,  Damage Dice: '4D3', Average Damage 8.0.
+Requires Weapon Skill: special attack
+Can affect you as:
+   HITROLL By 2
+   DAMROLL By 2"
+"an obsidian potion",POTION,,NONE,NONE,obsidian,special,1,8000,2000,0,NONE,UNIQUE UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,,,lvl(heal light),"Sister Zola","Temple of Opulance","Object 'an obsidian potion', Item type: POTION
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: obsidian
+Size: special
+Weight: 1, Value: 8000, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+Casts the following spells at level 16:
+   heal light"
+"a spiritual necklace",ARMOR,NECK,NONE,NONE,electrum,normal,1,12000,1200,15,PROTECTION_EVIL,UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,6MAXMANA,,,"The Deacon","Temple of Opulance","Object 'a spiritual necklace', Item type: ARMOR
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: electrum
+Size: normal
+Weight: 1, Value: 12000, Rent: 1200, Min Level: 15
+Item will give you following abilities:  PROTECTION_EVIL 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXMANA By 6"
+"a glowing sphere",LIGHT,,NONE,NONE,energy,special,6,12000,1200,10,IMPROVED_INVIS INFRAVISION,UNIQUE UNBREAKABLE GOOD_FLAGGED,,,,,,,,,,,,,,,,,,,,,,,,,"The Deacon","Temple of Opulance","Object 'a glowing sphere', Item type: LIGHT
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: energy
+Size: special
+Weight: 6, Value: 12000, Rent: 1200, Min Level: 10
+Item will give you following abilities:  IMPROVED_INVIS INFRAVISION 
+Item is: UNIQUE UNBREAKABLE GOOD_FLAGGED 
+This light modifies the light intensity of a room by 14
+Hours left: [100]"
+"a pair of black greaves",ARMOR,LEGS,NONE,NONE,steel,normal,5,8000,2000,0,NONE,MAGIC UNIQUE UNBREAKABLE,,,,,4,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"Petre the Curate","Temple of Opulance","Object 'a pair of black greaves', Item type: ARMOR
+Can be worn on: TAKE LEGS 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: steel
+Size: normal
+Weight: 5, Value: 8000, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: MAGIC UNIQUE UNBREAKABLE 
+AP-apply is 4
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a set of black robes",ARMOR,ABOUT,NONE,NONE,cotton,normal,8,6000,1500,0,NONE,UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"Petre the Curate","Temple of Opulance","Object 'a set of black robes', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: cotton
+Size: normal
+Weight: 8, Value: 6000, Rent: 1500, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a battle-scarred wide leather belt",ARMOR,WAIST,NONE,NONE,leather,special,3,55000,6250,15,NONE,UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 1HITROLL 30MAXHIT,,,"Muri, Honu elder","Darkrime","Object 'a battle-scarred wide leather belt', Item type: ARMOR
+Can be worn on: TAKE WAIST 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: leather
+Size: special
+Weight: 3, Value: 55000, Rent: 6250, Min Level: 15
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXHIT By 30
+   HITROLL By 1
+   DAMROLL By 1"
+"an unholy belt",ARMOR,WAIST,NONE,NONE,iron,normal,5,1410,1410,0,NONE,ANTI_GOOD UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CON,,,"Misuna the Curate","Temple of Opulance","Object 'an unholy belt', Item type: ARMOR
+Can be worn on: TAKE WAIST 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: iron
+Size: normal
+Weight: 5, Value: 1410, Rent: 1410, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: ANTI_GOOD UNIQUE UNBREAKABLE 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CON By 1"
+"a pair of groovy vambraces",ARMOR,ARMS,NONE,NONE,steel,normal,5,3810,3810,10,NONE,UNIQUE UNBREAKABLE,,,,,10,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CHA 10MAXHIT,,,"Jacox the Curate","Temple of Opulance","Object 'a pair of groovy vambraces', Item type: ARMOR
+Can be worn on: TAKE ARMS 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: steel
+Size: normal
+Weight: 5, Value: 3810, Rent: 3810, Min Level: 10
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 10
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CHA By 1
+   MAXHIT By 10"
+"a black dagger",WEAPON,WIELD HOLD,NONE,NONE,steel,special,5,8000,800,5,NONE,UNIQUE UNBREAKABLE HOLDABLE_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,4D4,10.0,pierce attack,2DAMROLL 2HITROLL,,,"Caxli the Curate","Temple of Opulance","Object 'a black dagger', Item type: WEAPON
+Can be worn on: TAKE WIELD HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: steel
+Size: special
+Weight: 5, Value: 8000, Rent: 800, Min Level: 5
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE HOLDABLE_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: pierce,  Damage Dice: '4D4', Average Damage 10.0.
+Requires Weapon Skill: pierce attack
+Can affect you as:
+   HITROLL By 2
+   DAMROLL By 2"
+"a small marble ring",ARMOR,FINGER,CLERIC DRUID,NONE,marble,normal,1,12000,1200,0,NONE,UNIQUE UNBREAKABLE,,,,,0,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CHA 6MAXMANA,,,"Marseh the Curate","Temple of Opulance","Object 'a small marble ring', Item type: ARMOR
+Can be worn on: TAKE FINGER 
+Class restrictions: CLERIC DRUID 
+Race restrictions: NONE 
+Object Material: marble
+Size: normal
+Weight: 1, Value: 12000, Rent: 1200, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 0
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CHA By 1
+   MAXMANA By 6"
+"a well-oiled mahogany bracelet",ARMOR,WRIST,BARD MONK RANGER DRUID,NONE,wood,normal,2,52000,5160,15,NONE,UNIQUE UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CON 2DAMROLL,,,"Kells","Midgaard","Object 'a well-oiled mahogany bracelet', Item type: ARMOR
+Can be worn on: TAKE WRIST 
+Class restrictions: BARD MONK RANGER DRUID 
+Race restrictions: NONE 
+Object Material: wood
+Size: normal
+Weight: 2, Value: 52000, Rent: 5160, Min Level: 15
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 8
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CON By 1
+   DAMROLL By 2"
+"a charm bracelet",WAND,WRIST HOLD,BARD,NONE,ceramic,normal,2,16000,1600,15,PROTECTION_GOOD,UNIQUE UNBREAKABLE,charm person,10,2,2,,,,,,,,,,,,,,,,,,1DAMROLL 1HITROLL,,,"Jinh the Curate","Temple of Opulance","Object 'a charm bracelet', Item type: WAND
+Can be worn on: TAKE WRIST HOLD 
+Class restrictions: BARD 
+Race restrictions: NONE 
+Object Material: ceramic
+Size: normal
+Weight: 2, Value: 16000, Rent: 1600, Min Level: 15
+Item will give you following abilities:  PROTECTION_GOOD 
+Item is: UNIQUE UNBREAKABLE 
+Spell: charm person at level 10, 2 (of 2) charges remaining
+Can affect you as:
+   HITROLL By 1
+   DAMROLL By 1"
+"a rough iron bracelet",WORN,WRIST,PALADIN MONK RANGER BERSERKER,NONE,iron,normal,7,50000,5000,20,BAT_SONAR,ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 2HITROLL,,,"Goro, Honu chieftain","Darkmire","Object 'a rough iron bracelet', Item type: WORN
+Can be worn on: TAKE WRIST 
+Class restrictions: PALADIN MONK RANGER BERSERKER 
+Race restrictions: NONE 
+Object Material: iron
+Size: normal
+Weight: 7, Value: 50000, Rent: 5000, Min Level: 20
+Item will give you following abilities:  BAT_SONAR 
+Item is: ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   HITROLL By 2
+   DAMROLL By 1"
+"a single iron glove",ARMOR,HANDS,CLERIC DRUID NECROMANCER,NONE,iron,normal,2,25000,6250,0,NONE,UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,5MAXMANA 1STR,,,"The Expositor","Temple of Opulance","Object 'a single iron glove', Item type: ARMOR
+Can be worn on: TAKE HANDS 
+Class restrictions: CLERIC DRUID NECROMANCER 
+Race restrictions: NONE 
+Object Material: iron
+Size: normal
+Weight: 2, Value: 25000, Rent: 6250, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   STR By 1
+   MAXMANA By 5"
+"pure white robes",ARMOR,ABOUT,NONE,NONE,silk,normal,8,15000,1500,5,SENSE_LIFE,UNIQUE UNBREAKABLE,,,,,4,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,7MAXMANA 25RESIST_LIFE 1WIS,,,"The Expositor","Temple of Opulance","Object 'pure white robes', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: silk
+Size: normal
+Weight: 8, Value: 15000, Rent: 1500, Min Level: 5
+Item will give you following abilities:  SENSE_LIFE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 4
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   WIS By 1
+   RESIST_LIFE By 25
+   MAXMANA By 7"
+"a tiny gold key",KEY,HOLD,NONE,NONE,gold,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"The Expositor","Temple of Opulance","Object 'a tiny gold key', Item type: KEY
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: gold
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"a crest of the order",ARMOR,ARMS,NONE,NONE,gold,normal,5,10000,1000,5,NONE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CHA 15MAXHIT,,,"A Large Guard","Temple of Opulance","Object 'a crest of the order', Item type: ARMOR
+Can be worn on: TAKE ARMS 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: gold
+Size: normal
+Weight: 5, Value: 10000, Rent: 1000, Min Level: 5
+Item will give you following abilities:  NONE 
+Item is: ANTI_EVIL UNIQUE UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   CHA By 1
+   MAXHIT By 15"
+"a blood crystal necklace",ARMOR,NECK,NONE,NONE,crystal,normal,1,16000,2000,10,NONE,UNIQUE UNBREAKABLE,,,,,1,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,15MAXHIT 25RESIST_FIRE 25RESIST_SUMN,,,"Bishop of Blood","Temple of Opulance","Object 'a blood crystal necklace', Item type: ARMOR
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: crystal
+Size: normal
+Weight: 1, Value: 16000, Rent: 2000, Min Level: 10
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 1
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXHIT By 15
+   RESIST_FIRE By 25
+   RESIST_SUMN By 25"
+"blood robes",ARMOR,ABOUT,NONE,NONE,cotton,normal,8,8000,800,10,NONE,UNIQUE UNBREAKABLE,,,,,10,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,+60cannibalize,,"Bishop of Blood","Temple of Opulance","Object 'blood robes', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: cotton
+Size: normal
+Weight: 8, Value: 8000, Rent: 800, Min Level: 10
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 10
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Modifies the following proficiencies:
+   +60 to cannibalize"
+"a blood key",KEY,HOLD,NONE,NONE,silver,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"Bishop of Blood","Temple of Opulance","Object 'a blood key', Item type: KEY
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: silver
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"a potion of blood",POTION,HOLD,NONE,NONE,glass,special,1,990,90,0,NONE,UNIQUE UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,,,lvl(cure critic/cure critic/sanctuary),"Bishop of Blood","Temple of Opulance","Object 'a potion of blood', Item type: POTION
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 1, Value: 990, Rent: 90, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+Casts the following spells at level 15:
+   cure critic
+   cure critic
+   sanctuary"
+"a pain key",KEY,HOLD,NONE,NONE,copper,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"Bishop of Pain","Temple of Opulance","Object 'a pain key', Item type: KEY
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: copper
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"a pain stick",WEAPON,WIELD,NONE,NONE,wood,special,13,50000,5000,10,PROTECTION_GOOD,CURSED UNIQUE UNBREAKABLE MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,crush,8D2,12.0,bludgeon attack,3DAMROLL 3HITROLL,,,"Bishop of Pain","Temple of Opulance","Object 'a pain stick', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 13, Value: 50000, Rent: 5000, Min Level: 10
+Item will give you following abilities:  PROTECTION_GOOD 
+Item is: CURSED UNIQUE UNBREAKABLE MAIN_HAND_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: crush,  Damage Dice: '8D2', Average Damage 12.0.
+Requires Weapon Skill: bludgeon attack
+Can affect you as:
+   HITROLL By 3
+   DAMROLL By 3"
+"a spiked belt",ARMOR,WAIST,NONE,NONE,iron,normal,5,16000,1600,10,DETECT_INVIS,UNIQUE UNBREAKABLE,,,,,7,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-1CON 1DAMROLL,+20intimidate,,"Bishop of Pain","Temple of Opulance","Object 'a spiked belt', Item type: ARMOR
+Can be worn on: TAKE WAIST 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: iron
+Size: normal
+Weight: 5, Value: 16000, Rent: 1600, Min Level: 10
+Item will give you following abilities:  DETECT_INVIS 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 7
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 1
+   CON By -1
+Modifies the following proficiencies:
+   +20 to intimidate"
+"a staff of focusing",TREASURE,HOLD,NONE,NONE,wood,special,7,9000,900,15,NONE,UNIQUE UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,1DEX 7MAXMANA 2WIS,,,"Bishop of Death","Temple of Opulance","Object 'a staff of focusing', Item type: TREASURE
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 7, Value: 9000, Rent: 900, Min Level: 15
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+Can affect you as:
+   DEX By 1
+   WIS By 2
+   MAXMANA By 7"
+"a death key",KEY,HOLD,NONE,NONE,copper,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"Bishop of Death","Temple of Opulance","Object 'a death key', Item type: KEY
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: copper
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"an obsidian breast plate",ARMOR,BODY,WARRIOR ROGUE,NONE,obsidian,normal,12,24000,2400,13,NONE,UNIQUE UNBREAKABLE,,,,,15,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2HITROLL 2WIS,,,"Bishop of Torture","Temple of Opulance","Object 'an obsidian breast plate', Item type: ARMOR
+Can be worn on: TAKE BODY 
+Class restrictions: WARRIOR ROGUE 
+Race restrictions: NONE 
+Object Material: obsidian
+Size: normal
+Weight: 12, Value: 24000, Rent: 2400, Min Level: 13
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 15
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   HITROLL By 2
+   WIS By 2"
+"a torture key",KEY,HOLD,NONE,NONE,flesh,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"Bishop of Torture","Temple of Opulance","Object 'a torture key', Item type: KEY
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: flesh
+Size: special
+Weight: 0, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !RENT !DONATE !SELL "
+"A Midnight Lamp",LIGHT,,NONE,NONE,onyx,special,6,10000,2500,15,CLOAK_OF_THE_NIGHT INFRAVISION,UNIQUE UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,2CON -25RESIST_LGHT 25RESIST_SHDW,,,"The High Priest","Temple of Opulance","Object 'A Midnight Lamp', Item type: LIGHT
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: onyx
+Size: special
+Weight: 6, Value: 10000, Rent: 2500, Min Level: 15
+Item will give you following abilities:  CLOAK_OF_THE_NIGHT INFRAVISION 
+Item is: UNIQUE UNBREAKABLE 
+This light modifies the light intensity of a room by -2
+Hours left: Infinite
+Can affect you as:
+   CON By 2
+   RESIST_LGHT By -25
+   RESIST_SHDW By 25"
+"A Midnight Ring",ARMOR,FINGER,NONE,NONE,onyx,normal,1,20000,5000,15,PROTECTION_GOOD SECOND_SIGHT,UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2INT 15MAXMANA 8RESIST_SHDW,,,"The High Priest","Temple of Opulance","Object 'A Midnight Ring', Item type: ARMOR
+Can be worn on: TAKE FINGER 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: onyx
+Size: normal
+Weight: 1, Value: 20000, Rent: 5000, Min Level: 15
+Item will give you following abilities:  PROTECTION_GOOD SECOND_SIGHT 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   INT By 2
+   MAXMANA By 15
+   RESIST_SHDW By 8"
+"Midnight Robes",ARMOR,ABOUT,ANTIPALADIN WIZARD,NONE,silk,normal,4,20000,5000,15,DETECT_ALIGN PROTECTION_GOOD,ANTI_GOOD UNIQUE UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA 10MAXMOVE -10RESIST_LGHT,,,"The High Priest","Temple of Opulance","Object 'Midnight Robes', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: ANTIPALADIN WIZARD 
+Race restrictions: NONE 
+Object Material: silk
+Size: normal
+Weight: 4, Value: 20000, Rent: 5000, Min Level: 15
+Item will give you following abilities:  DETECT_ALIGN PROTECTION_GOOD 
+Item is: ANTI_GOOD UNIQUE UNBREAKABLE 
+AP-apply is 8
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXMANA By 10
+   MAXMOVE By 10
+   RESIST_LGHT By -10"

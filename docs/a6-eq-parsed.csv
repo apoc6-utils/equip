@@ -205,7 +205,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "the Bangor Hunter's bow",weapon,25,norm,wield,ra,,2dam 1con,,,,,a-e,2-hand,,21,3D13,pierce (special),,,"The Bangor Hunter","Caves of Fire",,,16,65000,6500
 "a pair of woodland boots",armor,5,norm,feet,th ba ra be,,1hit 10mv 1dex,,,,,,,4,,,,,,"The Bangor Hunter","Caves of Fire",,,4,20400,1800
 "a worn leather vest",armor,20,norm,body,ra,,2dam 2dex -1cha,,,,,,,8,,,,,,"The Bangor Hunter","Caves of Fire",,,12,36700,3580
-"a well-oiled mahogany bracelet",armor,15,norm,wrist,ba mo ra dr,,2dam 1con,,,,,,,8,,,,,,"Kells","Midgaard",,,2,52000,5160
+"a well-oiled mahogany bracelet",armor,15,norm,wrist,ba mo ra dr,,2dam 1con,,,,,,,8,,,,,,"The Bangor Hunter","Caves of Fire",,,2,52000,5160
 "a wooden cross",armor,5,norm,neck hold,,,1int 1wis 15age,,,,f-g,,,4,,,,,,"","",,,1,2480,2480
 "a carved ivory ring",armor,5,norm,finger,,,1dam 1hit,,,,,a-e,,9,,,,,,"The Bangor Hunter","Caves of Fire",,,1,24100,2400
 "a raptor talon",treasure,0,spec,,,,,,,,,,,,,,,,,"A young raptor broodling, A large cave raptor","Sylvan Jungle",,,7,40000,4000
@@ -832,10 +832,48 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a healing staff",staff,0,spec,hold,,,3chrg(lvl0 heal light),,,,,,break,,,,,,,"A dwarven cleric","Dwarven",,,3,34512,3451
 "a rat on a stick",weapon,0,spec,wield,,,+20(cure light),,,,,,,,3.5,1D6,pierce (pierce),,,"Pubu","Dwarven",,,5,200,20
 "a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
-"a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
-"a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
-"a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
 "a gate key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"A Dwarven Guard","",,,1,0,0
 "a mining pick",weapon,0,spec,wield,,,,,,,,,break,,2.5,1D4,pierce (pierce),,,"A dwarven mineworker","",,,1,3000,400
 "a chunk of coal",other,0,spec,,,,,,,,,,break,,,,,,,"","",,,1,100,0
 "an old mine key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"The dwarven mine leader","",,,0,0,0
+"white robes",armor,0,norm,about,,,,,,,,,,4,,,,,,"A Smiling Priest","Temple of Opulance",,,8,6000,1420
+"a silver breast plate",armor,0,norm,body,,,,,,,,,,5,,,,,,"A Temple Guard","Temple of Opulance",,,12,8000,2000
+"a silver long sword",weapon,0,spec,wield,,,1dam 1hit,,,,,,,,6,2D5,slash (slash),,,"A Temple Guard","Temple of Opulance",,,13,2150,2150
+"tattered robes",armor,0,norm,about,,,,,,,,,,3,,,,,,"A Fanatic","Temple of Opulance",,,8,1070,1070
+"a nasty dagger",weapon,0,spec,wield hold,,,,,,,,,hold-w,,6,3D3,pierce (pierce),,,"A Fanatic","Temple of Opulance",,,13,6000,1530
+"a scroll of identify",scroll,0,spec,hold,,,lvl40(identify),,,,,,break,,,,,,,"Philamena, A senator","Rome",,,1,3550,100
+"an old scroll",scroll,0,spec,,,,lvl16(heal light),,,,,,,,,,,,,"A Fanatical Priest","Temple of Opulance",,,1,8000,2000
+"a red key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"A Fanatical Priest","Temple of Opulance",,,0,0,0
+"a nailfile",armor,5,spec,hold,,,2cha,,,,,,,0,,,,,,"The Secretary","Temple of Opulance",,,7,2520,252
+"a leather habit",armor,0,norm,about,,,1cha,,,,,a-g,,6,,,,,,"Sister Zola","Temple of Opulance",,,8,6000,1500
+"a blue key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"Sister Zola","Temple of Opulance",,,0,0,0
+"a leather whip",weapon,0,spec,wield,,,2dam 2hit,,,,,,,,8,4D3,whip (special),,,"Sister Zola","Temple of Opulance",,,13,8000,800
+"an obsidian potion",potion,0,spec,,,,lvl16(heal light),,,,,,,,,,,,,"Sister Zola","Temple of Opulance",,,1,8000,2000
+"a spiritual necklace",armor,15,norm,neck,,,6ma pfe,,,,,,,5,,,,,,"The Deacon","Temple of Opulance",,,1,12000,1200
+"a glowing sphere",light,10,spec,,,,imp-invis infra,,,,f-g,,,,,,,,,"The Deacon","Temple of Opulance",,,6,12000,1200
+"a pair of black greaves",armor,0,norm,legs,,,,,,,,,,4,,,,,,"Petre the Curate","Temple of Opulance",,,5,8000,2000
+"a set of black robes",armor,0,norm,about,,,,,,,,,,5,,,,,,"Petre the Curate","Temple of Opulance",,,8,6000,1500
+"an unholy belt",armor,0,norm,waist,,,1con,,,,,a-g,,5,,,,,,"Misuna the Curate","Temple of Opulance",,,5,1410,1410
+"a pair of groovy vambraces",armor,10,norm,arms,,,10hp 1cha,,,,,,,10,,,,,,"Jacox the Curate","Temple of Opulance",,,5,3810,3810
+"a black dagger",weapon,5,spec,wield hold,,,2dam 2hit,,,,,,hold-w,,10,4D4,pierce (pierce),,,"Caxli the Curate","Temple of Opulance",,,5,8000,800
+"a small marble ring",armor,0,norm,finger,cl dr,,6ma 1cha,,,,,,,0,,,,,,"Marseh the Curate","Temple of Opulance",,,1,12000,1200
+"a charm bracelet",wand,15,norm,wrist hold,ba,,1dam 1hit pfg 2chrg(lvl10 charm person),,,,,,,,,,,,,"Jinh the Curate","Temple of Opulance",,,2,16000,1600
+"a rough iron bracelet",worn,20,norm,wrist,pa mo ra be,,1dam 2hit sonar,,,,f-g,a-e,,,,,,,,"Goro, Honu chieftain","Darkmire",,,7,50000,5000
+"a single iron glove",armor,0,norm,hands,cl dr ne,,5ma 1str,,,,,,,6,,,,,,"The Expositor","Temple of Opulance",,,2,25000,6250
+"pure white robes",armor,5,norm,about,,,7ma 1wis s-life,25r-life,,,,,,4,,,,,,"The Expositor","Temple of Opulance",,,8,15000,1500
+"a tiny gold key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"The Expositor","Temple of Opulance",,,0,0,0
+"a crest of the order",armor,5,norm,arms,,,15hp 1cha,,,,,a-e,,6,,,,,,"A Large Guard","Temple of Opulance",,,5,10000,1000
+"a blood crystal necklace",armor,10,norm,neck,,,15hp,25r-fire 25r-sumn,,,,,,1,,,,,,"Bishop of Blood","Temple of Opulance",,,1,16000,2000
+"blood robes",armor,10,norm,about,,,+60(cannibalize),,,,,,,10,,,,,,"Bishop of Blood","Temple of Opulance",,,8,8000,800
+"a blood key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"Bishop of Blood","Temple of Opulance",,,0,0,0
+"a potion of blood",potion,0,spec,hold,,,lvl15(cure critic/cure critic/sanctuary),,,,,,,,,,,,,"Bishop of Blood","Temple of Opulance",,,1,990,90
+"a pain key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"Bishop of Pain","Temple of Opulance",,,0,0,0
+"a pain stick",weapon,10,spec,wield,,,3dam 3hit pfg,,,,,,curs,,12,8D2,crush (bludgeon),,,"Bishop of Pain","Temple of Opulance",,,13,50000,5000
+"a spiked belt",armor,10,norm,waist,,,1dam -1con d-invis +20(intimidate),,,,,,,7,,,,,,"Bishop of Pain","Temple of Opulance",,,5,16000,1600
+"a staff of focusing",treasure,15,spec,hold,,,7ma 2wis 1dex,,,,,,,,,,,,,"Bishop of Death","Temple of Opulance",,,7,9000,900
+"a death key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"Bishop of Death","Temple of Opulance",,,0,0,0
+"an obsidian breast plate",armor,13,norm,body,warr rogue,,2hit 2wis,,,,,,,15,,,,,,"Bishop of Torture","Temple of Opulance",,,12,24000,2400
+"a torture key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"Bishop of Torture","Temple of Opulance",,,0,0,0
+"A Midnight Lamp",light,15,spec,,,,2con cloak_of_the_night infra,-25r-lght 25r-shdw,,,,,,,,,,,,"The High Priest","Temple of Opulance",,,6,10000,2500
+"A Midnight Ring",armor,15,norm,finger,,,15ma 2int pfg second_sight,8r-shdw,,,,,,5,,,,,,"The High Priest","Temple of Opulance",,,1,20000,5000
+"Midnight Robes",armor,15,norm,about,ap wizd,,10ma 10mv d-align pfg,-10r-lght,,,,a-g,,8,,,,,,"The High Priest","Temple of Opulance",,,4,20000,5000
