@@ -2960,7 +2960,7 @@ Can affect you as:
    DEX By 2
    DAMROLL By 2
    CHA By -1"
-"a well-oiled mahogany bracelet",ARMOR,WRIST,BARD MONK RANGER DRUID,NONE,wood,normal,2,52000,5160,15,NONE,UNIQUE UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CON 2DAMROLL,,,"Kells","Midgaard","Object 'a well-oiled mahogany bracelet', Item type: ARMOR
+"a well-oiled mahogany bracelet",ARMOR,WRIST,BARD MONK RANGER DRUID,NONE,wood,normal,2,52000,5160,15,NONE,UNIQUE UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CON 2DAMROLL,,,"The Bangor Hunter","Caves of Fire","Object 'a well-oiled mahogany bracelet', Item type: ARMOR
 Can be worn on: TAKE WRIST 
 Class restrictions: BARD MONK RANGER DRUID 
 Race restrictions: NONE 
@@ -3467,7 +3467,7 @@ Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant.
 Contains the following affect powers upon enchanting:
    RESIST_SONC By 20"
-"a bearskin kilt",WORN,LEGS,NONE,NONE,organic,normal,5,40000,4000,15,PROTECTION_EVIL SENSE_LIFE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-20ARMOR_POINTS 40MAXHIT,,,"Goro, Honu chieftain","Shire","Object 'a bearskin kilt', Item type: WORN
+"A bearskin kilt",WORN,LEGS,NONE,NONE,organic,normal,5,40000,4000,15,PROTECTION_EVIL SENSE_LIFE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-20ARMOR_POINTS 40MAXHIT,,,"Goro, Honu chieftain","Darkrime","Object 'A bearskin kilt', Item type: WORN
 Can be worn on: TAKE LEGS 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -6927,7 +6927,7 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Damage Type: slash,  Damage Dice: '1D12', Average Damage 6.5.
 Requires Weapon Skill: slash attack"
-"a solid silver disc",TREASURE,,NONE,NONE,silver,special,4,0,0,0,NONE,!RENT,,,,,,,,,,,,,,,,,,,,,,,,,"Muri, Honu elder","Darkmire","Object 'a solid silver disc', Item type: TREASURE
+"a solid silver disc",TREASURE,,NONE,NONE,silver,special,4,0,0,0,NONE,!RENT,,,,,,,,,,,,,,,,,,,,,,,,,"Muri, Honu elder","Darkrime","Object 'a solid silver disc', Item type: TREASURE
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -6936,7 +6936,7 @@ Size: special
 Weight: 4, Value: 0, Rent: 0, Min Level: 0
 Item will give you following abilities:  NONE 
 Item is: !RENT "
-"an eagle feather",OTHER,,NONE,NONE,organic,special,1,0,0,0,NONE,!RENT,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"Gelsa, Honu witch","Darkmire","Object 'an eagle feather', Item type: OTHER
+"an eagle feather",OTHER,,NONE,NONE,organic,special,1,0,0,0,NONE,!RENT,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"Gelsa, Honu witch","Darkrime","Object 'an eagle feather', Item type: OTHER
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -6973,7 +6973,7 @@ Item is: MAGIC CURSED UNBREAKABLE !IDENTIFY
 Can affect you as:
    RESIST_BLDG By -30
    SIZE By -1"
-"a tattoo of an eagle",WORN,NECK ARMS,NONE,NONE,organic,special,1,56000,5600,15,AIRWALK,UNIQUE UNBREAKABLE CURSED_DEADLY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 1DEX,,,"Kano, son of Goro","Darkmire","Object 'a tattoo of an eagle', Item type: WORN
+"A tattoo of an eagle",WORN,NECK ARMS,NONE,NONE,organic,special,1,56000,5600,15,AIRWALK,UNIQUE UNBREAKABLE CURSED_DEADLY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 1DEX,,,"Kano, son of Goro","Darkrime","Object 'A tattoo of an eagle', Item type: WORN
 Can be worn on: TAKE NECK ARMS 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -6987,7 +6987,7 @@ Bindings: NON-BINDING
 Can affect you as:
    DEX By 1
    DAMROLL By 1"
-"a brass coin",OTHER,,NONE,NONE,steel,special,1,0,0,0,NONE,!RENT,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"Kano, son of Goro","Darkmire","Object 'a brass coin', Item type: OTHER
+"a brass coin",OTHER,,NONE,NONE,steel,special,1,0,0,0,NONE,!RENT,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"Kano, son of Goro","Darkrime","Object 'a brass coin', Item type: OTHER
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -7051,7 +7051,7 @@ Item is: NONE
 Casts the following spells at level 25:
    word of recall
    smite evil"
-"some red mountain berries",FOOD,HOLD,NONE,NONE,organic,special,0,0,0,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(cure light),"forage","mountain terrain","Object 'some red mountain berries', Item type: FOOD
+"some red mountain berries",FOOD,HOLD,NONE,NONE,organic,special,0,0,0,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(cure light),"forage","mountain","Object 'some red mountain berries', Item type: FOOD
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -7095,7 +7095,7 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Can affect you as:
    SPELL_DMG By 3"
-"a tattoo of a grizzly bear",WORN,NECK ARMS,WARRIOR ROGUE,NONE,organic,special,1,60000,6000,20,NONE,UNIQUE UNBREAKABLE CURSED_DEADLY PC_USE_ONLY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 5HIT_GAIN 20MAXHIT,,,"Goro, Honu chieftain","Darkmire","Object 'a tattoo of a grizzly bear', Item type: WORN
+"a tattoo of a grizzly bear",WORN,NECK ARMS,WARRIOR ROGUE,NONE,organic,special,1,60000,6000,20,NONE,UNIQUE UNBREAKABLE CURSED_DEADLY PC_USE_ONLY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 5HIT_GAIN 20MAXHIT,,,"Goro, Honu chieftain","Darkrime","Object 'a tattoo of a grizzly bear', Item type: WORN
 Can be worn on: TAKE NECK ARMS 
 Class restrictions: WARRIOR ROGUE 
 Race restrictions: NONE 
@@ -7110,7 +7110,7 @@ Can affect you as:
    HIT_GAIN By 5
    DAMROLL By 2
    MAXHIT By 20"
-"the Axe of the Mountain Lords",WEAPON,WIELD,WARRIOR,NONE,iron,normal,15,80000,8000,20,NONE,ANTI_EVIL TWO_HANDED_WPN UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,12D2,18.0,slash attack,4DAMROLL 40MAXHIT,,,"Goro, Honu chieftain","Darkmire","Object 'the Axe of the Mountain Lords', Item type: WEAPON
+"the Axe of the Mountain Lords",WEAPON,WIELD,WARRIOR,NONE,iron,normal,15,80000,8000,20,NONE,ANTI_EVIL TWO_HANDED_WPN UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,12D2,18.0,slash attack,4DAMROLL 40MAXHIT,,,"Goro, Honu chieftain","Darkrime","Object 'the Axe of the Mountain Lords', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: WARRIOR 
 Race restrictions: NONE 
@@ -7126,7 +7126,7 @@ Requires Weapon Skill: slash attack
 Can affect you as:
    MAXHIT By 40
    DAMROLL By 4"
-"a rams-head hammer",KEY,HOLD,NONE,NONE,iron,special,3,0,0,0,NONE,!RENT MAGIC,,,,,,,,,,,,,,,,,,,,,,,,,"Goro, Honu chieftain","Darkmire","Object 'a rams-head hammer', Item type: KEY
+"a rams-head hammer",KEY,HOLD,NONE,NONE,iron,special,3,0,0,0,NONE,!RENT MAGIC,,,,,,,,,,,,,,,,,,,,,,,,,"Goro, Honu chieftain","Darkrime","Object 'a rams-head hammer', Item type: KEY
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -7178,7 +7178,7 @@ Weight: 3, Value: 48000, Rent: 3500, Min Level: 20
 Item will give you following abilities:  NONE 
 Item is: PC_USE_ONLY 
 Spell: paralyze at level 40, 3 (of 3) charges remaining"
-"some white mountain berries",FOOD,HOLD,NONE,NONE,organic,special,0,0,0,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(cure light),"forage","mountain terrain","Object 'some white mountain berries', Item type: FOOD
+"some white mountain berries",FOOD,HOLD,NONE,NONE,organic,special,0,0,0,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(cure light),"forage","mountain","Object 'some white mountain berries', Item type: FOOD
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -7224,7 +7224,7 @@ Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant.
 Contains the following affect powers upon enchanting:
    MAXMANA By 6"
-"a droplet of unmelting ice",WORN,NECK,PRIEST WIZARD,NONE,ice,special,1,124400,12440,25,AIRWALK SUSTAIN,MAGIC ANTI_EVIL UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA,,,"Kalinda","Darkmire","Object 'a droplet of unmelting ice', Item type: WORN
+"a droplet of unmelting ice",WORN,NECK,PRIEST WIZARD,NONE,ice,special,1,124400,12440,25,AIRWALK SUSTAIN,MAGIC ANTI_EVIL UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA,,,"Kalinda","Darkrime","Object 'a droplet of unmelting ice', Item type: WORN
 Can be worn on: TAKE NECK 
 Class restrictions: PRIEST WIZARD 
 Race restrictions: NONE 
@@ -7405,7 +7405,7 @@ Item is: NONE
 Casts the following spells at level 25:
    word of recall
    smite good"
-"a pixie potion",POTION,HOLD,NONE,NONE,energy,special,1,9200,1000,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(lesser electricity resistance/lesser fire resistance),"forage","hill terrain","Object 'a pixie potion', Item type: POTION
+"A pixie potion",POTION,HOLD,NONE,NONE,energy,special,1,9200,1000,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(lesser electricity resistance/lesser fire resistance),"","","Object 'A pixie potion', Item type: POTION
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -7440,7 +7440,7 @@ Casts the following spells at level 30:
    shrink
    poison
    smite good"
-"a frosted cladonia potion",POTION,HOLD,NONE,NONE,glass,special,1,15200,1500,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(healing dream),"","","Object 'a frosted cladonia potion', Item type: POTION
+"a frosted cladonia potion",POTION,HOLD,NONE,NONE,glass,special,1,15200,1500,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(healing dream),"forage","mountain","Object 'a frosted cladonia potion', Item type: POTION
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -7504,7 +7504,7 @@ Size: special
 Weight: 1, Value: 16000, Rent: 4000, Min Level: 0
 Item will give you following abilities:  NONE 
 Item is: GLOW MAGIC UNBREAKABLE GOOD_FLAGGED "
-"a rough iron bracelet",WORN,WRIST,PALADIN MONK RANGER BERSERKER,NONE,iron,normal,7,50000,5000,20,BAT_SONAR,ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 2HITROLL,,,"Goro, Honu chieftain","Darkmire","Object 'a rough iron bracelet', Item type: WORN
+"a rough iron bracelet",WORN,WRIST,PALADIN MONK RANGER BERSERKER,NONE,iron,normal,7,50000,5000,20,BAT_SONAR,ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 2HITROLL,,,"Goro, Honu chieftain","Darkrime","Object 'a rough iron bracelet', Item type: WORN
 Can be worn on: TAKE WRIST 
 Class restrictions: PALADIN MONK RANGER BERSERKER 
 Race restrictions: NONE 
@@ -10479,7 +10479,7 @@ Can affect you as:
    STR By -1
    SPELL_CRIT_PCT By 6
    MAXMANA By 30"
-"A Multi-faceted Gemstone",WORN,HOLD,NONE,NONE,gemstone,special,4,40000,500,0,NONE,GLOW ANTI_EVIL UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2SAVING_BREATH 2SAVING_SPELL,,,"in chest","Goblin Caves","Object 'A Multi-faceted Gemstone', Item type: WORN
+"a Multi-faceted Gemstone",WORN,HOLD,NONE,NONE,gemstone,special,4,40000,500,0,NONE,GLOW ANTI_EVIL UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2SAVING_BREATH 2SAVING_SPELL,,,"","","Object 'a Multi-faceted Gemstone', Item type: WORN
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11801,7 +11801,7 @@ Weight: 1, Value: 10324, Rent: 103, Min Level: 5
 Item is: GLOW !IDENTIFY 
 Can affect you as:
    MAXMANA By 10"
-"a gate key",KEY,,NONE,NONE,copper,special,1,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"A Dwarven Guard","","Object 'a gate key', Item type: KEY
+"a gate key",KEY,,NONE,NONE,copper,special,1,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"A Dwarven Guard","Shire","Object 'a gate key', Item type: KEY
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11810,7 +11810,7 @@ Size: special
 Weight: 1, Value: 0, Rent: 0, Min Level: 0
 Item will give you following abilities:  NONE 
 Item is: !RENT !DONATE !SELL "
-"a mining pick",WEAPON,WIELD,NONE,NONE,wood,special,1,3000,400,0,NONE,NONE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,1D4,2.5,pierce attack,,,,"A dwarven mineworker","","Object 'a mining pick', Item type: WEAPON
+"a mining pick",WEAPON,WIELD,NONE,NONE,wood,special,1,3000,400,0,NONE,NONE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,1D4,2.5,pierce attack,,,,"A dwarven mineworker","Shire","Object 'a mining pick', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11834,7 +11834,7 @@ Item will give you following abilities:  NONE
 Item is: NONE 
 Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING"
-"an old mine key",KEY,,NONE,NONE,copper,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"The dwarven mine leader","","Object 'an old mine key', Item type: KEY
+"an old mine key",KEY,,NONE,NONE,copper,special,0,0,0,0,NONE,!RENT !DONATE !SELL,,,,,,,,,,,,,,,,,,,,,,,,,"The dwarven mine leader","Shire","Object 'an old mine key', Item type: KEY
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12052,22 +12052,6 @@ Item is: UNIQUE UNBREAKABLE
 AP-apply is 5
 Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING"
-"a battle-scarred wide leather belt",ARMOR,WAIST,NONE,NONE,leather,special,3,55000,6250,15,NONE,UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 1HITROLL 30MAXHIT,,,"Muri, Honu elder","Darkrime","Object 'a battle-scarred wide leather belt', Item type: ARMOR
-Can be worn on: TAKE WAIST 
-Class restrictions: NONE 
-Race restrictions: NONE 
-Object Material: leather
-Size: special
-Weight: 3, Value: 55000, Rent: 6250, Min Level: 15
-Item will give you following abilities:  NONE 
-Item is: UNIQUE UNBREAKABLE 
-AP-apply is 6
-Customizations: UNCUSTOMIZABLE
-Bindings: NON-BINDING
-Can affect you as:
-   MAXHIT By 30
-   HITROLL By 1
-   DAMROLL By 1"
 "an unholy belt",ARMOR,WAIST,NONE,NONE,iron,normal,5,1410,1410,0,NONE,ANTI_GOOD UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CON,,,"Misuna the Curate","Temple of Opulance","Object 'an unholy belt', Item type: ARMOR
 Can be worn on: TAKE WAIST 
 Class restrictions: NONE 
@@ -12128,21 +12112,6 @@ Bindings: NON-BINDING
 Can affect you as:
    CHA By 1
    MAXMANA By 6"
-"a well-oiled mahogany bracelet",ARMOR,WRIST,BARD MONK RANGER DRUID,NONE,wood,normal,2,52000,5160,15,NONE,UNIQUE UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1CON 2DAMROLL,,,"Kells","Midgaard","Object 'a well-oiled mahogany bracelet', Item type: ARMOR
-Can be worn on: TAKE WRIST 
-Class restrictions: BARD MONK RANGER DRUID 
-Race restrictions: NONE 
-Object Material: wood
-Size: normal
-Weight: 2, Value: 52000, Rent: 5160, Min Level: 15
-Item will give you following abilities:  NONE 
-Item is: UNIQUE UNBREAKABLE 
-AP-apply is 8
-Customizations: UNCUSTOMIZABLE
-Bindings: NON-BINDING
-Can affect you as:
-   CON By 1
-   DAMROLL By 2"
 "a charm bracelet",WAND,WRIST HOLD,BARD,NONE,ceramic,normal,2,16000,1600,15,PROTECTION_GOOD,UNIQUE UNBREAKABLE,charm person,10,2,2,,,,,,,,,,,,,,,,,,1DAMROLL 1HITROLL,,,"Jinh the Curate","Temple of Opulance","Object 'a charm bracelet', Item type: WAND
 Can be worn on: TAKE WRIST HOLD 
 Class restrictions: BARD 
@@ -12155,20 +12124,6 @@ Item is: UNIQUE UNBREAKABLE
 Spell: charm person at level 10, 2 (of 2) charges remaining
 Can affect you as:
    HITROLL By 1
-   DAMROLL By 1"
-"a rough iron bracelet",WORN,WRIST,PALADIN MONK RANGER BERSERKER,NONE,iron,normal,7,50000,5000,20,BAT_SONAR,ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 2HITROLL,,,"Goro, Honu chieftain","Darkmire","Object 'a rough iron bracelet', Item type: WORN
-Can be worn on: TAKE WRIST 
-Class restrictions: PALADIN MONK RANGER BERSERKER 
-Race restrictions: NONE 
-Object Material: iron
-Size: normal
-Weight: 7, Value: 50000, Rent: 5000, Min Level: 20
-Item will give you following abilities:  BAT_SONAR 
-Item is: ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED 
-Customizations: UNCUSTOMIZABLE
-Bindings: NON-BINDING
-Can affect you as:
-   HITROLL By 2
    DAMROLL By 1"
 "a single iron glove",ARMOR,HANDS,CLERIC DRUID NECROMANCER,NONE,iron,normal,2,25000,6250,0,NONE,UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,5MAXMANA 1STR,,,"The Expositor","Temple of Opulance","Object 'a single iron glove', Item type: ARMOR
 Can be worn on: TAKE HANDS 
@@ -12412,3 +12367,210 @@ Can affect you as:
    MAXMANA By 10
    MAXMOVE By 10
    RESIST_LGHT By -10"
+"the Bringer of Ruin",WEAPON,WIELD,RANGER,NONE,ectoplasm,special,18,38000,16667,15,NONE,MAGIC ANTI_GOOD ANTI_EVIL TWO_HANDED_WPN UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,drain,11D3,22.0,special attack,-10COLD_DMG 3DAMROLL -10FIRE_DMG 3HITROLL -10POIS_DMG,,,"","","Object 'the Bringer of Ruin', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: RANGER 
+Race restrictions: NONE 
+Object Material: ectoplasm
+Size: special
+Weight: 18, Value: 38000, Rent: 16667, Min Level: 15
+Item will give you following abilities:  NONE 
+Item is: MAGIC ANTI_GOOD ANTI_EVIL TWO_HANDED_WPN UNBREAKABLE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: drain,  Damage Dice: '11D3', Average Damage 22.0.
+Requires Weapon Skill: special attack
+Can affect you as:
+   HITROLL By 3
+   DAMROLL By 3
+   POIS_DMG By -10
+   FIRE_DMG By -10
+   COLD_DMG By -10"
+"superior enchanted electrum knuckles",WEAPON,WIELD,MONK,NONE,electrum,special,22,45,3000,0,NONE,!DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,5,1,1,,1,,,,,,punch,4D2,6.0,fist attack,-1DAMROLL 7MOVE_GAIN,,,random,random,"Object 'superior enchanted electrum knuckles', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: MONK 
+Race restrictions: NONE 
+Object Material: electrum
+Size: special
+Weight: 22, Value: 45, Rent: 3000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY 
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 5
+Dice 1 Sockets Remaining: 1, Dice 2 Sockets Remaining: 1
+Proficiency Sockets Remaining: 1
+Damage Type: punch,  Damage Dice: '4D2', Average Damage 6.0.
+Requires Weapon Skill: fist attack
+Contains the following affect powers upon enchanting:
+   MOVE_GAIN By 7
+   DAMROLL By -1"
+"a glinting necklace",ARMOR,NECK,NONE,NONE,gold,normal,2,25000,3500,15,HASTE,GLOW MAGIC UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,15RESIST_LGHT -1SIZE,,,"","","Object 'a glinting necklace', Item type: ARMOR
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: gold
+Size: normal
+Weight: 2, Value: 25000, Rent: 3500, Min Level: 15
+Item will give you following abilities:  HASTE 
+Item is: GLOW MAGIC UNBREAKABLE 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   SIZE By -1
+   RESIST_LGHT By 15"
+"superior enchanted morning star",WEAPON,WIELD,MAGIC_USER,NONE,silver,special,18,45,3000,0,NONE,!DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,5,1,1,,1,,,,,,bludgeon,3D4,7.5,bludgeon attack,2ATK_/_2_ROUNDS -1DAMROLL,,,random,random,"Object 'superior enchanted morning star', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: MAGIC_USER 
+Race restrictions: NONE 
+Object Material: silver
+Size: special
+Weight: 18, Value: 45, Rent: 3000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY 
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 5
+Dice 1 Sockets Remaining: 1, Dice 2 Sockets Remaining: 1
+Proficiency Sockets Remaining: 1
+Damage Type: bludgeon,  Damage Dice: '3D4', Average Damage 7.5.
+Requires Weapon Skill: bludgeon attack
+Contains the following affect powers upon enchanting:
+   ATK_/_2_ROUNDS By 2
+   DAMROLL By -1"
+"a red steel gauntlet",ARMOR,HANDS,BERSERKER,NONE,steel,special,6,21000,4800,20,BAT_SONAR,CURSED UNBREAKABLE EVIL_FLAGGED,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL -2DEX -1HITROLL,,,"Captain Titara","Black Market","Object 'a red steel gauntlet', Item type: ARMOR
+Can be worn on: TAKE HANDS 
+Class restrictions: BERSERKER 
+Race restrictions: NONE 
+Object Material: steel
+Size: special
+Weight: 6, Value: 21000, Rent: 4800, Min Level: 20
+Item will give you following abilities:  BAT_SONAR 
+Item is: CURSED UNBREAKABLE EVIL_FLAGGED 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 1
+   DEX By -2
+   HITROLL By -1"
+"The Crown of Raddok",ARMOR,HEAD,PALADIN SAMURAI,NONE,gold,large,7,22106,4230,20,NONE,ANTI_EVIL ANTI_NEUTRAL UNIQUE UNBREAKABLE,,,,,12,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-50ARMOR_POINTS 1DAMROLL 35MAXMANA,,,"Avacee","City of Raddok","Object 'The Crown of Raddok', Item type: ARMOR
+Can be worn on: TAKE HEAD 
+Class restrictions: PALADIN SAMURAI 
+Race restrictions: NONE 
+Object Material: gold
+Size: large
+Weight: 7, Value: 22106, Rent: 4230, Min Level: 20
+Item will give you following abilities:  NONE 
+Item is: ANTI_EVIL ANTI_NEUTRAL UNIQUE UNBREAKABLE 
+AP-apply is 12
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXMANA By 35
+   DAMROLL By 1
+   ARMOR_POINTS By -50"
+"a petrified dragon tooth",OTHER,HOLD,NONE,NONE,stone,special,4,28300,3000,15,PARALYZE,MAGIC UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"forage","mountain","Object 'a petrified dragon tooth', Item type: OTHER
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: stone
+Size: special
+Weight: 4, Value: 28300, Rent: 3000, Min Level: 15
+Item will give you following abilities:  PARALYZE 
+Item is: MAGIC UNBREAKABLE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a sacred lotus potion",POTION,HOLD,NONE,NONE,organic,special,1,9300,1500,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(strength/strength),"forage","","Object 'a sacred lotus potion', Item type: POTION
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: special
+Weight: 1, Value: 9300, Rent: 1500, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Casts the following spells at level 40:
+   strength
+   strength"
+"a karn rune",ENCHANT_MATERIAL,,NONE,NONE,stone,tiny,3,30,3000,0,NONE,!DONATE !SELL UNBREAKABLE,,,,,,,,,,,,,1000,0,0,0,1,,,,,,+40befriend dryad,,random,random,"Object 'a karn rune', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: stone
+Size: tiny
+Weight: 3, Value: 30, Rent: 3000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+   +40 to befriend dryad"
+"a frosted cladonia potion",POTION,HOLD,NONE,NONE,glass,special,1,15200,1500,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(healing dream),"forage","mountain","Object 'a frosted cladonia potion', Item type: POTION
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 1, Value: 15200, Rent: 1500, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Casts the following spells at level 30:
+   healing dream"
+"a silver skull headed cane",STAFF,HOLD,NONE,NONE,silver,special,10,1000,500,0,NONE,MAGIC !SELL UNIQUE UNBREAKABLE !LOCATE_OBJ,spook,40,3,3,,,,,,,,,,,,,,,,,,,,,"","","Object 'a silver skull headed cane', Item type: STAFF
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: silver
+Size: special
+Weight: 10, Value: 1000, Rent: 500, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: MAGIC !SELL UNIQUE UNBREAKABLE !LOCATE_OBJ 
+Spell: spook at level 40, 3 (of 3) charges remaining"
+"a hunchback's robe",ARMOR,BODY,NONE,NONE,wool,special,6,780,78,0,NONE,!SELL UNIQUE UNBREAKABLE !LOCATE_OBJ,,,,,4,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,5MAXHIT 10MAXMANA -2STR,,,"","","Object 'a hunchback's robe', Item type: ARMOR
+Can be worn on: TAKE BODY 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wool
+Size: special
+Weight: 6, Value: 780, Rent: 78, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !SELL UNIQUE UNBREAKABLE !LOCATE_OBJ 
+AP-apply is 4
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   STR By -2
+   MAXMANA By 10
+   MAXHIT By 5"
+"a pitchfork",WEAPON,WIELD,NONE,NONE,wood,special,7,90,9,0,NONE,!SELL TWO_HANDED_WPN UNIQUE !LOCATE_OBJ,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,1D6,3.5,pierce attack,,,,"","","Object 'a pitchfork', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 7, Value: 90, Rent: 9, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !SELL TWO_HANDED_WPN UNIQUE !LOCATE_OBJ 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: pierce,  Damage Dice: '1D6', Average Damage 3.5.
+Requires Weapon Skill: pierce attack"
+"a pair of neck bolts",ARMOR,NECK,NONE,NONE,brass,special,20,1000,100,0,NONE,HUM CURSED !SELL UNIQUE UNBREAKABLE !LOCATE_OBJ,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-2DEX 15MAXHIT -5RESIST_ELEC 5STR,,,"","","Object 'a pair of neck bolts', Item type: ARMOR
+Can be worn on: TAKE NECK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: brass
+Size: special
+Weight: 20, Value: 1000, Rent: 100, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: HUM CURSED !SELL UNIQUE UNBREAKABLE !LOCATE_OBJ 
+AP-apply is 5
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   STR By 5
+   DEX By -2
+   MAXHIT By 15
+   RESIST_ELEC By -5"

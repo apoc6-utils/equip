@@ -242,7 +242,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a mithril neckguard",armor,0,norm,neck,,,,,,,,,,7,,,,,,"A Dwarf of Bree","Shire",,,6,4000,1000
 "superior enchanted arming sword",weapon,0,spec,wield,fi,,2atk-2rd -1dam,,,,,a-g a-e,,,18,2D17,stab (pierce),5sock(2-d2 1prof),,random,random,,,20,45,3000
 "a patch of thick wool",enchnt-mat,0,spec,,,,,20r-sonc,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a bearskin kilt",worn,15,norm,legs,,,40hp -20aps pfe s-life,,,,,a-e,,,,,,,,"Goro, Honu chieftain","Shire",,,5,40000,4000
+"A bearskin kilt",worn,15,norm,legs,,,40hp -20aps pfe s-life,,,,,a-e,,,,,,,,"Goro, Honu chieftain","Darkrime",,,5,40000,4000
 "Ortho's Tooth",weapon,5,spec,wield hold,,,2dex,,5d-fire,-2sv-spell,,,hold-w,,10,4D4,stab (pierce),,,"Beauregard the Mage","Vault",,,13,7590,2970
 "three interlocking gold rings",armor,5,spec,finger,,,25hp,,,,,,,0,,,,,,"Beauregard the Mage","Vault",,,1,60000,15000
 "a stone triangle",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"Beauregard the Mage","Vault",,,0,0,0
@@ -483,33 +483,33 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a chunk of flint",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"A Honu tribesman","Darkrime",,,1,0,0
 "a dried red herring",food,0,spec,,,,,,,,,,no-rent break,,,,,,,"A Honu tribeswoman","Darkrime",,,1,0,0
 "a tar-covered sword",weapon,0,spec,wield,,,,,,,,,no-rent break,,6.5,1D12,slash (slash),,,"A Honu tribesman","Darkrime",,,5,0,0
-"a solid silver disc",treasure,0,spec,,,,,,,,,,no-rent break,,,,,,,"Muri, Honu elder","Darkmire",,,4,0,0
-"an eagle feather",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"Gelsa, Honu witch","Darkmire",,,1,0,0
+"a solid silver disc",treasure,0,spec,,,,,,,,,,no-rent break,,,,,,,"Muri, Honu elder","Darkrime",,,4,0,0
+"an eagle feather",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"Gelsa, Honu witch","Darkrime",,,1,0,0
 "a polished steel helmet",armor,0,spec,head,warr rogue,,1hit 1str,,,,,,,6,,,,,,"The Rook Captain","Canticle",,,7,5500,1800
 "a thin leather collar",worn,25,spec,neck,,,-1size,-30r-blgn,,,,,curs,,,,,,,"orange puppy","Nature's Descent",x,,3,120000,30000
-"a tattoo of an eagle",worn,15,spec,neck arms,,,1dam 1dex awalk,,,,,,d-curs,,,,,,,"Kano, son of Goro","Darkmire",,,1,56000,5600
-"a brass coin",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"Kano, son of Goro","Darkmire",,,1,0,0
+"A tattoo of an eagle",worn,15,spec,neck arms,,,1dam 1dex awalk,,,,,,d-curs,,,,,,,"Kano, son of Goro","Darkrime",,,1,56000,5600
+"a brass coin",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"Kano, son of Goro","Darkrime",,,1,0,0
 "some wild berries",food,0,spec,hold,,,,,,,,,break,,,,,,,"forage","mountain terrain",,,2,500,100
 "an edible mushroom",food,0,spec,,,,,,,,,,break,,,,,,,"forage","forest terrain",,,2,750,120
 "some bat guano",potion,0,spec,hold,,,lvl20(bat sonar/poison),,,,,,break,,,,,,,"forage","hill terrain",,,1,4200,300
 "a small ginseng root",food,0,spec,hold,,,lvl25(vitm light),,,,,,break,,,,,,,"forage","hill terrain",,,1,425,100
 "a vial of angel's trumpet oil",potion,0,spec,,,,lvl25(word of recall/smite evil),,,,,,break,,,,,,,"forage","hill terrain",,,1,10000,3500
-"some red mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,break,,,,,,,"forage","mountain terrain",,,0,0,0
+"some red mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,break,,,,,,,"forage","mountain",,,0,0,0
 "a bunch of wild blackberries",food,0,spec,,,,,,,,,,no-rent break,,,,,,,"on ground","Darkrime",,,0,0,0
 "a snow hare skull",other,0,spec,,,,,,,,,,no-rent break,,,,,,,"A sabertooth tiger","Darkrime",,,2,0,0
 "a hooded green cloak",armor,15,norm,about,ra,,,,3d-spell,,f-n,,,20,,,,,,"","Arcane",x,,4,14741,1441
-"a tattoo of a grizzly bear",worn,20,spec,neck arms,warr rogue,,2dam 20hp 5hp-gain,,,,,,d-curs,,,,,,,"Goro, Honu chieftain","Darkmire",,,1,60000,6000
-"the Axe of the Mountain Lords",weapon,20,norm,wield,warr,,4dam 40hp,,,,,a-e,2-hand,,18,12D2,slash (slash),,,"Goro, Honu chieftain","Darkmire",,,15,80000,8000
-"a rams-head hammer",key,0,spec,hold,,,,,,,,,no-rent  break,,,,,,,"Goro, Honu chieftain","Darkmire",,,3,0,0
+"a tattoo of a grizzly bear",worn,20,spec,neck arms,warr rogue,,2dam 20hp 5hp-gain,,,,,,d-curs,,,,,,,"Goro, Honu chieftain","Darkrime",,,1,60000,6000
+"the Axe of the Mountain Lords",weapon,20,norm,wield,warr,,4dam 40hp,,,,,a-e,2-hand,,18,12D2,slash (slash),,,"Goro, Honu chieftain","Darkrime",,,15,80000,8000
+"a rams-head hammer",key,0,spec,hold,,,,,,,,,no-rent  break,,,,,,,"Goro, Honu chieftain","Darkrime",,,3,0,0
 "a vial of medicine",liq_container,0,spec,,,,,,,,,,,,,,,,,"Hans Jurgen, doctor of Juris","Juris",,,1,1400,350
 "a stuffed bear named 'Miss Kitty'",other,0,spec,hold,,,1cha imp-invis,,,,f-g,,,,,,,,,"Kyoma, youngest son of Goro","Darkrime",,,1,250,62
 "an aloe tincture",potion,0,spec,hold,,,lvl40(heal light),,,,,,break,,,,,,,"forage","hill terrain",,,1,9200,1450
 "a basilisk shedding",staff,20,spec,hold,,,3chrg(lvl40 paralyze),,,,,,break,,,,,,,"forage","hill terrain",,,3,48000,3500
-"some white mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,break,,,,,,,"forage","mountain terrain",,,0,0,0
+"some white mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,break,,,,,,,"forage","mountain",,,0,0,0
 "a yarrow potion",potion,0,spec,hold,,,lvl40(sovereign heal),,,,,,break,,,,,,,"forage","hill terrain",,,0,0,0
 "a bundle of mistletoe",wand,20,spec,hold,,,20chrg(lvl40 charm person),,,,,,break,,,,,,,"forage","hill terrain",,,5,36500,5000
 "a small vial of arcanaloth blood",enchnt-mat,0,spec,,,,6ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a droplet of unmelting ice",worn,25,spec,neck,priest wizd,,10ma awalk sustain,,,,,a-e,,,,,,,,"Kalinda","Darkmire",,,1,124400,12440
+"a droplet of unmelting ice",worn,25,spec,neck,priest wizd,,10ma awalk sustain,,,,,a-e,,,,,,,,"Kalinda","Darkrime",,,1,124400,12440
 "Ioun stone",worn,20,spec,neck body head legs hands arms about waist wrist,,,sustain,,,,,,curs,,,,,,,"","Mt Hate",x,,1,100000,25000
 "an Axe of the Dragon",weapon,30,spec,wield,ma cl fi pa ra,,1atk-2rd 4dam,50r-fire,6d-fire,,,,,,18,6D5,slash (slash),,,"Flagg the Sorceror","Mortimer",,,30,17980,15000
 "a silvery lace cap",armor,0,norm,head,,,20ma 1wis dsight,,,,,a-e,,10,,,,,,"","",,,2,80000,20000
@@ -522,15 +522,15 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "some deadly nightshade poison",poison,25,spec,hold,,,,,,,,,break,,,,,,,"forage","hill terrain",,,1,19200,3000
 "a brimstone effigy",staff,15,spec,hold,,,2chrg(lvl35 flamewalk),20r-cold,7d-fire,,,,,,,,,,,"","",,,7,28000,9000
 "A vial of devil's trumpet oil",potion,0,spec,,,,lvl25(word of recall/smite good),,,,,,break,,,,,,,"forage","hill terrain",,,1,10000,3500
-"a pixie potion",potion,0,spec,hold,,,lvl25(lesser electricity resistance/lesser fire resistance),,,,,,break,,,,,,,"forage","hill terrain",,,1,9200,1000
+"A pixie potion",potion,0,spec,hold,,,lvl25(lesser electricity resistance/lesser fire resistance),,,,,,break,,,,,,,"","",,,1,9200,1000
 "a frostbite brew",potion,0,spec,,,,lvl40(),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
 "a vial of dire wolf blood",potion,0,spec,,,,lvl30(shrink/poison/smite good),,,,,,break,,,,,,,"","",,,1,80000,4000
-"a frosted cladonia potion",potion,0,spec,hold,,,lvl30(healing dream),,,,,,break,,,,,,,"","",,,1,15200,1500
+"a frosted cladonia potion",potion,0,spec,hold,,,lvl30(healing dream),,,,,,break,,,,,,,"forage","mountain",,,1,15200,1500
 "a nettle thorn potion",potion,0,spec,hold,,,lvl40(remove poison),,,,,,break,,,,,,,"","",,,0,0,0
 "a buckskin tunic",armor,5,norm,body,,,2dex,,,,,,,7,,,,,,"","",,,12,1770,1770
 "superior enchanted lightning bow",weapon,0,spec,wield,ra,,-1dam,,5d-elec,,,,,,7,2D6,shock (special),5sock(1-d1 1-d2 1prof),,random,random,,,22,45,3000
 "A filigreed silver locket",container,0,spec,neck,,,,,,,f-g,,,,,,,,,"Kalinda, the ice faerie","Swamp",,,1,16000,4000
-"a rough iron bracelet",worn,20,norm,wrist,pa mo ra be,,1dam 2hit sonar,,,,f-g,a-e,,,,,,,,"Goro, Honu chieftain","Darkmire",,,7,50000,5000
+"a rough iron bracelet",worn,20,norm,wrist,pa mo ra be,,1dam 2hit sonar,,,,f-g,a-e,,,,,,,,"Goro, Honu chieftain","Darkrime",,,7,50000,5000
 "The legendary greatsword, 'Slayer'",weapon,25,lrg,wield,fi pa ap ra,,5hit -2dex -1con awalk,,10melee-crit-dam,2melee_crit_pct,,,2-hand,,27,6D8,slash (slash),,,"Sisyphus","Swamp",,,13,135000,13500
 "some clawed boots",armor,20,lrg,feet,,,2dam 3mv-gain -2dex -35aps,,,,,,,12,,,,,,"Sisyphus","Swamp",,,4,95000,9000
 "the Ring of the Lizardkind",armor,15,lrg,finger,mo warr rogue,,2dam 25ma 3ma-gain -1str -1con,,,,,,,0,,,,,,"Sisyphus","Swamp",,,1,50000,80000
@@ -738,7 +738,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "A Great Dragon Claw",weapon,15,spec,wield,mo,,4hit 5hp d-align d-invis s-life,,6d-fire,,f-e,,,,10,4D4,claw (fist),,,"Smaug","Goblin Caves",,,20,164874,20000
 "a powerful siren orb",enchnt-mat,0,spec,,,,,,4d-sonc,,,,,,,,,,1sock,random,random,,,1,3,2000
 "The Splinter of the Minds Eye",other,20,spec,hold,,,-50hp 30ma -1str,,6spell-crit-pct,,,,curs,,,,,,,"in chest","Goblin Caves",,,7,50000,8000
-"A Multi-faceted Gemstone",worn,0,spec,hold,,,,,,2sv-brth 2sv-spell,,a-e,,,,,,,,"in chest","Goblin Caves",,,4,40000,500
+"a Multi-faceted Gemstone",worn,0,spec,hold,,,,,,2sv-brth 2sv-spell,,a-e,,,,,,,,"","",,,4,40000,500
 "a pink diamond orb",treasure,0,spec,,,,,,,,,,no-rent,,,,,,,"Zealot","Caves of Fire",,,0,0,0
 "a red and yellow sash",worn,20,spec,waist,,,10mv 3mv-gain -1int,,,,,a-g,,,,,,,,"Zealot","Caves of Fire",,,2,42500,5800
 "A pair of vermilion leg plates",armor,15,lrg,legs,,,2dam -1dex,,,,,,,10,,,,,,"","Caves of Fire",,,11,49000,4100
@@ -832,10 +832,10 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a healing staff",staff,0,spec,hold,,,3chrg(lvl0 heal light),,,,,,break,,,,,,,"A dwarven cleric","Dwarven",,,3,34512,3451
 "a rat on a stick",weapon,0,spec,wield,,,+20(cure light),,,,,,,,3.5,1D6,pierce (pierce),,,"Pubu","Dwarven",,,5,200,20
 "a mystical magical mouse...it has a strong, nasty odor!",worn,5,norm,neck,,,10ma,,,,,,break,,,,,,,"Pubu","Dwarven",x,,1,10324,103
-"a gate key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"A Dwarven Guard","",,,1,0,0
-"a mining pick",weapon,0,spec,wield,,,,,,,,,break,,2.5,1D4,pierce (pierce),,,"A dwarven mineworker","",,,1,3000,400
+"a gate key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"A Dwarven Guard","Shire",,,1,0,0
+"a mining pick",weapon,0,spec,wield,,,,,,,,,break,,2.5,1D4,pierce (pierce),,,"A dwarven mineworker","Shire",,,1,3000,400
 "a chunk of coal",other,0,spec,,,,,,,,,,break,,,,,,,"","",,,1,100,0
-"an old mine key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"The dwarven mine leader","",,,0,0,0
+"an old mine key",key,0,spec,,,,,,,,,,no-rent   break,,,,,,,"The dwarven mine leader","Shire",,,0,0,0
 "white robes",armor,0,norm,about,,,,,,,,,,4,,,,,,"A Smiling Priest","Temple of Opulance",,,8,6000,1420
 "a silver breast plate",armor,0,norm,body,,,,,,,,,,5,,,,,,"A Temple Guard","Temple of Opulance",,,12,8000,2000
 "a silver long sword",weapon,0,spec,wield,,,1dam 1hit,,,,,,,,6,2D5,slash (slash),,,"A Temple Guard","Temple of Opulance",,,13,2150,2150
@@ -858,7 +858,6 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a black dagger",weapon,5,spec,wield hold,,,2dam 2hit,,,,,,hold-w,,10,4D4,pierce (pierce),,,"Caxli the Curate","Temple of Opulance",,,5,8000,800
 "a small marble ring",armor,0,norm,finger,cl dr,,6ma 1cha,,,,,,,0,,,,,,"Marseh the Curate","Temple of Opulance",,,1,12000,1200
 "a charm bracelet",wand,15,norm,wrist hold,ba,,1dam 1hit pfg 2chrg(lvl10 charm person),,,,,,,,,,,,,"Jinh the Curate","Temple of Opulance",,,2,16000,1600
-"a rough iron bracelet",worn,20,norm,wrist,pa mo ra be,,1dam 2hit sonar,,,,f-g,a-e,,,,,,,,"Goro, Honu chieftain","Darkmire",,,7,50000,5000
 "a single iron glove",armor,0,norm,hands,cl dr ne,,5ma 1str,,,,,,,6,,,,,,"The Expositor","Temple of Opulance",,,2,25000,6250
 "pure white robes",armor,5,norm,about,,,7ma 1wis s-life,25r-life,,,,,,4,,,,,,"The Expositor","Temple of Opulance",,,8,15000,1500
 "a tiny gold key",key,0,spec,hold,,,,,,,,,no-rent   break,,,,,,,"The Expositor","Temple of Opulance",,,0,0,0
@@ -877,3 +876,17 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "A Midnight Lamp",light,15,spec,,,,2con cloak_of_the_night infra,-25r-lght 25r-shdw,,,,,,,,,,,,"The High Priest","Temple of Opulance",,,6,10000,2500
 "A Midnight Ring",armor,15,norm,finger,,,15ma 2int pfg second_sight,8r-shdw,,,,,,5,,,,,,"The High Priest","Temple of Opulance",,,1,20000,5000
 "Midnight Robes",armor,15,norm,about,ap wizd,,10ma 10mv d-align pfg,-10r-lght,,,,a-g,,8,,,,,,"The High Priest","Temple of Opulance",,,4,20000,5000
+"the Bringer of Ruin",weapon,15,spec,wield,ra,,3dam 3hit,,-10d-fire -10d-pois -10d-cold,,,a-g a-e,2-hand,,22,11D3,drain (special),,,"","",,,18,38000,16667
+"superior enchanted electrum knuckles",weapon,0,spec,wield,mo,,-1dam 7mv-gain,,,,,,,,6,4D2,punch (fist),5sock(1-d1 1-d2 1prof),,random,random,,,22,45,3000
+"a glinting necklace",armor,15,norm,neck,,,-1size haste,15r-lght,,,,,,5,,,,,,"","",,,2,25000,3500
+"superior enchanted morning star",weapon,0,spec,wield,ma,,2atk-2rd -1dam,,,,,,,,7.5,3D4,bludgeon (bludgeon),5sock(1-d1 1-d2 1prof),,random,random,,,18,45,3000
+"a red steel gauntlet",armor,20,spec,hands,be,,1dam -1hit -2dex sonar,,,,f-e,,curs,5,,,,,,"Captain Titara","Black Market",,,6,21000,4800
+"The Crown of Raddok",armor,20,lrg,head,pa sa,,1dam 35ma -50aps,,,,,a-e a-n,,12,,,,,,"Avacee","City of Raddok",,,7,22106,4230
+"a petrified dragon tooth",other,15,spec,hold,,,paralyze,,,,,,,,,,,,,"forage","mountain",,,4,28300,3000
+"a sacred lotus potion",potion,0,spec,hold,,,lvl40(strength/strength),,,,,,break,,,,,,,"forage","",,,1,9300,1500
+"a karn rune",enchnt-mat,0,tiny,,,,+40(befriend dryad),,,,,,,,,,,,1sock,random,random,,,3,30,3000
+"a frosted cladonia potion",potion,0,spec,hold,,,lvl30(healing dream),,,,,,break,,,,,,,"forage","mountain",,,1,15200,1500
+"a silver skull headed cane",staff,0,spec,hold,,,3chrg(lvl40 spook),,,,,,!LOCATE_OBJ,,,,,,,"","",,,10,1000,500
+"a hunchback's robe",armor,0,spec,body,,,5hp 10ma -2str,,,,,,!LOCATE_OBJ,4,,,,,,"","",,,6,780,78
+"a pitchfork",weapon,0,spec,wield,,,,,,,,,2-hand  !LOCATE_OBJ break,,3.5,1D6,pierce (pierce),,,"","",,,7,90,9
+"a pair of neck bolts",armor,0,spec,neck,,,15hp 5str -2dex,-5r-elec,,,,,curs    !LOCATE_OBJ,5,,,,,,"","",,,20,1000,100
