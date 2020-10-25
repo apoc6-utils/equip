@@ -163,7 +163,6 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a pair of obsidian gauntlets",armor,15,lrg,hands,,,,,,,,,,15,,,,,,"An Obsidian Guard","Mt Hate",,,5,2000,500
 "the iron mask of sorrow",armor,0,spec,head,,,-20mv sonar curse silence,,,,,,curs,1,,,,,,"The king of trees","Tarin",,,7,16000,4000
 "a silver hoop earring",armor,20,norm,head,ap ba be,,2dam 15hp d-align,,,,,a-g,,3,,,,,,"A phantasmal buccaneer, A skeletal prisoner","Burning Talon",,,4,40000,8200
-"a tiny vial of arcanaloth blood",enchnt-mat,0,spec,,,,4ma,,,,,,,,,,,,,random,random,,,1,3,2000
 "a bent cutlass",weapon,5,spec,hold,,,3hit -1cha,,,,,,hold-w break,,10,4D4,slash (slash),,,"A swashbuckling spectre","Burning Talon",,,0,3400,100
 "a gaijin katana",weapon,15,norm,wield,fi sa be,,2dam 1hit,,,,,,,,17.5,5D6,pierce (pierce),,,"A Ronin","Forbidden Empire",,,14,39000,6500
 "a black wakizashi",weapon,10,norm,wield,th ap sa,,3dam 2hit hide,,4melee-crit-dam,,,,,,5.5,1D10,pierce (pierce),,,"A Shinobi Assassin","Forbidden Empire",,,14,15000,1500
@@ -260,7 +259,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a pair of steel shinguards",armor,15,norm,legs,,,d-align,,,,,,,14,,,,,,"Tertius","Vault",,,11,11900,4680
 "A pair of steel toed boots",armor,15,spec,feet,,,2dam -25mv,,,,,,,8,,,,,,"Tertius","Vault",,,4,13500,6030
 "A red woolen cloak",armor,0,spec,neck,,,15hp 2hp-gain,,,,,,,6,,,,,,"The Sentry, A legionary","Vault",,,1,2500,690
-"a small vial of quickling blood",enchnt-mat,0,spec,,,,6mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a small vial of quickling blood",enchnt-mat,0,spec,,,,9mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a studded leather jacket",armor,0,spec,body,,,,,,,,,break,3,,,,,,"A senator","Rome",,,20,500,10
 "a small sword",weapon,0,spec,wield,mo dr be warr priest,,,,,,,,break,,3.5,1D6,pierce (slash),,,"A soldier, A senator","Rome",,,3,60,10
 "combat plate",armor,0,norm,body,,,-4hit 3dex,,,,,,,10,,,,,,"A soldier","Rome",,,25,50000,8333
@@ -424,7 +423,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a seal of obedience",trash,0,spec,,,,,,,,,,break,,,,,,,"The Madman","Aurvuron Citadel",,,0,47000,12000
 "the Gorebringer axe",weapon,20,norm,wield,warr,,5hp-gain rage,,,,,,2-hand  break,,26,4D12,slash (slash),,,"","",,,30,55000,13750
 "Skin of the Traitor",armor,30,sm,body,priest wizd,,freeact haste,,9d-spell 1spell-crit-pct,8dmg_self,,,,3,,,,,,"","Aurvuron Citadel",,,12,70000,17500
-"bile extractor kit",armor,20,norm,head about,,,100hp 10str sonar,30r-shdw,,,,,N,13,,,,,,"","Aurvuron Citadel",,,12,30000,7500
+"bile extractor kit",armor,20,norm,head about,,,80hp 4str sonar,30r-shdw,,,,,N,13,,,,,,"","Aurvuron Citadel",,,12,30000,7500
 "a frostbite brew",potion,0,spec,,,,lvl40(),,,25 hp-gain(10tic) 25 mv-gain(10tic) 50 r-cold(4tic),,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
 "a thin ivory bracelet",worn,30,norm,wrist,wizd,,25hp,25r-divn 25r-fear,10d-spell,,,,,,,,,,,"","Aurvuron Citadel",,,1,55000,10000
 "an elixir of the shattered sun",potion,0,spec,,,,lvl40(),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
@@ -508,7 +507,6 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "some white mountain berries",food,0,spec,hold,,,lvl25(cure light),,,,,,break,,,,,,,"forage","mountain",,,0,0,0
 "a yarrow potion",potion,0,spec,hold,,,lvl40(sovereign heal),,,,,,break,,,,,,,"forage","hill terrain",,,0,0,0
 "a bundle of mistletoe",wand,20,spec,hold,,,20chrg(lvl40 charm person),,,,,,break,,,,,,,"forage","hill terrain",,,5,36500,5000
-"a small vial of arcanaloth blood",enchnt-mat,0,spec,,,,6ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a droplet of unmelting ice",worn,25,spec,neck,priest wizd,,10ma awalk sustain,,,,,a-e,,,,,,,,"Kalinda","Darkrime",,,1,124400,12440
 "Ioun stone",worn,20,spec,neck body head legs hands arms about waist wrist,,,sustain,,,,,,curs,,,,,,,"","Mt Hate",x,,1,100000,25000
 "an Axe of the Dragon",weapon,30,spec,wield,ma cl fi pa ra,,1atk-2rd 4dam,50r-fire,6d-fire,,,,,,18,6D5,slash (slash),,,"Flagg the Sorceror","Mortimer",,,30,17980,15000
@@ -522,7 +520,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "some deadly nightshade poison",poison,25,spec,hold,,,,,,,,,break,,,,,,,"forage","hill terrain",,,1,19200,3000
 "a brimstone effigy",staff,15,spec,hold,,,2chrg(lvl35 flamewalk),20r-cold,7d-fire,,,,,,,,,,,"","",,,7,28000,9000
 "A vial of devil's trumpet oil",potion,0,spec,,,,lvl25(word of recall/smite good),,,,,,break,,,,,,,"forage","hill terrain",,,1,10000,3500
-"A pixie potion",potion,0,spec,hold,,,lvl25(lesser electricity resistance/lesser fire resistance),,,,,,break,,,,,,,"","",,,1,9200,1000
+"a pixie potion",potion,0,spec,hold,,,lvl25(lesser electricity resistance/lesser fire resistance),,,,,,break,,,,,,,"forage","hill terrain",,,1,9200,1000
 "a frostbite brew",potion,0,spec,,,,lvl40(),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
 "a vial of dire wolf blood",potion,0,spec,,,,lvl30(shrink/poison/smite good),,,,,,break,,,,,,,"","",,,1,80000,4000
 "a frosted cladonia potion",potion,0,spec,hold,,,lvl30(healing dream),,,,,,break,,,,,,,"forage","mountain",,,1,15200,1500
@@ -559,7 +557,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "the Broadsword of the Elves",weapon,10,spec,wield,,,,,,,,a-e,,,16.5,1D32,slash (slash),,,"","Imladris",x,,1,320000,80000
 "Ringrist",weapon,20,spec,wield,cl dr,,,15r-cold,,4h-bonus,,,break,,15,6D4,slash (slash),,,"Elrond","Imladris",x,,16,320000,80000
 "Anglin",weapon,0,spec,wield,,,,,,,,,break,,20,10D3,slash (slash),,,"Glorfindel","Imladris",x,,20,400000,100000
-"Vilya, the Elven Ring of Air",armor,25,spec,finger,cl dr wizd,,hide invis pfe regeneration sneak,,,7h-bonus,,,break,6,,,,,,"Elrond","Imladris",x,,1,120000,30000
+"Vilya, the Elven Ring of Air",armor,25,spec,finger,cl dr wizd,,21ma hide invis pfe regeneration sneak,,,7h-bonus,,,break,6,,,,,,"Elrond","Imladris",x,,1,120000,30000
 "The Jeweled Hammer",weapon,20,spec,wield,ma cl dr ne,,25ma 3mv-gain sustain,,,,,,,,12.5,5D4,bludgeon (bludgeon),,,"","Caves of Fire",,,15,86750,7700
 "An amulet",armor,15,norm,neck,priest,,20ma 20mv  +60(bless),,,,,a-e,,6,,,,,,"Balrak","Raddok",,,1,128399,5270
 "A royal insignia",armor,0,norm,trinket,ne warr priest rogue,,20hp 10mv,,,,,a-g a-e,,2,,,,,,"","",x,,8,73793,24575
@@ -723,7 +721,6 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a glowing silver power crystal",enchnt-mat,0,spec,,,,2dam -1hit,,,,,,,,,,,,2sock,random,random,,,1,3,3000
 "an ice crystal",enchnt-mat,0,spec,,,,,,2d-cold,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a pouch of fire crystals",enchnt-mat,0,spec,,,,,20r-fire,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a small bundle of black sage",enchnt-mat,0,spec,,,,,15r-divn,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "enchanted wavy kris",weapon,0,spec,wield,th ap,,-1dam,25r-shdw,,,f-e,a-g a-n,,,15,2D14,pierce (pierce),4sock(2-d2 1prof),,random,random,,,20,15,2000
 "The Crown of Desolation",armor,20,spec,head,,,25ma d-magic infra +40(locate object),,5d-fire 5d-elec 5d-cold,,f-n,a-g a-e,,8,,,,,,"","",,,7,48000,6500
 "The Cloak of the Aeons",armor,10,norm,about,,,2wis 11age 1size,,,,,,,5,,,,,,"","",,,8,32400,3000
@@ -758,7 +755,6 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a lightning orb",enchnt-mat,0,spec,,,,,,3d-elec,,,,,,,,,,1sock,random,random,,,1,3,2000
 "The Wolf's Fang",weapon,25,norm,wield hold,,,3dam 3hit 1size,,,,,,break,,8,4D3,stab (special),,,"The master werewolf","Vrolok",x,,3,29092,2992
 "a bundle of deva feathers",enchnt-mat,0,spec,,,,2wis,,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a tiny vial of quickling blood",enchnt-mat,0,spec,,,,7mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a holy relic",enchnt-mat,0,spec,,,,,,3d-divn,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a clear resonating crystal",enchnt-mat,0,spec,,,,2hit,,,,,,,,,,,,1sock,random,random,,,1,3,3000
 "a clear fire opal",enchnt-mat,0,spec,,,,,,2spell-crit-pct,,,,,,,,,,1sock,random,random,,,1,3,2000
@@ -790,7 +786,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "superior enchanted orange kushalaka",worn,0,spec,waist,mo,,2dam 30ma awalk,,,,f-g,a-e,,,,,,5sock,,random,random,,,1,45,3500
 "a tiny sheet of titanium",enchnt-mat,0,spec,,,,,20r-acid,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a crystalline acorn",food,0,spec,hold,,,,,,,,,break,,,,,,,"","",,,1,28000,3000
-"Excalibur",weapon,30,norm,wield,,,1atk-2rd 3hit d-align pfe,,,,f-g,a-e,,,21,6D6,slash (slash),,,"","",x,,23,240085,48017
+"Excalibur",weapon,30,norm,wield,,,1atk-2rd 3hit d-align pfe,,,,f-g,a-e,,,21,6D6,slash (slash),,,"King Arthur","Sylvan Jungle",x,,23,240085,48017
 "a heartshade potion",potion,0,spec,,,,lvl30(sanctuary),,,,,,break,,,,,,,"","",,,1,18000,1500
 "a weak air mote",enchnt-mat,0,spec,,,,,,2d-gas,2d-gas,,,,,,,,,1sock,random,random,,,1,3,2000
 "a chromatic dragon's eye",enchnt-mat,0,spec,,,,,,2d-spell,,,,,,,,,,1sock,random,random,,,1,3,2000
@@ -888,5 +884,55 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a frosted cladonia potion",potion,0,spec,hold,,,lvl30(healing dream),,,,,,break,,,,,,,"forage","mountain",,,1,15200,1500
 "a silver skull headed cane",staff,0,spec,hold,,,3chrg(lvl40 spook),,,,,,!LOCATE_OBJ,,,,,,,"","",,,10,1000,500
 "a hunchback's robe",armor,0,spec,body,,,5hp 10ma -2str,,,,,,!LOCATE_OBJ,4,,,,,,"","",,,6,780,78
-"a pitchfork",weapon,0,spec,wield,,,,,,,,,2-hand  !LOCATE_OBJ break,,3.5,1D6,pierce (pierce),,,"","",,,7,90,9
+"a pitchfork",weapon,0,spec,wield,,,,,,,,,2-hand  !LOCATE_OBJ break,,3.5,1D6,pierce (pierce),,,"An Angry Villager","The Halloween Zone",,,7,90,9
 "a pair of neck bolts",armor,0,spec,neck,,,15hp 5str -2dex,-5r-elec,,,,,curs    !LOCATE_OBJ,5,,,,,,"","",,,20,1000,100
+"a witch's broom",staff,0,spec,hold,,,levitation 5chrg(lvl40 levitate),,,,,,no-rechrg !LOCATE_OBJ,,,,,,,"","",,,10,100,100
+"a pair of ethereal shackles",worn,5,sm,feet wrist,,,5ma -2mv-gain infra +10(spook),,,,,a-g,,,,,,,,"A wraith","Dwarven",,,0,2000,20
+"superior enchanted white field plate",armor,0,spec,body,warr,,12hp 1hp-gain -1dex cloak-s,,,,f-g,a-e,,14,,,,5sock(1prof 1ac),,random,random,,,12,45,5000
+"some mummy bandages",armor,0,spec,neck body legs feet hands arms about waist wrist,,,20hp,,,,,,curs    !LOCATE_OBJ,4,,,,,,"","",,,18,30000,300
+"a brown ermine-lined robe",armor,20,spec,neck,warr rogue,,40hp 2wis 2dex,,,,,,,9,,,,,,"King Arthur","Sylvan Jungle",,,4,35053,6006
+"the English King's Crown",armor,20,spec,head,,,1dam 2int sonar,,5d-divn,,,a-e,,8,,,,,,"King Arthur","Sylvan Jungle",,,7,60105,9009
+"a runic ring",key,0,spec,finger hold,,,,,,,,,no-rent,,,,,,,"Queen Guinevere","Sylvan Jungle",,,0,5000,1000
+"a golden circlet",armor,20,spec,head,cl dr,,25ma 1dex,,,3h-bonus,,a-e,,3,,,,,,"Queen Guinevere","Sylvan Jungle",,,2,47250,9450
+"a green ermine-lined robe",armor,25,spec,neck,priest wizd,,20hp 20ma beneficence,,5d-spell,,,a-e,,3,,,,,,"Queen Guinevere","Sylvan Jungle",,,3,57075,7117
+"a small jewelled dagger",weapon,0,spec,wield hold,,,5mv-gain,15r-elec,2spell-crit-pct,,,,hold-w,,8,4D3,pierce (pierce),,,"Queen Guinevere","Sylvan Jungle",,,3,20000,4000
+"a gold poesy ring",armor,0,spec,finger,,,,25r-sumn,,,,,curs,1,,,,,,"An older knight","Sylvan Jungle",,,1,5000,1000
+"a pair of blue hosier",armor,0,spec,legs,,,,,,,,,,7,,,,,,"An older knight","Sylvan Jungle",,,3,4450,890
+"a pair of soft leather boots",armor,0,spec,feet,,,,,,,,,,8,,,,,,"The fuller","Bonne Terre",,,4,8350,1670
+"a pair of blue gloves",armor,0,spec,hands,,,,,,,,,,5,,,,,,"An older knight","Sylvan Jungle",,,2,2505,501
+"a blue tunic",armor,0,spec,about,,,,,,,,,,9,,,,,,"An older knight","Sylvan Jungle",,,3,2600,520
+"a noble knight's sword",weapon,10,spec,wield,,,2dam 2hit,,,,,,0slot,,15,5D5,slash (slash),,,"An older knight","Sylvan Jungle",,,13,47500,9500
+"a tiny vial of quickling blood",enchnt-mat,0,spec,,,,7mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a tiny vial of arcanaloth blood",enchnt-mat,0,spec,,,,7ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a small vial of arcanaloth blood",enchnt-mat,0,spec,,,,9ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The Wings of an Angel",armor,20,spec,about,pa,,,,3spell-crit-pct,,,a-e a-n,,8,,,,,,"","",x,,8,45000,9200
+"a weak holy relic",enchnt-mat,0,spec,,,,,,2d-divn,,,,,,,,,,1sock,random,random,,,1,3,2000
+"superior enchanted gnarled staff",weapon,0,spec,wield,,,7ma-gain -1int,,4spell-crit-pct,,,,2-hand,,12.5,5D4,bludgeon (bludgeon),5sock(1prof),,random,random,,,14,45,3000
+"superior enchanted chromatic long bow",weapon,0,spec,wield,ra,,-1dam,,5d-spell,,,,2-hand,,12,6D3,shock (special),5sock(1-d1 1-d2 1prof),,random,random,,,32,45,3000
+"a small bundle of black sage",enchnt-mat,0,spec,,,,,25r-divn,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"superior enchanted lightning talisman",other,0,spec,hold,mo,,2dam -1con sonar,,6d-elec,,f-g,a-e,,,,,,5sock,,random,random,,,4,45,3500
+"The Cape of Luminance",armor,20,norm,neck,cl pa mo dr,,2dam 20ma sonar,25r-cold,,-4sv-spell,,a-e,,25,,,,,,"The Queen of Light","The Nexus",,,1,72500,7000
+"a bright white wand",wand,5,spec,hold,,,4chrg(lvl35 armor),,,,,,,,,,,,,"","",,,7,9000,1200
+"an ivory bracelet",armor,15,norm,wrist,,,2dam 2hit,,,,f-g,a-e,,3,,,,,,"The Queen of Light","The Nexus",,,2,53000,5000
+"A white crystalline shard",wand,30,spec,hold,,,3chrg(lvl40 sovereign heal),,,,,a-e,,,,,,,,"The Queen of Light","The Nexus",,,7,100000,10000
+"The Cloak of Light",worn,20,spec,neck about,cl pa,,2dam cloak-s pfe,,6d-divn,,,a-e a-n,,,,,,,,"The Citadel Horseman","Nexus",,,7,94000,5000
+"The Anointing Sceptre",wand,20,spec,hold,mo dr,,3chrg(lvl40 sanctuary) +20(sanctuary),,,,,a-e,self-chg,,,,,,,"The Queen of Light","The Nexus",,,7,50000,5000
+"enchanted tritanium cestus",weapon,0,spec,wield,mo,,-1dam 7ma-gain,,,,,,,,6,4D2,punch (fist),4sock(1-d1 1-d2 1prof),,random,random,,,22,15,2000
+"A Scale from an Albino Fire Dragon",other,25,spec,hold,cl,,50hp,,10d-fire 10d-divn,,,,,,,,,,,"","",,,7,100000,12000
+"a viper head on a golden chain",worn,25,spec,neck,ma ne wa,,,25r-pois,5d-elec 5d-pois 5spell-crit-pct,,,,,,,,,,,"Archmage Salassina","Swamp",,,1,46000,9000
+"a pair of Serpentine Bracers",armor,15,spec,arms,ma ba dr,,35hp -2cha,,5d-spell,,,a-g,,10,,,,,,"","",,,5,25000,5500
+"A Scale from an Albino Fire Dragon",other,25,spec,hold,cl,,17ma 7mv-gain,,,7h-bonus,,,,,,,,,,"","",,,7,100000,12000
+"masterwork enchanted bishop's crosier",weapon,0,spec,wield,cl dr,,-1int,,,6h-bonus,,,,,7.5,3D4,bludgeon (bludgeon),6sock(1prof),,random,random,,,8,75,4000
+"Some will-o-wisp dust",enchnt-mat,0,spec,,,,1int,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"some will-o-wisp ectoplasm",enchnt-mat,0,spec,,,,2int,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"enchanted silver armlet",armor,0,spec,arms,cl dr,,-1con awalk,,3spell-crit-dam,,,a-g,,4,,,,3sock,,random,random,,,2,15,2500
+"'Justicar,' Holy Sword of the Light",weapon,25,spec,wield,cl pa,,2atk-2rd 2dam 1hit 28ma,,7d-divn,,,a-e a-n,,,18,12D2,slash (slash),,,"","",,,20,140000,18200
+"the Shadowbreaker hammer",weapon,30,spec,wield,cl pa,,15ma 15mv pfe,,9d-divn,9h-bonus,f-g,a-e a-n,,,20,10D3,bludgeon (bludgeon),,,"","",,,17,67000,26000
+"a bundle of planetar feathers",enchnt-mat,0,spec,,,,2cha,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"A scarlet chimere",armor,10,norm,about,mo,,2dam 4hit 1cha,,,,,a-e,,2,,,,,,"","",,,8,20000,8000
+"a resonating stone amulet",other,25,spec,neck hold,,,2dam 25ma,-25r-sonc,5d-sonc,,,,,,,,,,,"","",,,3,120000,6500
+"golden sandals",armor,20,spec,feet,,,10mv-gain 3dex,,,,,,,3,,,,,,"","",,,5,50000,12000
+"shard of the faithful",other,20,spec,finger neck wrist,priest,,5ma-gain sustain,,,9h-bonus,,,,,,,,,,"","",,,1,30000,10000
+"a hex-pouch belt",worn,20,spec,waist,,,15ma -1int 2dex 2con,,,,,,,,,,,,,"","",,,3,12000,3000
+"a lightning bolt patch",worn,20,spec,trinket,,,,25r-elec,,,,,,,,,,,,"","",,,1,35000,3500
+"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","",,,1,35000,3500
