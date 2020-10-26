@@ -96,7 +96,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "tattooed red palms",worn,15,spec,hands,,,21ma -2ma-gain 1con,,,,,,d-curs,,,,,,,"Gelsa, Honu witch","Darkrime",,,1,72000,7200
 "a tattoo of a jaguar",worn,15,spec,neck arms,,,15mv 3mv-gain haste,,,,,,,,,,,,,"Muri, Honu elder","Darkrime",,,1,20000,2000
 "a shield of Roc feathers",armor,20,spec,shield,,,25ma 4mv-gain 1dex awalk,,,,,a-g,,14,,,,,,"","",,,9,35000,5500
-"A silver and gold bracelet",worn,5,spec,wrist,,,-2dam 25ma curse,,,,,,curs,,,,,,,"","",,,4,50000,5000
+"a silver and gold bracelet",worn,5,spec,wrist,,,-2dam 25ma curse,,,,,,curs,,,,,,,"Venus","Rome",,,4,50000,5000
 "a Bloodstone",worn,5,spec,hold,cl mo dr,,-8hp 5ma 1wis 1age haste,,,,,,,,,,,,,"The alchemist","Goblin Caves",,,2,750,80
 "a jade ring",armor,20,norm,finger,ma cl,,25ma 15age haste,,3d-spell,,,,,2,,,,,,"Morr","Raddok",,,1,7480,7480
 "a pair of brown cavalier boots",armor,20,spec,feet,,,2dam,15r-elec,5d-cold,,,,,10,,,,,,"The Quartermaster","Burning Talon",,,7,23500,7000
@@ -306,7 +306,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a brilliant bronze power crystal",enchnt-mat,0,spec,,,,1dam 1hit,,,,,,,,,,,,2sock,random,random,,,1,3,2000
 "a jeweled goblet",potion,0,spec,hold,,,-2int  lvl40(regeneration),,,,,,2slot break,,,,,,,"","",,,2,13500,3000
 "a stack of steel plates",enchnt-mat,0,spec,,,,1ac,,,,,,,,,,,,1sock(1ac),random,random,,,1,3,2000
-"A sparkling, white vest",armor,5,norm,body,,,10mv 1str 5age,,,,,a-e,,7,,,,,,"","",,,7,21875,7000
+"a sparkling, white vest",armor,5,norm,body,,,10mv 1str 5age,,,,,a-e,,7,,,,,,"","",,,7,21875,7000
 "a silver sickle",weapon,25,norm,wield,dr,,2atk-2rd 4dam 4hit regeneration,,,,,a-g a-e,,,15,6D4,slash (slash),,,"","",,,13,103301,15251
 "a dark olive skirt",armor,20,norm,legs,dr warr wizd rogue,,30mv 6mv-gain,,,-10sv-brth,,,,12,,,,,,"Tatiana","Vrolok",,,8,72027,7227
 "a wreath of flowers",armor,15,norm,head,dr,,30ma 3ma-gain 4cha,,,,,a-g a-e,,2,,,,,,"Tatiana","Vrolok",,,1,83038,8338
@@ -800,7 +800,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a giant apple",food,0,spec,hold,,,,,,,,,break,,,,,,,"","",,,1,800,100
 "a dragon tooth necklace",armor,15,spec,neck,ma cl pa,,haste,,,,,a-g,,4,,,,,,"Captain Titara","Black Market",x,,3,44200,6200
 "The Talisman of the Frozen Tundra",other,25,spec,neck hold,,,,25r-cold,6d-cold 5spell-crit-dam,,,,,,,,,,,"","",,,3,75000,8000
-"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","",,,1,35000,3500
+"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","Forbidden",,,1,35000,3500
 "a chakra patch",worn,20,spec,trinket,,,4ma-gain,,,,,,,,,,,,,"","",,,1,35000,3500
 "a small sheet of titanium",enchnt-mat,0,spec,,,,,25r-acid,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a tiny spool of copper wire",enchnt-mat,0,spec,,,,,20r-elec,,,,,,,,,,,1sock,random,random,,,1,3,2000
@@ -912,27 +912,39 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a small bundle of black sage",enchnt-mat,0,spec,,,,,25r-divn,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "superior enchanted lightning talisman",other,0,spec,hold,mo,,2dam -1con sonar,,6d-elec,,f-g,a-e,,,,,,5sock,,random,random,,,4,45,3500
 "The Cape of Luminance",armor,20,norm,neck,cl pa mo dr,,2dam 20ma sonar,25r-cold,,-4sv-spell,,a-e,,25,,,,,,"The Queen of Light","The Nexus",,,1,72500,7000
-"a bright white wand",wand,5,spec,hold,,,4chrg(lvl35 armor),,,,,,,,,,,,,"","",,,7,9000,1200
+"a bright white wand",wand,5,spec,hold,,,4chrg(lvl35 armor),,,,,,,,,,,,,"","Nexus",,,7,9000,1200
 "an ivory bracelet",armor,15,norm,wrist,,,2dam 2hit,,,,f-g,a-e,,3,,,,,,"The Queen of Light","The Nexus",,,2,53000,5000
 "A white crystalline shard",wand,30,spec,hold,,,3chrg(lvl40 sovereign heal),,,,,a-e,,,,,,,,"The Queen of Light","The Nexus",,,7,100000,10000
 "The Cloak of Light",worn,20,spec,neck about,cl pa,,2dam cloak-s pfe,,6d-divn,,,a-e a-n,,,,,,,,"The Citadel Horseman","Nexus",,,7,94000,5000
 "The Anointing Sceptre",wand,20,spec,hold,mo dr,,3chrg(lvl40 sanctuary) +20(sanctuary),,,,,a-e,self-chg,,,,,,,"The Queen of Light","The Nexus",,,7,50000,5000
 "enchanted tritanium cestus",weapon,0,spec,wield,mo,,-1dam 7ma-gain,,,,,,,,6,4D2,punch (fist),4sock(1-d1 1-d2 1prof),,random,random,,,22,15,2000
-"A Scale from an Albino Fire Dragon",other,25,spec,hold,cl,,50hp,,10d-fire 10d-divn,,,,,,,,,,,"","",,,7,100000,12000
+"A Scale from an Albino Fire Dragon",other,25,spec,hold,cl,,50hp,,10d-fire 10d-divn,,,,,,,,,,,"in vault","Swamp",,,7,100000,12000
 "a viper head on a golden chain",worn,25,spec,neck,ma ne wa,,,25r-pois,5d-elec 5d-pois 5spell-crit-pct,,,,,,,,,,,"Archmage Salassina","Swamp",,,1,46000,9000
-"a pair of Serpentine Bracers",armor,15,spec,arms,ma ba dr,,35hp -2cha,,5d-spell,,,a-g,,10,,,,,,"","",,,5,25000,5500
-"A Scale from an Albino Fire Dragon",other,25,spec,hold,cl,,17ma 7mv-gain,,,7h-bonus,,,,,,,,,,"","",,,7,100000,12000
+"a pair of Serpentine Bracers",armor,15,spec,arms,ma ba dr,,35hp -2cha,,5d-spell,,,a-g,,10,,,,,,"Archmage Salassina","Swamp",,,5,25000,5500
+"A Scale from an Albino Fire Dragon",other,25,spec,hold,cl,,17ma 7mv-gain,,,7h-bonus,,,,,,,,,,"in vault","Swamp",,,7,100000,12000
 "masterwork enchanted bishop's crosier",weapon,0,spec,wield,cl dr,,-1int,,,6h-bonus,,,,,7.5,3D4,bludgeon (bludgeon),6sock(1prof),,random,random,,,8,75,4000
 "Some will-o-wisp dust",enchnt-mat,0,spec,,,,1int,,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "some will-o-wisp ectoplasm",enchnt-mat,0,spec,,,,2int,,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"enchanted silver armlet",armor,0,spec,arms,cl dr,,-1con awalk,,3spell-crit-dam,,,a-g,,4,,,,3sock,,random,random,,,2,15,2500
 "'Justicar,' Holy Sword of the Light",weapon,25,spec,wield,cl pa,,2atk-2rd 2dam 1hit 28ma,,7d-divn,,,a-e a-n,,,18,12D2,slash (slash),,,"","",,,20,140000,18200
 "the Shadowbreaker hammer",weapon,30,spec,wield,cl pa,,15ma 15mv pfe,,9d-divn,9h-bonus,f-g,a-e a-n,,,20,10D3,bludgeon (bludgeon),,,"","",,,17,67000,26000
 "a bundle of planetar feathers",enchnt-mat,0,spec,,,,2cha,,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "A scarlet chimere",armor,10,norm,about,mo,,2dam 4hit 1cha,,,,,a-e,,2,,,,,,"","",,,8,20000,8000
 "a resonating stone amulet",other,25,spec,neck hold,,,2dam 25ma,-25r-sonc,5d-sonc,,,,,,,,,,,"","",,,3,120000,6500
 "golden sandals",armor,20,spec,feet,,,10mv-gain 3dex,,,,,,,3,,,,,,"","",,,5,50000,12000
-"shard of the faithful",other,20,spec,finger neck wrist,priest,,5ma-gain sustain,,,9h-bonus,,,,,,,,,,"","",,,1,30000,10000
-"a hex-pouch belt",worn,20,spec,waist,,,15ma -1int 2dex 2con,,,,,,,,,,,,,"","",,,3,12000,3000
-"a lightning bolt patch",worn,20,spec,trinket,,,,25r-elec,,,,,,,,,,,,"","",,,1,35000,3500
-"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","",,,1,35000,3500
+"shard of the faithful",other,20,spec,finger neck wrist,priest,,5ma-gain sustain,,,9h-bonus,,,,,,,,,,"","Aurvuron",,,1,30000,10000
+"a hex-pouch belt",worn,20,spec,waist,,,15ma -1int 2dex 2con,,,,,,,,,,,,,"","Aurvuron",,,3,12000,3000
+"a lightning bolt patch",worn,20,spec,trinket,,,,25r-elec,,,,,,,,,,,,"","Forbidden",,,1,35000,3500
+"a rising phoenix patch",worn,20,spec,trinket,,,,25r-fire,,,,,,,,,,,,"","Forbidden",,,1,35000,3500
+"A holy crest",worn,20,spec,trinket,pa,,,25r-shdw,,,f-g,a-e a-n,,,,,,,,"An imperial liaison","College",,,1,17500,4000
+"enchanted imperial partizan",weapon,0,spec,wield,warr,,-1dam,25r-fire 25r-elec,,,,,2-hand,,12.5,5D4,pierce (pierce),4sock(1-d1 1-d2 1prof),,random,random,,,32,15,2000
+"a bundle of white sage",enchnt-mat,0,spec,,,,,30r-shdw,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"a pouch of mindflayer salts",enchnt-mat,0,spec,,,,2ma-gain,,,,,,,,,,,,1sock,random,random,,,1,3,2000
+"an atlantian helmet",armor,25,spec,head,,,2dam 15hp,,5melee-crit-dam,,,a-g,,8,,,,,,"A Treasury Guardian","Swamp",,,8,100000,12000
+"the Golden Belt of a Planetar",armor,25,spec,waist,pa,,25ma,25r-shdw,6d-divn,,f-g,a-e a-n,,25,,,,,,"in vault","Swamp",,,10,100000,12000
+"an atlantian shield",armor,25,spec,shield,fi,,3dam  +40(iaijutsu),,,,,,,22,,,,,,"in vault","Swamp",,,1,100000,12000
+"enchanted grey pantaloons",armor,0,spec,legs,cl dr,,-1wis,,2d-spell,,,a-g,,4,,,,4sock,,random,random,,,2,15,2500
+"enchanted battle bow",weapon,0,spec,wield,ra,,-1dam 7hp-gain,,,,,,,,8,2D7,pierce (special),4sock(1-d1 1-d2 1prof),,random,random,,,22,15,2000
+"a caustic reagent",enchnt-mat,0,spec,,,,,,3d-acid,,,,,,,,,,1sock,random,random,,,1,3,2000
+"The Claw of the Red Dragon",weapon,40,spec,wield,mo,,4dam,25r-fire,4melee-crit-dam,,f-g,,,,20,8D4,slash (fist),,,"","Forbidden",,,18,237000,16540
+"The Talisman of the Frozen Tundra",other,25,spec,neck hold,,,,25r-cold,6d-cold 5spell-crit-dam,,,,,,,,,,,"","",,,3,75000,8000
+"a twisted cobalt bracelet",armor,15,lrg,wrist,fi pa ap ra be,,2dam -2hit 25hp,,3melee-crit-dam,,,,,6,,,,,,"","",,,5,19400,3090

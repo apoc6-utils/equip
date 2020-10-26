@@ -1443,7 +1443,7 @@ Can affect you as:
    MOVE_GAIN By 4
    MAXMANA By 25
    DEX By 1"
-"A silver and gold bracelet",WORN,WRIST,NONE,NONE,gold,special,4,50000,5000,5,CURSE,HUM CURSED UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-2DAMROLL 25MAXMANA,,,"","","Object 'A silver and gold bracelet', Item type: WORN
+"a silver and gold bracelet",WORN,WRIST,NONE,NONE,gold,special,4,50000,5000,5,CURSE,HUM CURSED UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-2DAMROLL 25MAXMANA,,,"Venus","Rome","Object 'a silver and gold bracelet', Item type: WORN
 Can be worn on: TAKE WRIST 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -4372,7 +4372,7 @@ Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM
 Adds to Rent: 500, Adds 1 to Natural Armor AC.
 Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant."
-"A sparkling, white vest",ARMOR,BODY,NONE,NONE,cotton,normal,7,21875,7000,5,NONE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,7,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,5AGE 10MAXMOVE 1STR,,,"","","Object 'A sparkling, white vest', Item type: ARMOR
+"a sparkling, white vest",ARMOR,BODY,NONE,NONE,cotton,normal,7,21875,7000,5,NONE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,7,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,5AGE 10MAXMOVE 1STR,,,"","","Object 'a sparkling, white vest', Item type: ARMOR
 Can be worn on: TAKE BODY 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11365,7 +11365,7 @@ Can affect you as:
    COLD_DMG By 6
    SPELL_CRIT_DMG By 5
    RESIST_COLD By 25"
-"a rising phoenix patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_FIRE,,,"","","Object 'a rising phoenix patch', Item type: WORN
+"a rising phoenix patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_FIRE,,,"","Forbidden","Object 'a rising phoenix patch', Item type: WORN
 Can be worn on: TAKE TRINKET 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12905,7 +12905,7 @@ Can affect you as:
    MAXMANA By 20
    RESIST_COLD By 25
    DAMROLL By 2"
-"a bright white wand",WAND,HOLD,NONE,NONE,ceramic,special,7,9000,1200,5,NONE,UNIQUE UNBREAKABLE,armor,35,4,4,,,,,,,,,,,,,,,,,,,,,"","","Object 'a bright white wand', Item type: WAND
+"a bright white wand",WAND,HOLD,NONE,NONE,ceramic,special,7,9000,1200,5,NONE,UNIQUE UNBREAKABLE,armor,35,4,4,,,,,,,,,,,,,,,,,,,,,"","Nexus","Object 'a bright white wand', Item type: WAND
 Can be worn on: TAKE HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12985,7 +12985,7 @@ Requires Weapon Skill: fist attack
 Contains the following affect powers upon enchanting:
    MANA_GAIN By 7
    DAMROLL By -1"
-"A Scale from an Albino Fire Dragon",OTHER,HOLD,CLERIC,NONE,dragon scale,special,7,100000,12000,25,NONE,GLOW MAGIC UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10DIVN_DMG 10FIRE_DMG 50MAXHIT,,,"","","Object 'A Scale from an Albino Fire Dragon', Item type: OTHER
+"A Scale from an Albino Fire Dragon",OTHER,HOLD,CLERIC,NONE,dragon scale,special,7,100000,12000,25,NONE,GLOW MAGIC UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10DIVN_DMG 10FIRE_DMG 50MAXHIT,,,"in vault","Swamp","Object 'A Scale from an Albino Fire Dragon', Item type: OTHER
 Can be worn on: TAKE HOLD 
 Class restrictions: CLERIC 
 Race restrictions: NONE 
@@ -13016,7 +13016,7 @@ Can affect you as:
    ELEC_DMG By 5
    SPELL_CRIT_PCT By 5
    RESIST_POIS By 25"
-"a pair of Serpentine Bracers",ARMOR,ARMS,MAGIC_USER BARD DRUID,NONE,cobalt,special,5,25000,5500,15,NONE,ANTI_GOOD UNIQUE UNBREAKABLE,,,,,10,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-2CHA 35MAXHIT 5SPELL_DMG,,,"","","Object 'a pair of Serpentine Bracers', Item type: ARMOR
+"a pair of Serpentine Bracers",ARMOR,ARMS,MAGIC_USER BARD DRUID,NONE,cobalt,special,5,25000,5500,15,NONE,ANTI_GOOD UNIQUE UNBREAKABLE,,,,,10,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-2CHA 35MAXHIT 5SPELL_DMG,,,"Archmage Salassina","Swamp","Object 'a pair of Serpentine Bracers', Item type: ARMOR
 Can be worn on: TAKE ARMS 
 Class restrictions: MAGIC_USER BARD DRUID 
 Race restrictions: NONE 
@@ -13032,7 +13032,7 @@ Can affect you as:
    CHA By -2
    MAXHIT By 35
    SPELL_DMG By 5"
-"A Scale from an Albino Fire Dragon",OTHER,HOLD,CLERIC,NONE,dragon scale,special,7,100000,12000,25,NONE,GLOW MAGIC UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,7HEAL_BONUS 17MAXMANA 7MOVE_GAIN,,,"","","Object 'A Scale from an Albino Fire Dragon', Item type: OTHER
+"A Scale from an Albino Fire Dragon",OTHER,HOLD,CLERIC,NONE,dragon scale,special,7,100000,12000,25,NONE,GLOW MAGIC UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,7HEAL_BONUS 17MAXMANA 7MOVE_GAIN,,,"in vault","Swamp","Object 'A Scale from an Albino Fire Dragon', Item type: OTHER
 Can be worn on: TAKE HOLD 
 Class restrictions: CLERIC 
 Race restrictions: NONE 
@@ -13094,23 +13094,6 @@ Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant.
 Contains the following affect powers upon enchanting:
    INT By 2"
-"enchanted silver armlet",ARMOR,ARMS,CLERIC DRUID,NONE,silver,special,2,15,2500,0,AIRWALK,!DONATE ANTI_GOOD !SELL UNBREAKABLE QUEST_ITEM PC_USE_ONLY,,,,,4,CUSTOMIZABLE,BIND_ON_EQUIP,3,,,0,0,,,,,,,,,,-1CON 3SPELL_CRIT_DMG,,,random,random,"Object 'enchanted silver armlet', Item type: ARMOR
-Can be worn on: TAKE ARMS 
-Class restrictions: CLERIC DRUID 
-Race restrictions: NONE 
-Object Material: silver
-Size: special
-Weight: 2, Value: 15, Rent: 2500, Min Level: 0
-Item will give you following abilities:  AIRWALK 
-Item is: !DONATE ANTI_GOOD !SELL UNBREAKABLE QUEST_ITEM PC_USE_ONLY 
-AP-apply is 4
-Customizations: CUSTOMIZABLE
-Bindings: BIND_ON_EQUIP
-Remaining Enchants Available: 3
-AC Enhancement Sockets Remaining: 0, Proficiency Sockets Remaining: 0
-Contains the following affect powers upon enchanting:
-   SPELL_CRIT_DMG By 3
-   CON By -1"
 "'Justicar,' Holy Sword of the Light",WEAPON,WIELD,CLERIC PALADIN,NONE,celestial steel,special,20,140000,18200,25,NONE,ANTI_EVIL ANTI_NEUTRAL UNIQUE UNBREAKABLE MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,12D2,18.0,slash attack,2ATK_/_2_ROUNDS 2DAMROLL 7DIVN_DMG 1HITROLL 28MAXMANA,,,"","","Object ''Justicar,' Holy Sword of the Light', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: CLERIC PALADIN 
@@ -13209,7 +13192,7 @@ Bindings: NON-BINDING
 Can affect you as:
    DEX By 3
    MOVE_GAIN By 10"
-"shard of the faithful",OTHER,FINGER NECK WRIST,PRIEST,NONE,crystal,special,1,30000,10000,20,SUSTAIN,UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,9HEAL_BONUS 5MANA_GAIN,,,"","","Object 'shard of the faithful', Item type: OTHER
+"shard of the faithful",OTHER,FINGER NECK WRIST,PRIEST,NONE,crystal,special,1,30000,10000,20,SUSTAIN,UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,9HEAL_BONUS 5MANA_GAIN,,,"","Aurvuron","Object 'shard of the faithful', Item type: OTHER
 Can be worn on: TAKE FINGER NECK WRIST 
 Class restrictions: PRIEST 
 Race restrictions: NONE 
@@ -13223,7 +13206,7 @@ Bindings: NON-BINDING
 Can affect you as:
    MANA_GAIN By 5
    HEAL_BONUS By 9"
-"a hex-pouch belt",WORN,WAIST,NONE,NONE,burlap,special,3,12000,3000,20,NONE,MAGIC UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2CON 2DEX -1INT 15MAXMANA,,,"","","Object 'a hex-pouch belt', Item type: WORN
+"a hex-pouch belt",WORN,WAIST,NONE,NONE,burlap,special,3,12000,3000,20,NONE,MAGIC UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2CON 2DEX -1INT 15MAXMANA,,,"","Aurvuron","Object 'a hex-pouch belt', Item type: WORN
 Can be worn on: TAKE WAIST 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13239,7 +13222,7 @@ Can affect you as:
    INT By -1
    CON By 2
    MAXMANA By 15"
-"a lightning bolt patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_ELEC,,,"","","Object 'a lightning bolt patch', Item type: WORN
+"a lightning bolt patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_ELEC,,,"","Forbidden","Object 'a lightning bolt patch', Item type: WORN
 Can be worn on: TAKE TRINKET 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13252,7 +13235,7 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Can affect you as:
    RESIST_ELEC By 25"
-"a rising phoenix patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_FIRE,,,"","","Object 'a rising phoenix patch', Item type: WORN
+"a rising phoenix patch",WORN,TRINKET,NONE,NONE,cotton,special,1,35000,3500,20,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_FIRE,,,"","Forbidden","Object 'a rising phoenix patch', Item type: WORN
 Can be worn on: TAKE TRINKET 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13265,3 +13248,211 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Can affect you as:
    RESIST_FIRE By 25"
+"A holy crest",WORN,TRINKET,PALADIN,NONE,gold,special,1,17500,4000,20,NONE,ANTI_EVIL ANTI_NEUTRAL UNBREAKABLE GOOD_FLAGGED PC_USE_ONLY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_SHDW,,,"An imperial liaison","College","Object 'A holy crest', Item type: WORN
+Can be worn on: TAKE TRINKET 
+Class restrictions: PALADIN 
+Race restrictions: NONE 
+Object Material: gold
+Size: special
+Weight: 1, Value: 17500, Rent: 4000, Min Level: 20
+Item will give you following abilities:  NONE 
+Item is: ANTI_EVIL ANTI_NEUTRAL UNBREAKABLE GOOD_FLAGGED PC_USE_ONLY 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   RESIST_SHDW By 25"
+"enchanted imperial partizan",WEAPON,WIELD,WARRIOR,NONE,mithril,special,32,15,2000,0,NONE,!DONATE !SELL TWO_HANDED_WPN UNBREAKABLE QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,4,1,1,,1,,,,,,pierce,5D4,12.5,pierce attack,-1DAMROLL 25RESIST_ELEC 25RESIST_FIRE,,,random,random,"Object 'enchanted imperial partizan', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: WARRIOR 
+Race restrictions: NONE 
+Object Material: mithril
+Size: special
+Weight: 32, Value: 15, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL TWO_HANDED_WPN UNBREAKABLE QUEST_ITEM PC_USE_ONLY 
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 4
+Dice 1 Sockets Remaining: 1, Dice 2 Sockets Remaining: 1
+Proficiency Sockets Remaining: 1
+Damage Type: pierce,  Damage Dice: '5D4', Average Damage 12.5.
+Requires Weapon Skill: pierce attack
+Contains the following affect powers upon enchanting:
+   RESIST_FIRE By 25
+   RESIST_ELEC By 25
+   DAMROLL By -1"
+"a bundle of white sage",ENCHANT_MATERIAL,,NONE,NONE,organic,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1000,0,0,0,1,,,,,30RESIST_SHDW,,,random,random,"Object 'a bundle of white sage', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   RESIST_SHDW By 30"
+"a pouch of mindflayer salts",ENCHANT_MATERIAL,,NONE,NONE,leather,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1250,0,0,0,1,,,,,2MANA_GAIN,,,random,random,"Object 'a pouch of mindflayer salts', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: leather
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1250, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   MANA_GAIN By 2"
+"an atlantian helmet",ARMOR,HEAD,NONE,NONE,atlantian steel,special,8,100000,12000,25,NONE,ANTI_GOOD UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 15MAXHIT 5MELEE_CRIT_DMG,,,"A Treasury Guardian","Swamp","Object 'an atlantian helmet', Item type: ARMOR
+Can be worn on: TAKE HEAD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: atlantian steel
+Size: special
+Weight: 8, Value: 100000, Rent: 12000, Min Level: 25
+Item will give you following abilities:  NONE 
+Item is: ANTI_GOOD UNBREAKABLE 
+AP-apply is 8
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 2
+   MAXHIT By 15
+   MELEE_CRIT_DMG By 5"
+"the Golden Belt of a Planetar",ARMOR,WAIST,PALADIN,NONE,celestial steel,special,10,100000,12000,25,NONE,GLOW MAGIC ANTI_EVIL ANTI_NEUTRAL UNIQUE UNBREAKABLE GOOD_FLAGGED,,,,,25,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,6DIVN_DMG 25MAXMANA 25RESIST_SHDW,,,"in vault","Swamp","Object 'the Golden Belt of a Planetar', Item type: ARMOR
+Can be worn on: TAKE WAIST 
+Class restrictions: PALADIN 
+Race restrictions: NONE 
+Object Material: celestial steel
+Size: special
+Weight: 10, Value: 100000, Rent: 12000, Min Level: 25
+Item will give you following abilities:  NONE 
+Item is: GLOW MAGIC ANTI_EVIL ANTI_NEUTRAL UNIQUE UNBREAKABLE GOOD_FLAGGED 
+AP-apply is 25
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DIVN_DMG By 6
+   MAXMANA By 25
+   RESIST_SHDW By 25"
+"an atlantian shield",ARMOR,SHIELD,FIGHTER,NONE,atlantian steel,special,1,100000,12000,25,NONE,MAGIC UNIQUE UNBREAKABLE,,,,,22,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,3DAMROLL,+40iaijutsu,,"in vault","Swamp","Object 'an atlantian shield', Item type: ARMOR
+Can be worn on: TAKE SHIELD 
+Class restrictions: FIGHTER 
+Race restrictions: NONE 
+Object Material: atlantian steel
+Size: special
+Weight: 1, Value: 100000, Rent: 12000, Min Level: 25
+Item will give you following abilities:  NONE 
+Item is: MAGIC UNIQUE UNBREAKABLE 
+AP-apply is 22
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 3
+Modifies the following proficiencies:
+   +40 to iaijutsu"
+"enchanted grey pantaloons",ARMOR,LEGS,CLERIC DRUID,NONE,cotton,special,2,15,2500,0,NONE,!DONATE ANTI_GOOD !SELL UNBREAKABLE QUEST_ITEM PC_USE_ONLY,,,,,4,CUSTOMIZABLE,BIND_ON_EQUIP,4,,,0,0,,,,,,,,,,2SPELL_DMG -1WIS,,,random,random,"Object 'enchanted grey pantaloons', Item type: ARMOR
+Can be worn on: TAKE LEGS 
+Class restrictions: CLERIC DRUID 
+Race restrictions: NONE 
+Object Material: cotton
+Size: special
+Weight: 2, Value: 15, Rent: 2500, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE ANTI_GOOD !SELL UNBREAKABLE QUEST_ITEM PC_USE_ONLY 
+AP-apply is 4
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 4
+AC Enhancement Sockets Remaining: 0, Proficiency Sockets Remaining: 0
+Contains the following affect powers upon enchanting:
+   SPELL_DMG By 2
+   WIS By -1"
+"enchanted battle bow",WEAPON,WIELD,RANGER,NONE,wood,special,22,15,2000,0,NONE,!DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,4,1,1,,1,,,,,,pierce,2D7,8.0,special attack,-1DAMROLL 7HIT_GAIN,,,random,random,"Object 'enchanted battle bow', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: RANGER 
+Race restrictions: NONE 
+Object Material: wood
+Size: special
+Weight: 22, Value: 15, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY 
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 4
+Dice 1 Sockets Remaining: 1, Dice 2 Sockets Remaining: 1
+Proficiency Sockets Remaining: 1
+Damage Type: pierce,  Damage Dice: '2D7', Average Damage 8.0.
+Requires Weapon Skill: special attack
+Contains the following affect powers upon enchanting:
+   HIT_GAIN By 7
+   DAMROLL By -1"
+"a caustic reagent",ENCHANT_MATERIAL,,NONE,NONE,glass,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,2000,0,0,0,1,,,,,3ACID_DMG,,,random,random,"Object 'a caustic reagent', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 2000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   ACID_DMG By 3"
+"The Claw of the Red Dragon",WEAPON,WIELD,MONK,NONE,dragon bone,special,18,237000,16540,40,NONE,UNIQUE UNBREAKABLE GOOD_FLAGGED MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,8D4,20.0,fist attack,4DAMROLL 4MELEE_CRIT_DMG 25RESIST_FIRE,,,"","Forbidden","Object 'The Claw of the Red Dragon', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: MONK 
+Race restrictions: NONE 
+Object Material: dragon bone
+Size: special
+Weight: 18, Value: 237000, Rent: 16540, Min Level: 40
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE GOOD_FLAGGED MAIN_HAND_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: slash,  Damage Dice: '8D4', Average Damage 20.0.
+Requires Weapon Skill: fist attack
+Can affect you as:
+   DAMROLL By 4
+   MELEE_CRIT_DMG By 4
+   RESIST_FIRE By 25"
+"The Talisman of the Frozen Tundra",OTHER,NECK HOLD,NONE,NONE,cobalt,special,3,75000,8000,25,NONE,UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,6COLD_DMG 25RESIST_COLD 5SPELL_CRIT_DMG,,,"","","Object 'The Talisman of the Frozen Tundra', Item type: OTHER
+Can be worn on: TAKE NECK HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: cobalt
+Size: special
+Weight: 3, Value: 75000, Rent: 8000, Min Level: 25
+Item will give you following abilities:  NONE 
+Item is: UNBREAKABLE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   COLD_DMG By 6
+   SPELL_CRIT_DMG By 5
+   RESIST_COLD By 25"
+"a twisted cobalt bracelet",ARMOR,WRIST,FIGHTER PALADIN ANTIPALADIN RANGER BERSERKER,NONE,cobalt,large,5,19400,3090,15,NONE,UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL -2HITROLL 25MAXHIT 3MELEE_CRIT_DMG,,,"","","Object 'a twisted cobalt bracelet', Item type: ARMOR
+Can be worn on: TAKE WRIST 
+Class restrictions: FIGHTER PALADIN ANTIPALADIN RANGER BERSERKER 
+Race restrictions: NONE 
+Object Material: cobalt
+Size: large
+Weight: 5, Value: 19400, Rent: 3090, Min Level: 15
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXHIT By 25
+   HITROLL By -2
+   DAMROLL By 2
+   MELEE_CRIT_DMG By 3"
