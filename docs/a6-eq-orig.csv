@@ -372,7 +372,7 @@ Item is: HUM UNBREAKABLE
 Spell: sovereign heal at level 17, 3 (of 3) charges remaining
 Can affect you as:
    HEAL_BONUS By 3"
-"The Ancile",ARMOR,SHIELD,NONE,NONE,crystal,special,20,30000,8000,30,NONE,MAGIC UNBREAKABLE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 2DEX,,,"","","Object 'The Ancile', Item type: ARMOR
+"The Ancile",ARMOR,SHIELD,NONE,NONE,crystal,special,20,30000,8000,30,NONE,MAGIC UNBREAKABLE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 2DEX,,,"Mars","Blightland","Object 'The Ancile', Item type: ARMOR
 Can be worn on: TAKE SHIELD
 Class restrictions: NONE
 Race restrictions: NONE
@@ -942,7 +942,7 @@ Requires Weapon Skill: slash attack
 Can affect you as:
    ATK_/_2_ROUNDS By 2
    RESIST_SHDW By 25"
-"A black tricorne",ARMOR,HEAD,NONE,NONE,leather,normal,7,18000,6300,20,NONE,UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10AGE -2CHA 2DAMROLL 5SPELL_DMG,,,"The ghost of Captain Fensclow","Burning Talon","Object 'A black tricorne', Item type: ARMOR
+"a black tricorne",ARMOR,HEAD,NONE,NONE,leather,normal,7,18000,6300,20,NONE,UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10AGE -2CHA 2DAMROLL 5SPELL_DMG,,,"The ghost of Captain Fensclow","Burning Talon","Object 'a black tricorne', Item type: ARMOR
 Can be worn on: TAKE HEAD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -1355,7 +1355,7 @@ Can affect you as:
    SAVING_SPELL By -15
    RESIST_LGHT By -25
    SAVING_BREATH By -15"
-"the Crystal Necklace of Knowledge",WORN,NECK,NONE,NONE,crystal,special,5,75000,8333,5,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2INT 20MAXMANA 2WIS,,,"","","Object 'the Crystal Necklace of Knowledge', Item type: WORN
+"the Crystal Necklace of Knowledge",WORN,NECK,NONE,NONE,crystal,special,5,75000,8333,5,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2INT 20MAXMANA 2WIS,,,"Venus","Blightland","Object 'the Crystal Necklace of Knowledge', Item type: WORN
 Can be worn on: TAKE NECK 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -5020,7 +5020,7 @@ Can affect you as:
    MAXMANA By 15
    DAMROLL By 2
    HITROLL By 1"
-"a crystal ring",WORN,FINGER,NONE,NONE,crystal,normal,1,55000,8500,15,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 3HIT_GAIN 15MAXHIT,,,"","","Object 'a crystal ring', Item type: WORN
+"a crystal ring",WORN,FINGER,NONE,NONE,crystal,normal,1,55000,8500,15,NONE,UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 3HIT_GAIN 15MAXHIT,,,"Moyne","","Object 'a crystal ring', Item type: WORN
 Can be worn on: TAKE FINGER 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -5201,7 +5201,7 @@ Can affect you as:
    DMG_SELF By 8
    DAMROLL By 2
    MELEE_CRIT_DMG By 3"
-"Jupiter's Thunderbolt",WEAPON,WIELD,NONE,NONE,steel,special,18,130616,16667,20,BAT_SONAR,GLOW HUM UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,shock,5D4,12.5,special attack,4DAMROLL 6ELEC_DMG 4HITROLL 30RESIST_ELEC -30RESIST_SONC,+75lightning bolt,,"","","Object 'Jupiter's Thunderbolt', Item type: WEAPON
+"Jupiter's Thunderbolt",WEAPON,WIELD,NONE,NONE,steel,special,18,130616,16667,20,BAT_SONAR,GLOW HUM UNIQUE UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,shock,5D4,12.5,special attack,4DAMROLL 6ELEC_DMG 4HITROLL 30RESIST_ELEC -30RESIST_SONC,+75lightning bolt,,"Jupiter","Blightland","Object 'Jupiter's Thunderbolt', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -10222,20 +10222,6 @@ Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant.
 Contains the following affect powers upon enchanting:
    COLD_DMG By 2"
-"a pouch of fire crystals",ENCHANT_MATERIAL,,NONE,NONE,crystal,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1000,0,0,0,1,,,,,20RESIST_FIRE,,,random,random,"Object 'a pouch of fire crystals', Item type: ENCHANT_MATERIAL
-Can be worn on: TAKE 
-Class restrictions: NONE 
-Race restrictions: NONE 
-Object Material: crystal
-Size: special
-Weight: 1, Value: 3, Rent: 2000, Min Level: 0
-Item will give you following abilities:  NONE 
-Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
-Adds to Rent: 1000, Adds 0 to Natural Armor AC.
-Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
-Occupies 1 Sockets Upon Enchant.
-Contains the following affect powers upon enchanting:
-   RESIST_FIRE By 20"
 "enchanted wavy kris",WEAPON,WIELD,THIEF ANTIPALADIN,NONE,infernal steel,special,20,15,2000,0,NONE,!DONATE ANTI_GOOD ANTI_NEUTRAL !SELL UNBREAKABLE EVIL_FLAGGED MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,4,0,2,,1,,,,,,pierce,2D14,15.0,pierce attack,-1DAMROLL 25RESIST_SHDW,,,random,random,"Object 'enchanted wavy kris', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: THIEF ANTIPALADIN 
@@ -12581,7 +12567,7 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Can affect you as:
    MAXHIT By 20"
-"a brown ermine-lined robe",ARMOR,NECK,WARRIOR ROGUE,NONE,leather,special,4,35053,6006,20,NONE,UNIQUE UNBREAKABLE,,,,,9,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DEX 40MAXHIT 2WIS,,,"King Arthur","Sylvan Jungle","Object 'a brown ermine-lined robe', Item type: ARMOR
+"a brown ermine-lined robe",ARMOR,NECK,WARRIOR ROGUE,NONE,leather,special,4,35053,6006,20,NONE,UNIQUE UNBREAKABLE,,,,,9,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DEX 40MAXHIT 2WIS,,,"King Arthur","Camelot","Object 'a brown ermine-lined robe', Item type: ARMOR
 Can be worn on: TAKE NECK 
 Class restrictions: WARRIOR ROGUE 
 Race restrictions: NONE 
@@ -13456,3 +13442,479 @@ Can affect you as:
    HITROLL By -2
    DAMROLL By 2
    MELEE_CRIT_DMG By 3"
+"a wex rune",ENCHANT_MATERIAL,,NONE,NONE,stone,tiny,3,30,3000,0,NONE,!DONATE !SELL UNBREAKABLE,,,,,,,,,,,,,1000,0,0,0,1,,,,,,+40bash,,random,random,"Object 'a wex rune', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: stone
+Size: tiny
+Weight: 3, Value: 30, Rent: 3000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+   +40 to bash"
+"a small pouch of frost crystals",ENCHANT_MATERIAL,,NONE,NONE,crystal,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,750,0,0,0,1,,,,,25RESIST_COLD,,,random,random,"Object 'a small pouch of frost crystals', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: crystal
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 750, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   RESIST_COLD By 25"
+"a basilisk's eye",ENCHANT_MATERIAL,,NONE,NONE,organic,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1000,0,0,0,1,,,,,-5SAVING_PARA,,,random,random,"Object 'a basilisk's eye', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   SAVING_PARA By -5"
+"a cloudy fire opal",ENCHANT_MATERIAL,,NONE,NONE,gemstone,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,2000,0,0,0,1,,,,,1SPELL_CRIT_PCT,,,random,random,"Object 'a cloudy fire opal', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: gemstone
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 2000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   SPELL_CRIT_PCT By 1"
+"a creepy Halloween mask...boo!",WORN,MASK,NONE,NONE,unknown,special,2,0,0,0,NONE,!SELL UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"","","Object 'a creepy Halloween mask...boo!', Item type: WORN
+Can be worn on: TAKE MASK 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: unknown
+Size: special
+Weight: 2, Value: 0, Rent: 0, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !SELL UNBREAKABLE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a pouch of lich salts",ENCHANT_MATERIAL,,NONE,NONE,leather,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1250,0,0,0,1,,,,,2HIT_GAIN,,,random,random,"Object 'a pouch of lich salts', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: leather
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1250, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   HIT_GAIN By 2"
+"a pair of atlantian leggings",ARMOR,LEGS,NONE,NONE,atlantian steel,special,8,100000,12000,25,NONE,ANTI_GOOD UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 15MAXHIT 1MELEE_CRIT_PCT,,,"A Treasury Guardian","Swamp","Object 'a pair of atlantian leggings', Item type: ARMOR
+Can be worn on: TAKE LEGS 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: atlantian steel
+Size: special
+Weight: 8, Value: 100000, Rent: 12000, Min Level: 25
+Item will give you following abilities:  NONE 
+Item is: ANTI_GOOD UNBREAKABLE 
+AP-apply is 8
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 2
+   MAXHIT By 15
+   MELEE_CRIT_PCT By 1"
+"a tiny vial of planetar blood",ENCHANT_MATERIAL,,NONE,NONE,glass,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,750,0,0,0,1,,,,,7MAXHIT,,,random,random,"Object 'a tiny vial of planetar blood', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 750, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   MAXHIT By 7"
+"a shadowy ring of blackness",WORN,FINGER,NONE,NONE,spirit,special,0,18000,3500,15,,INVISIBLE EVIL_FLAGGED !IDENTIFY PC_USE_ONLY,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-25RESIST_DIVN 50RESIST_FEAR -25RESIST_LGHT,,,"","","Object 'a shadowy ring of blackness', Item type: WORN
+Can be worn on: TAKE FINGER 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: spirit
+Size: special
+Weight: 0, Value: 18000, Rent: 3500, Min Level: 15
+Item is: INVISIBLE EVIL_FLAGGED !IDENTIFY PC_USE_ONLY
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   RESIST_DIVN By -25
+   RESIST_FEAR By 50
+   RESIST_LGHT By -25"
+"The Crown of Fire",ARMOR,HEAD,NONE,NONE,elven steel,special,7,175000,4500,25,,GLOW UNIQUE UNBREAKABLE !IDENTIFY,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,4FIRE_DMG 15MAXMANA 25RESIST_FIRE,,,"King","Caves of Fire","Object 'The Crown of Fire', Item type: ARMOR
+Can be worn on: TAKE HEAD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: elven steel
+Size: special
+Weight: 7, Value: 175000, Rent: 4500, Min Level: 25
+Item is: GLOW UNIQUE UNBREAKABLE !IDENTIFY 
+AP-apply is 14
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   FIRE_DMG By 4
+   MAXMANA By 15
+   RESIST_FIRE By 25"
+"enchanted lightning talisman",OTHER,HOLD,MONK,NONE,silver,special,4,15,2500,0,BAT_SONAR,!DONATE ANTI_EVIL !SELL UNBREAKABLE GOOD_FLAGGED QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,4,,,0,0,,,,,,,,,,-1CON 1DAMROLL 3ELEC_DMG,,,random,random,"Object 'enchanted lightning talisman', Item type: OTHER
+Can be worn on: TAKE HOLD 
+Class restrictions: MONK 
+Race restrictions: NONE 
+Object Material: silver
+Size: special
+Weight: 4, Value: 15, Rent: 2500, Min Level: 0
+Item will give you following abilities:  BAT_SONAR 
+Item is: !DONATE ANTI_EVIL !SELL UNBREAKABLE GOOD_FLAGGED QUEST_ITEM PC_USE_ONLY 
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 4
+AC Enhancement Sockets Remaining: 0, Proficiency Sockets Remaining: 0
+Contains the following affect powers upon enchanting:
+   DAMROLL By 1
+   ELEC_DMG By 3
+   CON By -1"
+"enchanted officer's cutlass",WEAPON,WIELD,THIEF RANGER,NONE,chromium,special,20,15,2000,0,NONE,!DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,4,1,1,,1,,,,,,cut,1D11,6.0,slash attack,-1DAMROLL 5HIT_GAIN,,,random,random,"Object 'enchanted officer's cutlass', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: THIEF RANGER 
+Race restrictions: NONE 
+Object Material: chromium
+Size: special
+Weight: 20, Value: 15, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY 
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 4
+Dice 1 Sockets Remaining: 1, Dice 2 Sockets Remaining: 1
+Proficiency Sockets Remaining: 1
+Damage Type: cut,  Damage Dice: '1D11', Average Damage 6.0.
+Requires Weapon Skill: slash attack
+Contains the following affect powers upon enchanting:
+   HIT_GAIN By 5
+   DAMROLL By -1"
+"a pouch of fire crystals",ENCHANT_MATERIAL,,NONE,NONE,crystal,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1000,0,0,0,1,,,,,30RESIST_FIRE,,,random,random,"Object 'a pouch of fire crystals', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: crystal
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   RESIST_FIRE By 30"
+"a devotion potion",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(champions strength/haste/elemental aura),"","","Object 'a devotion potion', Item type: POTION
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 0, Value: 2400, Rent: 600, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Casts the following spells at level 40:
+   champions strength
+   haste
+   elemental aura"
+"a restoration restorative",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(heal critic/heal critic/heal critic),"","","Object 'a restoration restorative', Item type: POTION
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 0, Value: 2400, Rent: 600, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Casts the following spells at level 40:
+   heal critic
+   heal critic
+   heal critic"
+"a troth tonic",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(vitalize mana/vigorize critical/greater electricity resistance),"","","Object 'a troth tonic', Item type: POTION
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 0, Value: 2400, Rent: 600, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: NONE 
+Casts the following spells at level 40:
+   vitalize mana
+   vigorize critical
+   greater electricity resistance"
+"an astral skirt of virtue",ARMOR,,CLERIC MONK DRUID,NONE,unknown,special,11,43000,12000,0,AIRWALK,ANTI_EVIL UNBREAKABLE GOOD_FLAGGED,,,,,25,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,10MAXMANA 20MAXMOVE -15RESIST_SHDW,,,"","","Object 'an astral skirt of virtue', Item type: ARMOR
+Can be worn on: TAKE 
+Class restrictions: CLERIC MONK DRUID 
+Race restrictions: NONE 
+Object Material: unknown
+Size: special
+Weight: 11, Value: 43000, Rent: 12000, Min Level: 0
+Item will give you following abilities:  AIRWALK 
+Item is: ANTI_EVIL UNBREAKABLE GOOD_FLAGGED 
+AP-apply is 25
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXMOVE By 20
+   MAXMANA By 10
+   RESIST_SHDW By -15"
+"an astral brassart",ARMOR,ARMS,CLERIC MONK,NONE,spirit,small,9,51000,16850,20,SECOND_SIGHT,GLOW UNIQUE UNBREAKABLE,,,,,22,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,20AGE 20MAXHIT 20MAXMANA,,,"","","Object 'an astral brassart', Item type: ARMOR
+Can be worn on: TAKE ARMS 
+Class restrictions: CLERIC MONK 
+Race restrictions: NONE 
+Object Material: spirit
+Size: small
+Weight: 9, Value: 51000, Rent: 16850, Min Level: 20
+Item will give you following abilities:  SECOND_SIGHT 
+Item is: GLOW UNIQUE UNBREAKABLE 
+AP-apply is 22
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXHIT By 20
+   MAXMANA By 20
+   AGE By 20"
+"superior enchanted white dragon claws",WEAPON,WIELD,MONK,NONE,dragon bone,special,22,45,3000,0,NONE,!DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY,,,,,,CUSTOMIZABLE,BIND_ON_EQUIP,5,1,1,,1,,,,,,slash,4D2,6.0,fist attack,-1DAMROLL 5ELEC_DMG,,,random,random,"Object 'superior enchanted white dragon claws', Item type: WEAPON
+Can be worn on: TAKE WIELD 
+Class restrictions: MONK 
+Race restrictions: NONE 
+Object Material: dragon bone
+Size: special
+Weight: 22, Value: 45, Rent: 3000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE MAIN_HAND_WPN QUEST_ITEM PC_USE_ONLY 
+Customizations: CUSTOMIZABLE
+Bindings: BIND_ON_EQUIP
+Remaining Enchants Available: 5
+Dice 1 Sockets Remaining: 1, Dice 2 Sockets Remaining: 1
+Proficiency Sockets Remaining: 1
+Damage Type: slash,  Damage Dice: '4D2', Average Damage 6.0.
+Requires Weapon Skill: fist attack
+Contains the following affect powers upon enchanting:
+   ELEC_DMG By 5
+   DAMROLL By -1"
+"a pair of brown hosier",ARMOR,LEGS,NONE,NONE,wool,special,3,1525,305,0,NONE,UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"A squire","Midgaard","Object 'a pair of brown hosier', Item type: ARMOR
+Can be worn on: TAKE LEGS 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wool
+Size: special
+Weight: 3, Value: 1525, Rent: 305, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"a brown tunic",ARMOR,ABOUT,NONE,NONE,wool,special,3,1480,296,0,NONE,UNIQUE UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"A squire","Midgaard","Object 'a brown tunic', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: wool
+Size: special
+Weight: 3, Value: 1480, Rent: 296, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING"
+"an unused sword",WEAPON,WIELD HOLD,NONE,NONE,steel,special,13,2170,434,0,NONE,UNIQUE UNBREAKABLE HOLDABLE_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,2D4,5.0,slash attack,1DAMROLL 1HITROLL,,,"A squire","Midgaard","Object 'an unused sword', Item type: WEAPON
+Can be worn on: TAKE WIELD HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: steel
+Size: special
+Weight: 13, Value: 2170, Rent: 434, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE HOLDABLE_WPN 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Damage Type: slash,  Damage Dice: '2D4', Average Damage 5.0.
+Requires Weapon Skill: slash attack
+Can affect you as:
+   HITROLL By 1
+   DAMROLL By 1"
+"A giant's femur",ENCHANT_MATERIAL,,NONE,NONE,bone,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1000,0,0,0,1,,,,,1STR,,,random,random,"Object 'A giant's femur', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: bone
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   STR By 1"
+"A pair of silver and gold leg plates",ARMOR,LEGS,NONE,NONE,elven steel,special,11,192500,4000,15,NONE,UNIQUE UNBREAKABLE,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 10MAXHIT 10MAXMANA,,,"","","Object 'A pair of silver and gold leg plates', Item type: ARMOR
+Can be worn on: TAKE LEGS 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: elven steel
+Size: special
+Weight: 11, Value: 192500, Rent: 4000, Min Level: 15
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 14
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 2
+   MAXMANA By 10
+   MAXHIT By 10"
+"a red and yellow plated shield",ARMOR,SHIELD,WARRIOR ROGUE,NONE,steel,large,9,38000,3100,15,NONE,UNIQUE UNBREAKABLE,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-1CON 2DAMROLL 10MAXHIT,,,"","","Object 'a red and yellow plated shield', Item type: ARMOR
+Can be worn on: TAKE SHIELD 
+Class restrictions: WARRIOR ROGUE 
+Race restrictions: NONE 
+Object Material: steel
+Size: large
+Weight: 9, Value: 38000, Rent: 3100, Min Level: 15
+Item will give you following abilities:  NONE 
+Item is: UNIQUE UNBREAKABLE 
+AP-apply is 14
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   MAXHIT By 10
+   CON By -1
+   DAMROLL By 2"
+"a supreme potion of frost resistance",POTION,HOLD,NONE,NONE,glass,special,1,50000,1000,0,NONE,GLOW MAGIC UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,,,lvl(greater cold resistance),"","","Object 'a supreme potion of frost resistance', Item type: POTION
+Can be worn on: TAKE HOLD 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: glass
+Size: special
+Weight: 1, Value: 50000, Rent: 1000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: GLOW MAGIC UNBREAKABLE 
+Casts the following spells at level 40:
+   greater cold resistance"
+"a cloudy green beryl",ENCHANT_MATERIAL,,NONE,NONE,gemstone,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,2000,0,0,0,1,,,,,1MELEE_CRIT_DMG,,,random,random,"Object 'a cloudy green beryl', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: gemstone
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 2000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   MELEE_CRIT_DMG By 1"
+"a weak demonic artifact",ENCHANT_MATERIAL,,NONE,NONE,infernal steel,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,1000,0,0,0,1,,,,,2SHDW_DMG,,,random,random,"Object 'a weak demonic artifact', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: infernal steel
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 1000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   SHDW_DMG By 2"
+"a tiny bundle of white sage",ENCHANT_MATERIAL,,NONE,NONE,organic,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,500,0,0,0,1,,,,,20RESIST_SHDW,,,random,random,"Object 'a tiny bundle of white sage', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: organic
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 500, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   RESIST_SHDW By 20"
+"a tome of healing",ENCHANT_MATERIAL,,NONE,NONE,leather,special,1,3,2000,0,NONE,!DONATE !SELL UNBREAKABLE QUEST_ITEM,,,,,,,,,,,,,2000,0,0,0,1,,,,,3HEAL_BONUS,,,random,random,"Object 'a tome of healing', Item type: ENCHANT_MATERIAL
+Can be worn on: TAKE 
+Class restrictions: NONE 
+Race restrictions: NONE 
+Object Material: leather
+Size: special
+Weight: 1, Value: 3, Rent: 2000, Min Level: 0
+Item will give you following abilities:  NONE 
+Item is: !DONATE !SELL UNBREAKABLE QUEST_ITEM 
+Adds to Rent: 2000, Adds 0 to Natural Armor AC.
+Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
+Occupies 1 Sockets Upon Enchant.
+Contains the following affect powers upon enchanting:
+   HEAL_BONUS By 3"
+"a white tabard",ARMOR,ABOUT,FIGHTER PALADIN MONK SAMURAI,NONE,cotton,normal,8,43200,9100,25,REGENERATION,ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 45MAXMANA,,,"","","Object 'a white tabard', Item type: ARMOR
+Can be worn on: TAKE ABOUT 
+Class restrictions: FIGHTER PALADIN MONK SAMURAI 
+Race restrictions: NONE 
+Object Material: cotton
+Size: normal
+Weight: 8, Value: 43200, Rent: 9100, Min Level: 25
+Item will give you following abilities:  REGENERATION 
+Item is: ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED 
+AP-apply is 14
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 2
+   MAXMANA By 45"
+"a simple grey kimono",WORN,ABOUT,SAMURAI,NONE,cotton,special,12,30000,7000,20,SUSTAIN,ANTI_EVIL ANTI_NEUTRAL UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 10MAXMANA,,,"","","Object 'a simple grey kimono', Item type: WORN
+Can be worn on: TAKE ABOUT 
+Class restrictions: SAMURAI 
+Race restrictions: NONE 
+Object Material: cotton
+Size: special
+Weight: 12, Value: 30000, Rent: 7000, Min Level: 20
+Item will give you following abilities:  SUSTAIN 
+Item is: ANTI_EVIL ANTI_NEUTRAL UNBREAKABLE 
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 2
+   MAXMANA By 10"
+"a dusty hakama",ARMOR,WAIST,SAMURAI,NONE,cotton,special,7,35000,4500,0,FREE_ACTION,UNBREAKABLE,,,,,6,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 2MANA_GAIN,,,"","","Object 'a dusty hakama', Item type: ARMOR
+Can be worn on: TAKE WAIST 
+Class restrictions: SAMURAI 
+Race restrictions: NONE 
+Object Material: cotton
+Size: special
+Weight: 7, Value: 35000, Rent: 4500, Min Level: 0
+Item will give you following abilities:  FREE_ACTION 
+Item is: UNBREAKABLE 
+AP-apply is 6
+Customizations: UNCUSTOMIZABLE
+Bindings: NON-BINDING
+Can affect you as:
+   DAMROLL By 1
+   MANA_GAIN By 2"
