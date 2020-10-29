@@ -462,7 +462,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a silver power crystal",enchnt-mat,0,spec,,,,2dam -2hit,,,,,,,,,,,,2sock,random,random,,,1,3,3000
 "The Jewel of the Deep",other,20,norm,hold,ma pa ba mo ra dr ne wa,,,,6d-spell,,,,,,,,,,,"in buried chest","Burning Talon",x,,3,62000,10000
 "a slender, bone earring",other,0,lrg,head,ma cl ba ra dr ne wa,,19ma 3mv-gain  +40(teleport minor),,,,,,,,,,,,,"A hill giant","Blightland",,,4,20000,6000
-"a hill giant's girdle",other,0,lrg,waist,,,1dam 1str -1dex,,,,,,,,,,,,,"A hill giant","Sylvan Jungle",,,8,35000,5500
+"a hill giant's girdle",other,0,lrg,waist,,,1dam 1str -1dex,,,,,,,,,,,,,"A hill giant","Blightland",,,8,35000,5500
 "a steel claymore named, 'Nylaetha'",weapon,10,spec,wield,,,-1int -1wis,,,1mcp,f-g,a-e,2-hand,,14,4D6,slash (slash),,,"The Captain of the Guard","Juris",,,22,21010,1500
 "a bone handled dagger",weapon,10,norm,wield,th ap,,1dam,,,,,a-g,,,10,4D4,pierce (pierce),,,"Pel","Juris",,,8,13874,1200
 "a red robe of the Order of the Skull",worn,10,norm,body,priest,,10mv d-invis,,,,,a-g,,,,,,,,"A Priestess of the Order of the Skull","Juris",,,6,13540,900
@@ -785,7 +785,7 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "superior enchanted orange kushalaka",worn,0,spec,waist,mo,,2dam 30ma awalk,,,,f-g,a-e,,,,,,5sock,,random,random,,,1,45,3500
 "a tiny sheet of titanium",enchnt-mat,0,spec,,,,,20r-acid,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a crystalline acorn",food,0,spec,hold,,,,,,,,,break,,,,,,,"","",,,1,28000,3000
-"Excalibur",weapon,30,norm,wield,,,1atk-2rd 3hit d-align pfe,,,,f-g,a-e,,,21,6D6,slash (slash),,,"King Arthur","Sylvan Jungle",x,,23,240085,48017
+"Excalibur",weapon,30,norm,wield,,,1atk-2rd 3hit d-align pfe,,,,f-g,a-e,,,21,6D6,slash (slash),,,"King Arthur","Camelot",x,,23,240085,48017
 "a heartshade potion",potion,0,spec,,,,lvl30(sanctuary),,,,,,break,,,,,,,"","",,,1,18000,1500
 "a weak air mote",enchnt-mat,0,spec,,,,,,2d-gas,2d-gas,,,,,,,,,1sock,random,random,,,1,3,2000
 "a chromatic dragon's eye",enchnt-mat,0,spec,,,,,,2d-spell,,,,,,,,,,1sock,random,random,,,1,3,2000
@@ -890,17 +890,17 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "superior enchanted white field plate",armor,0,spec,body,warr,,12hp 1hp-gain -1dex cloak-s,,,,f-g,a-e,,14,,,,5sock(1prof 1ac),,random,random,,,12,45,5000
 "some mummy bandages",armor,0,spec,neck body legs feet hands arms about waist wrist,,,20hp,,,,,,curs    !LOCATE_OBJ,4,,,,,,"","",,,18,30000,300
 "a brown ermine-lined robe",armor,20,spec,neck,warr rogue,,40hp 2wis 2dex,,,,,,,9,,,,,,"King Arthur","Camelot",,,4,35053,6006
-"the English King's Crown",armor,20,spec,head,,,1dam 2int sonar,,5d-divn,,,a-e,,8,,,,,,"King Arthur","Sylvan Jungle",,,7,60105,9009
-"a runic ring",key,0,spec,finger hold,,,,,,,,,no-rent,,,,,,,"Queen Guinevere","Sylvan Jungle",,,0,5000,1000
-"a golden circlet",armor,20,spec,head,cl dr,,25ma 1dex,,,3h-bonus,,a-e,,3,,,,,,"Queen Guinevere","Sylvan Jungle",,,2,47250,9450
-"a green ermine-lined robe",armor,25,spec,neck,priest wizd,,20hp 20ma beneficence,,5d-spell,,,a-e,,3,,,,,,"Queen Guinevere","Sylvan Jungle",,,3,57075,7117
-"a small jewelled dagger",weapon,0,spec,wield hold,,,5mv-gain,15r-elec,2spell-crit-pct,,,,hold-w,,8,4D3,pierce (pierce),,,"Queen Guinevere","Sylvan Jungle",,,3,20000,4000
-"a gold poesy ring",armor,0,spec,finger,,,,25r-sumn,,,,,curs,1,,,,,,"An older knight","Sylvan Jungle",,,1,5000,1000
-"a pair of blue hosier",armor,0,spec,legs,,,,,,,,,,7,,,,,,"An older knight","Sylvan Jungle",,,3,4450,890
+"the English King's Crown",armor,20,spec,head,,,1dam 2int sonar,,5d-divn,,,a-e,,8,,,,,,"King Arthur","Camelot",,,7,60105,9009
+"a runic ring",key,0,spec,finger hold,,,,,,,,,no-rent,,,,,,,"Queen Guinevere","Camelot",,,0,5000,1000
+"a golden circlet",armor,20,spec,head,cl dr,,25ma 1dex,,,3h-bonus,,a-e,,3,,,,,,"Queen Guinevere","Camelot",,,2,47250,9450
+"a green ermine-lined robe",armor,25,spec,neck,priest wizd,,20hp 20ma beneficence,,5d-spell,,,a-e,,3,,,,,,"Queen Guinevere","Camelot",,,3,57075,7117
+"a small jewelled dagger",weapon,0,spec,wield hold,,,5mv-gain,15r-elec,2spell-crit-pct,,,,hold-w,,8,4D3,pierce (pierce),,,"Queen Guinevere","Camelot",,,3,20000,4000
+"a gold poesy ring",armor,0,spec,finger,,,,25r-sumn,,,,,curs,1,,,,,,"An older knight","Camelot",,,1,5000,1000
+"a pair of blue hosier",armor,0,spec,legs,,,,,,,,,,7,,,,,,"An older knight","Camelot",,,3,4450,890
 "a pair of soft leather boots",armor,0,spec,feet,,,,,,,,,,8,,,,,,"The fuller","Bonne Terre",,,4,8350,1670
-"a pair of blue gloves",armor,0,spec,hands,,,,,,,,,,5,,,,,,"An older knight","Sylvan Jungle",,,2,2505,501
-"a blue tunic",armor,0,spec,about,,,,,,,,,,9,,,,,,"An older knight","Sylvan Jungle",,,3,2600,520
-"a noble knight's sword",weapon,10,spec,wield,,,2dam 2hit,,,,,,0slot,,15,5D5,slash (slash),,,"An older knight","Sylvan Jungle",,,13,47500,9500
+"a pair of blue gloves",armor,0,spec,hands,,,,,,,,,,5,,,,,,"An older knight","Camelot",,,2,2505,501
+"a blue tunic",armor,0,spec,about,,,,,,,,,,9,,,,,,"An older knight","Camelot",,,3,2600,520
+"a noble knight's sword",weapon,10,spec,wield,,,2dam 2hit,,,,,,0slot,,15,5D5,slash (slash),,,"An older knight","Camelot",,,13,47500,9500
 "a tiny vial of quickling blood",enchnt-mat,0,spec,,,,7mv,,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a tiny vial of arcanaloth blood",enchnt-mat,0,spec,,,,7ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a small vial of arcanaloth blood",enchnt-mat,0,spec,,,,9ma,,,,,,,,,,,,1sock,random,random,,,1,3,2000
@@ -960,9 +960,9 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "enchanted lightning talisman",other,0,spec,hold,mo,,1dam -1con sonar,,3d-elec,,f-g,a-e,,,,,,4sock,,random,random,,,4,15,2500
 "enchanted officer's cutlass",weapon,0,spec,wield,th ra,,-1dam 5hp-gain,,,,,,,,6,1D11,cut (slash),4sock(1-d1 1-d2 1prof),,random,random,,,20,15,2000
 "a pouch of fire crystals",enchnt-mat,0,spec,,,,,30r-fire,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"a devotion potion",potion,0,spec,,,,lvl40(champions strength/haste/elemental aura),,,,,,break,,,,,,,"","",,,0,2400,600
-"a restoration restorative",potion,0,spec,,,,lvl40(heal critic/heal critic/heal critic),,,,,,break,,,,,,,"","",,,0,2400,600
-"a troth tonic",potion,0,spec,,,,lvl40(vitalize mana/vigorize critical/greater electricity resistance),,,,,,break,,,,,,,"","",,,0,2400,600
+"a devotion potion",potion,0,spec,,,,lvl40(champions strength/haste/elemental aura),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
+"a restoration restorative",potion,0,spec,,,,lvl40(heal critic/heal critic/heal critic),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
+"a troth tonic",potion,0,spec,,,,lvl40(vitalize mana/vigorize critical/greater electricity resistance),,,,,,break,,,,,,,"","Aurvuron Citadel",,,0,2400,600
 "an astral skirt of virtue",armor,0,spec,,cl mo dr,,10ma 20mv awalk,-15r-shdw,,,f-g,a-e,,25,,,,,,"","",,,11,43000,12000
 "an astral brassart",armor,20,sm,arms,cl mo,,20hp 20ma 20age second_sight,,,,,,,22,,,,,,"","",,,9,51000,16850
 "superior enchanted white dragon claws",weapon,0,spec,wield,mo,,-1dam,,5d-elec,,,,,,6,4D2,slash (fist),5sock(1-d1 1-d2 1prof),,random,random,,,22,45,3000
@@ -970,8 +970,8 @@ NAME,type,ML,SIZE,SLOT,CLASS,race,MAIN STATS,RESISTS,DAMAGES,MISC AFFECTS,ALIGN 
 "a brown tunic",armor,0,spec,about,,,,,,,,,,6,,,,,,"A squire","Midgaard",,,3,1480,296
 "an unused sword",weapon,0,spec,wield hold,,,1dam 1hit,,,,,,hold-w,,5,2D4,slash (slash),,,"A squire","Midgaard",,,13,2170,434
 "A giant's femur",enchnt-mat,0,spec,,,,1str,,,,,,,,,,,,1sock,random,random,,,1,3,2000
-"A pair of silver and gold leg plates",armor,15,spec,legs,,,2dam 10hp 10ma,,,,,,,14,,,,,,"","",,,11,192500,4000
-"a red and yellow plated shield",armor,15,lrg,shield,warr rogue,,2dam 10hp -1con,,,,,,,14,,,,,,"","",,,9,38000,3100
+"A pair of silver and gold leg plates",armor,15,spec,legs,,,2dam 10hp 10ma,,,,,,,14,,,,,,"King","Caves of Fire",,,11,192500,4000
+"a red and yellow plated shield",armor,15,lrg,shield,warr rogue,,2dam 10hp -1con,,,,,,,14,,,,,,"","Caves of Fire",,,9,38000,3100
 "a supreme potion of frost resistance",potion,0,spec,hold,,,lvl40(greater cold resistance),,,,,,,,,,,,,"","",,,1,50000,1000
 "a cloudy green beryl",enchnt-mat,0,spec,,,,,,1melee-crit-dam,,,,,,,,,,1sock,random,random,,,1,3,2000
 "a weak demonic artifact",enchnt-mat,0,spec,,,,,,2d-shdw,,,,,,,,,,1sock,random,random,,,1,3,2000

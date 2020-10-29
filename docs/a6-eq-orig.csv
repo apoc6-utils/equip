@@ -6659,7 +6659,7 @@ Can affect you as:
    MOVE_GAIN By 3
 Modifies the following proficiencies:
    +40 to teleport minor"
-"a hill giant's girdle",OTHER,WAIST,NONE,NONE,leather,large,8,35000,5500,0,NONE,UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL -1DEX 1STR,,,"A hill giant","Sylvan Jungle","Object 'a hill giant's girdle', Item type: OTHER
+"a hill giant's girdle",OTHER,WAIST,NONE,NONE,leather,large,8,35000,5500,0,NONE,UNBREAKABLE,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL -1DEX 1STR,,,"A hill giant","Blightland","Object 'a hill giant's girdle', Item type: OTHER
 Can be worn on: TAKE WAIST 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -11157,7 +11157,7 @@ Size: special
 Weight: 1, Value: 28000, Rent: 3000, Min Level: 0
 Item will give you following abilities:  NONE 
 Item is: NONE "
-"Excalibur",WEAPON,WIELD,NONE,NONE,adamantite,normal,23,240085,48017,30,DETECT_ALIGN PROTECTION_EVIL,MAGIC ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED !DISARM !IDENTIFY MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,6D6,21.0,slash attack,1ATK_/_2_ROUNDS 3HITROLL,,,"King Arthur","Sylvan Jungle","Object 'Excalibur', Item type: WEAPON
+"Excalibur",WEAPON,WIELD,NONE,NONE,adamantite,normal,23,240085,48017,30,DETECT_ALIGN PROTECTION_EVIL,MAGIC ANTI_EVIL UNIQUE UNBREAKABLE GOOD_FLAGGED !DISARM !IDENTIFY MAIN_HAND_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,6D6,21.0,slash attack,1ATK_/_2_ROUNDS 3HITROLL,,,"King Arthur","Camelot","Object 'Excalibur', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12583,7 +12583,7 @@ Can affect you as:
    DEX By 2
    WIS By 2
    MAXHIT By 40"
-"the English King's Crown",ARMOR,HEAD,NONE,NONE,platinum,special,7,60105,9009,20,BAT_SONAR,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 5DIVN_DMG 2INT,,,"King Arthur","Sylvan Jungle","Object 'the English King's Crown', Item type: ARMOR
+"the English King's Crown",ARMOR,HEAD,NONE,NONE,platinum,special,7,60105,9009,20,BAT_SONAR,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,8,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DAMROLL 5DIVN_DMG 2INT,,,"King Arthur","Camelot","Object 'the English King's Crown', Item type: ARMOR
 Can be worn on: TAKE HEAD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12599,7 +12599,7 @@ Can affect you as:
    DAMROLL By 1
    INT By 2
    DIVN_DMG By 5"
-"a runic ring",KEY,FINGER HOLD,NONE,NONE,gold,special,0,5000,1000,0,NONE,!RENT UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,,,,"Queen Guinevere","Sylvan Jungle","Object 'a runic ring', Item type: KEY
+"a runic ring",KEY,FINGER HOLD,NONE,NONE,gold,special,0,5000,1000,0,NONE,!RENT UNBREAKABLE,,,,,,,,,,,,,,,,,,,,,,,,,"Queen Guinevere","Camelot","Object 'a runic ring', Item type: KEY
 Can be worn on: TAKE FINGER HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12608,7 +12608,7 @@ Size: special
 Weight: 0, Value: 5000, Rent: 1000, Min Level: 0
 Item will give you following abilities:  NONE 
 Item is: !RENT UNBREAKABLE "
-"a golden circlet",ARMOR,HEAD,CLERIC DRUID,NONE,gold,special,2,47250,9450,20,NONE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DEX 3HEAL_BONUS 25MAXMANA,,,"Queen Guinevere","Sylvan Jungle","Object 'a golden circlet', Item type: ARMOR
+"a golden circlet",ARMOR,HEAD,CLERIC DRUID,NONE,gold,special,2,47250,9450,20,NONE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,1DEX 3HEAL_BONUS 25MAXMANA,,,"Queen Guinevere","Camelot","Object 'a golden circlet', Item type: ARMOR
 Can be worn on: TAKE HEAD 
 Class restrictions: CLERIC DRUID 
 Race restrictions: NONE 
@@ -12624,7 +12624,7 @@ Can affect you as:
    DEX By 1
    MAXMANA By 25
    HEAL_BONUS By 3"
-"a green ermine-lined robe",ARMOR,NECK,PRIEST WIZARD,NONE,leather,special,3,57075,7117,25,BENEFICENCE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,20MAXHIT 20MAXMANA 5SPELL_DMG,,,"Queen Guinevere","Sylvan Jungle","Object 'a green ermine-lined robe', Item type: ARMOR
+"a green ermine-lined robe",ARMOR,NECK,PRIEST WIZARD,NONE,leather,special,3,57075,7117,25,BENEFICENCE,ANTI_EVIL UNIQUE UNBREAKABLE,,,,,3,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,20MAXHIT 20MAXMANA 5SPELL_DMG,,,"Queen Guinevere","Camelot","Object 'a green ermine-lined robe', Item type: ARMOR
 Can be worn on: TAKE NECK 
 Class restrictions: PRIEST WIZARD 
 Race restrictions: NONE 
@@ -12640,7 +12640,7 @@ Can affect you as:
    MAXMANA By 20
    MAXHIT By 20
    SPELL_DMG By 5"
-"a small jewelled dagger",WEAPON,WIELD HOLD,NONE,NONE,steel,special,3,20000,4000,0,NONE,UNIQUE UNBREAKABLE HOLDABLE_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,4D3,8.0,pierce attack,5MOVE_GAIN 15RESIST_ELEC 2SPELL_CRIT_PCT,,,"Queen Guinevere","Sylvan Jungle","Object 'a small jewelled dagger', Item type: WEAPON
+"a small jewelled dagger",WEAPON,WIELD HOLD,NONE,NONE,steel,special,3,20000,4000,0,NONE,UNIQUE UNBREAKABLE HOLDABLE_WPN,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,pierce,4D3,8.0,pierce attack,5MOVE_GAIN 15RESIST_ELEC 2SPELL_CRIT_PCT,,,"Queen Guinevere","Camelot","Object 'a small jewelled dagger', Item type: WEAPON
 Can be worn on: TAKE WIELD HOLD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12657,7 +12657,7 @@ Can affect you as:
    MOVE_GAIN By 5
    SPELL_CRIT_PCT By 2
    RESIST_ELEC By 15"
-"a gold poesy ring",ARMOR,FINGER,NONE,NONE,gold,special,1,5000,1000,0,NONE,CURSED UNIQUE UNBREAKABLE,,,,,1,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_SUMN,,,"An older knight","Sylvan Jungle","Object 'a gold poesy ring', Item type: ARMOR
+"a gold poesy ring",ARMOR,FINGER,NONE,NONE,gold,special,1,5000,1000,0,NONE,CURSED UNIQUE UNBREAKABLE,,,,,1,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,25RESIST_SUMN,,,"An older knight","Camelot","Object 'a gold poesy ring', Item type: ARMOR
 Can be worn on: TAKE FINGER 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12671,7 +12671,7 @@ Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING
 Can affect you as:
    RESIST_SUMN By 25"
-"a pair of blue hosier",ARMOR,LEGS,NONE,NONE,silk,special,3,4450,890,0,NONE,UNIQUE UNBREAKABLE,,,,,7,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"An older knight","Sylvan Jungle","Object 'a pair of blue hosier', Item type: ARMOR
+"a pair of blue hosier",ARMOR,LEGS,NONE,NONE,silk,special,3,4450,890,0,NONE,UNIQUE UNBREAKABLE,,,,,7,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"An older knight","Camelot","Object 'a pair of blue hosier', Item type: ARMOR
 Can be worn on: TAKE LEGS 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12695,7 +12695,7 @@ Item is: UNIQUE UNBREAKABLE
 AP-apply is 8
 Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING"
-"a pair of blue gloves",ARMOR,HANDS,NONE,NONE,leather,special,2,2505,501,0,NONE,UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"An older knight","Sylvan Jungle","Object 'a pair of blue gloves', Item type: ARMOR
+"a pair of blue gloves",ARMOR,HANDS,NONE,NONE,leather,special,2,2505,501,0,NONE,UNIQUE UNBREAKABLE,,,,,5,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"An older knight","Camelot","Object 'a pair of blue gloves', Item type: ARMOR
 Can be worn on: TAKE HANDS 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12707,7 +12707,7 @@ Item is: UNIQUE UNBREAKABLE
 AP-apply is 5
 Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING"
-"a blue tunic",ARMOR,ABOUT,NONE,NONE,cotton,special,3,2600,520,0,NONE,UNIQUE UNBREAKABLE,,,,,9,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"An older knight","Sylvan Jungle","Object 'a blue tunic', Item type: ARMOR
+"a blue tunic",ARMOR,ABOUT,NONE,NONE,cotton,special,3,2600,520,0,NONE,UNIQUE UNBREAKABLE,,,,,9,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,,,,"An older knight","Camelot","Object 'a blue tunic', Item type: ARMOR
 Can be worn on: TAKE ABOUT 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -12719,7 +12719,7 @@ Item is: UNIQUE UNBREAKABLE
 AP-apply is 9
 Customizations: UNCUSTOMIZABLE
 Bindings: NON-BINDING"
-"a noble knight's sword",WEAPON,WIELD,NONE,NONE,steel,special,13,47500,9500,10,NONE,UNIQUE UNBREAKABLE MAIN_HAND_WPN REMV_RENT_SLOT,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,5D5,15.0,slash attack,2DAMROLL 2HITROLL,,,"An older knight","Sylvan Jungle","Object 'a noble knight's sword', Item type: WEAPON
+"a noble knight's sword",WEAPON,WIELD,NONE,NONE,steel,special,13,47500,9500,10,NONE,UNIQUE UNBREAKABLE MAIN_HAND_WPN REMV_RENT_SLOT,,,,,,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,slash,5D5,15.0,slash attack,2DAMROLL 2HITROLL,,,"An older knight","Camelot","Object 'a noble knight's sword', Item type: WEAPON
 Can be worn on: TAKE WIELD 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13631,7 +13631,7 @@ Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant.
 Contains the following affect powers upon enchanting:
    RESIST_FIRE By 30"
-"a devotion potion",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(champions strength/haste/elemental aura),"","","Object 'a devotion potion', Item type: POTION
+"a devotion potion",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(champions strength/haste/elemental aura),"","Aurvuron Citadel","Object 'a devotion potion', Item type: POTION
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13644,7 +13644,7 @@ Casts the following spells at level 40:
    champions strength
    haste
    elemental aura"
-"a restoration restorative",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(heal critic/heal critic/heal critic),"","","Object 'a restoration restorative', Item type: POTION
+"a restoration restorative",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(heal critic/heal critic/heal critic),"","Aurvuron Citadel","Object 'a restoration restorative', Item type: POTION
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13657,7 +13657,7 @@ Casts the following spells at level 40:
    heal critic
    heal critic
    heal critic"
-"a troth tonic",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(vitalize mana/vigorize critical/greater electricity resistance),"","","Object 'a troth tonic', Item type: POTION
+"a troth tonic",POTION,,NONE,NONE,glass,special,0,2400,600,0,NONE,NONE,,,,,,,,,,,,,,,,,,,,,,,,lvl(vitalize mana/vigorize critical/greater electricity resistance),"","Aurvuron Citadel","Object 'a troth tonic', Item type: POTION
 Can be worn on: TAKE 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13775,7 +13775,7 @@ Adds 0 to Damage Dice 1, Adds 0 to Damage Dice 2.
 Occupies 1 Sockets Upon Enchant.
 Contains the following affect powers upon enchanting:
    STR By 1"
-"A pair of silver and gold leg plates",ARMOR,LEGS,NONE,NONE,elven steel,special,11,192500,4000,15,NONE,UNIQUE UNBREAKABLE,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 10MAXHIT 10MAXMANA,,,"","","Object 'A pair of silver and gold leg plates', Item type: ARMOR
+"A pair of silver and gold leg plates",ARMOR,LEGS,NONE,NONE,elven steel,special,11,192500,4000,15,NONE,UNIQUE UNBREAKABLE,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,2DAMROLL 10MAXHIT 10MAXMANA,,,"King","Caves of Fire","Object 'A pair of silver and gold leg plates', Item type: ARMOR
 Can be worn on: TAKE LEGS 
 Class restrictions: NONE 
 Race restrictions: NONE 
@@ -13791,7 +13791,7 @@ Can affect you as:
    DAMROLL By 2
    MAXMANA By 10
    MAXHIT By 10"
-"a red and yellow plated shield",ARMOR,SHIELD,WARRIOR ROGUE,NONE,steel,large,9,38000,3100,15,NONE,UNIQUE UNBREAKABLE,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-1CON 2DAMROLL 10MAXHIT,,,"","","Object 'a red and yellow plated shield', Item type: ARMOR
+"a red and yellow plated shield",ARMOR,SHIELD,WARRIOR ROGUE,NONE,steel,large,9,38000,3100,15,NONE,UNIQUE UNBREAKABLE,,,,,14,UNCUSTOMIZABLE,NON-BINDING,,,,,,,,,,,,,,,-1CON 2DAMROLL 10MAXHIT,,,"","Caves of Fire","Object 'a red and yellow plated shield', Item type: ARMOR
 Can be worn on: TAKE SHIELD 
 Class restrictions: WARRIOR ROGUE 
 Race restrictions: NONE 
